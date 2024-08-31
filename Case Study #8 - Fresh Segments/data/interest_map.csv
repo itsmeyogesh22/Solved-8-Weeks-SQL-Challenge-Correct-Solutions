@@ -1,0 +1,1210 @@
+id,interest_name,interest_summary,created_at,last_modified
+1,Fitness Enthusiasts,Consumers using fitness tracking apps and websites.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+2,Gamers,Consumers researching game reviews and cheat codes.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+3,Car Enthusiasts,Readers of automotive news and car reviews.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+4,Luxury Retail Researchers,Consumers researching luxury product reviews and gift ideas.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+5,Brides & Wedding Planners,People researching wedding ideas and vendors.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+6,Vacation Planners,Consumers reading reviews of vacation destinations and accommodations.,2016-05-26 14:57:59.000,2018-05-23 11:30:13.000
+7,Motorcycle Enthusiasts,Readers of motorcycle news and reviews.,2016-05-26 14:57:59.000,2018-05-23 11:30:13.000
+8,Business News Readers,Readers of online business news content.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+12,Thrift Store Shoppers,Consumers shopping online for clothing at thrift stores and researching locations.,2016-05-26 14:57:59.000,2018-03-16 13:14:00.000
+13,Advertising Professionals,People who read advertising industry news.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+14,NFL Fans,People reading articles and websites about football and the NFL.,2016-05-26 14:57:59.000,2018-05-23 11:30:13.000
+15,NBA Fans,People reading articles and websites about basketball and the NBA.,2016-05-26 14:57:59.000,2018-05-23 11:30:13.000
+16,NCAA Fans,People reading articles and websites about college sports and the NCAA.,2016-05-26 14:57:59.000,2018-05-23 11:30:13.000
+17,MLB Fans,People reading articles and websites about baseball and the MLB.,2016-05-26 14:57:59.000,2018-05-23 11:30:13.000
+18,Nascar Fans,People reading articles and websites about nascar.,2016-05-26 14:57:59.000,2018-05-23 11:30:13.000
+19,Eco-Conscious Consumers,People researching climate change and sustainable living.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+20,Moviegoers,Consumers researching box office listings and buying movie tickets.,2016-05-26 14:57:59.000,2018-05-23 11:30:13.000
+21,DIYers,Consumers researching DIY projects.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+22,Grill Masters,Grill owners researching new recipes.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+23,Techies,Readers of tech news and gadget reviews.,2016-05-26 14:57:59.000,2018-05-23 11:30:13.000
+24,Home Design Enthusiasts,Consumers researching home design styles and trends.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+25,Doctors,People reading medical journals and using online prescribing services.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+26,Streaming Video Fans,Consumers streaming feature length movies and TV shows.,2016-05-26 14:57:59.000,2018-05-23 11:30:13.000
+27,Auto Insurance Shoppers,Consumers shopping for auto insurance.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+28,Teachers,People reading education industry publications and teaching advice websites.,2016-05-26 14:57:59.000,2018-05-23 11:30:13.000
+29,College Students,People visiting university websites.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+30,Department Store Shoppers,Consumes shopping at multi-category department stores.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+31,Home Decor Shoppers,"Consumers shopping for home design, art and accessories.",2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+33,Kids Clothing Shoppers,Consumers shopping for children's apparel.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+34,Teen Girl Clothing Shoppers,Consumers in-market for clothing for teenage girls.,2016-05-26 14:57:59.000,2018-05-23 11:30:13.000
+35,Men's Clothing Shoppers,Consumers in-market for mens clothing.,2016-05-26 14:57:59.000,2018-05-23 11:30:13.000
+36,Baby Products Buyers,Consumers shopping for baby-related products.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+37,Jewelry & Watch Shoppers,Consumers researching high-end watch and jewelry brands.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+38,Sporting Goods Shoppers,Consumers shopping for sporting goods and activewear apparel.,2016-05-26 14:57:59.000,2018-05-23 11:30:13.000
+39,Furniture Shoppers,Consumers shopping for major home furnishings.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+40,Bed & Bath Shoppers,Consumers shopping for bed and bath products.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+41,Intimates Shoppers,Consumers shopping for lingerie.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+42,Fast Fashion Shoppers,Consumers shopping for apparel that mimics current runway trends.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+43,Apartment Hunters,People reading real estate rental listings.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+44,Home Buyers,People reading real estate sales listings.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+45,Moving Services Shoppers,Consumers who are shopping for moving services.,2016-05-26 14:57:59.000,2018-05-23 11:30:13.000
+46,Job Seekers,People researching job boards.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+48,Charitable Donors,People researching major charitable organizations.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+49,NHL Fans,People reading articles and websites about hockey and the NHL.,2016-05-26 14:57:59.000,2018-05-23 11:30:13.000
+50,Discount Big Box Shoppers,Consumers shopping at big box retailers.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+51,Black Friday Deal Shoppers,Consumers researching holiday sales events.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+53,Hip Hop Fans,People reading about hip hop music and hip hop stars.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+54,Online Investors,Consumers with an active online trading account.,2016-05-26 14:57:59.000,2018-05-23 11:30:13.000
+55,Seasonal Allergy Sufferers,People researching allergy trends and treatment options.,2016-05-26 14:57:59.000,2018-05-23 11:30:13.000
+56,Discount Device Shoppers,Consumers shopping for discounted electronics.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+57,Mobile Phone Comparison Shoppers,Consumers researching alternative mobile phones and wireless plans.,2016-05-26 14:57:59.000,2018-05-23 11:30:13.000
+58,Budget Wireless Shoppers,Consumers researching discount wireless service plans.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+59,Menopause Researchers,People researching menopause symptoms.,2016-05-26 14:57:59.000,2018-05-23 11:30:13.000
+60,Online Health Researchers,People researching general health questions.,2016-05-26 14:57:59.000,2018-05-23 11:30:13.000
+61,Beauty & Skincare Buyers,Consumers shopping for beauty and skincare products.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+62,Streaming Device Shoppers,Consumers shopping for connected TV products.,2016-05-26 14:57:59.000,2018-05-23 11:30:13.000
+63,New & Expecting Parents,People researching pregnancy issues and baby names.,2016-05-26 14:57:59.000,2018-05-23 11:30:13.000
+64,High-End Kids Furniture and Clothes Shoppers,People shopping at high end children's clothing and toy retailers.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+65,Hands-On Parents,"People reading about family cooking, parenting advice and children's activities.",2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+66,Fantasy & Comic Fans,Consumers of online comics and fantasy novels.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+67,Lawyers,People reading legal journals and industry publications.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+69,Healthy Eaters,People researching healthy eating options.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+70,Drug Store Shoppers,Consumers shopping online or searching for a local drug store.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+71,Lawn & Garden Enthusiasts,Consumers reseraching lawn and garden maintenance techniques.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+72,Nurses,People reading websites about nursing lifestyle and career advice.,2016-05-26 14:57:59.000,2018-05-23 11:30:13.000
+73,Mailing & Shipping Shoppers,Consumers shopping for shipping supplies and postage.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+74,Office Supply Shoppers,Individuals in-market for office supplies.,2016-05-26 14:57:59.000,2018-05-23 11:30:13.000
+75,Ink & Toner Shoppers,Consumers shopping for printer ink.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+77,Luxury Retail Shoppers,Consumers shopping for high end fashion apparel and accessories.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+78,Contractors & Construction Professionals,People reading contractor trade publications.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+79,Luxury Travel Researchers,Consumers reading online reviews of luxury travel options.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+80,Democrats,People reading Democratic party advocacy websites.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+81,Republicans,People reading Republican party advocacy websites.,2016-05-26 14:57:59.000,2018-05-23 11:30:13.000
+82,HDTV Researchers,Consumers shopping for a new TV.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+83,Hardware Shoppers,Consumers shopping at hardware and home supply stores.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+84,Reggaeton Fans,People reading about reggaeton music and culture.,2016-05-26 14:57:59.000,2018-05-23 11:30:13.000
+85,Online Movie Downloaders,Consumers downloading feature length movies and TV shows.,2016-05-26 14:57:59.000,2018-05-23 11:30:13.000
+86,Sale Seekers,Consumers researching sales events and special offers.,2016-05-26 14:57:59.000,2018-05-23 11:30:13.000
+87,Theme Park Researchers,Consumers reading online reviews of theme parks and accommodations.,2016-05-26 14:57:59.000,2018-05-23 11:30:13.000
+88,Ski and Snowboard Enthusiasts,Consumers reading reviews of ski resorts and snow reports.,2016-05-26 14:57:59.000,2019-01-16 09:11:30.000
+89,Travel Researchers,Consumers reading reviews of travel destinations.,2016-05-26 14:57:59.000,2018-05-23 11:30:13.000
+90,Coupon Researchers,Consumers researching sales and discount codes.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+91,Parents with Toddlers,People shopping for infant and toddler supplies.,2016-05-26 14:57:59.000,2018-05-23 11:30:13.000
+92,Parents with Kids,People reading about activities for young children.,2016-05-26 14:57:59.000,2018-05-23 11:30:13.000
+93,Young Boomers,People researching sending children to college.,2016-05-26 14:57:59.000,2018-05-23 11:30:13.000
+94,Day Care Users,People researching daycare options.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+95,Stay-at-Home Parents,People reading about child raising advice and activities.,2016-05-26 14:57:59.000,2018-05-23 11:30:13.000
+96,Exercise and Gym Researchers,People researching gyms and health clubs.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+97,Home Kitchen Chefs,Consumers researching recipes.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+98,Restaurant Researchers,Consumers researching local restaurant reviews.,2016-05-26 14:57:59.000,2018-05-23 11:30:13.000
+99,Order-in Eaters,Consumers who order food delivery.,2016-05-26 14:57:59.000,2018-05-23 11:30:13.000
+100,Nutrition Conscious Eaters,Consumer reading about healthy eating options.,2016-05-26 14:57:59.000,2018-05-23 11:30:13.000
+101,Flower & Gift Basket Shoppers,Consumers shopping for flowers and gift baskets.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+102,Plus Size Women,Consumers shopping for plus size women's apparel.,2016-05-26 14:57:59.000,2018-05-23 11:30:13.000
+103,Live Concert Fans,Consumers researching live concerts and music festivals.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+104,Country Music Fans,People reading about country music and country music stars.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+106,Comedy Fans,Consumers of online comedy videos and articles.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+107,Cruise Travel Intenders,Consumers visiting cruise comparison and planning sites.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+108,Pain Medication Users,People researching pain medication options.,2016-05-26 14:57:59.000,2018-05-23 11:30:13.000
+109,Joint Pain Sufferers,People researching joint pain treatment options.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+110,Pain Management Researchers,People researching chronic pain treatment options.,2016-05-26 14:57:59.000,2018-05-23 11:30:13.000
+111,Retirement Planners,People researching retirement living options.,2016-05-26 14:57:59.000,2018-05-23 11:30:13.000
+112,Auto Repair Researchers,Drivers researching how to maintain their cars.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+113,Avid Readers,Readers researching books and long form journalism.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+114,Women's Fashion Magazine Readers,Consumers researching trending women's apparel.,2016-05-26 14:57:59.000,2018-05-23 11:30:13.000
+115,Men's Shoe Shoppers,Consumers in-market for mens shoes.,2016-05-26 14:57:59.000,2018-05-23 11:30:13.000
+116,Home Security Shoppers,Consumers shopping for a home security system.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+117,Boxing Fans,People reading articles and websites about the sport of boxing.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+118,Sleep Disorder Researchers,People researching sleep loss disorders and treatment options.,2016-05-26 14:57:59.000,2018-05-23 11:30:13.000
+119,Mortgage Researchers,People comparing mortgage offers.,2016-05-26 14:57:59.000,2018-05-23 11:30:13.000
+121,Coders & Developers,People reading about software development techniques and products.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+123,Military Servicemembers & Veterans,People visiting websites about military benefits.,2016-05-26 14:57:59.000,2018-05-23 11:30:13.000
+124,Healthcare Discount Shoppers,Consumers researching discounted and tax-free drug offers.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+125,Postal Employees,People buying postal employee uniforms and equipment,2016-05-26 14:57:59.000,2016-10-28 15:50:51.000
+126,Soccer Fans,People who love visiting websites and reading about soccer.,2016-05-26 14:57:59.000,2018-05-23 11:30:13.000
+128,Kitchen & Bathroom Remodelers,Consumers researching kitchen and bath design.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+129,Aftermarket Accessories Shoppers,Consumers shopping for car maintenance products.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+130,Automotive Safety Researchers,Consumers researching car safety ratings.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+131,Android Fans,Readers of Android news and product reviews.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+132,Apple Fans,Readers of Apple news and product reviews.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+133,High End Camera Shoppers - Dupe,Consumers shopping for high end cameras and camera accessories.,2016-05-26 14:57:59.000,2018-08-22 18:16:37.000
+134,Home Printer Shoppers,Consumers shopping for a printer.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+135,Major Appliance Shoppers,Consumers shopping for major home appliances.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+136,Tablet Researchers,Consumers reading reviews and comparing tablet devices.,2016-05-26 14:57:59.000,2018-05-23 16:19:11.000
+137,Online Alcohol Shoppers,Consumers shopping for wine and liquor online.,2016-05-26 14:57:59.000,2018-05-23 11:30:13.000
+138,Home Kitchen Bakers,Consumers researching home baking recipes.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+139,Makeup Researchers,People reading about new beauty products.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+140,Pet Owners,People shopping for pet food and researching pet wellness.,2016-05-26 14:57:59.000,2018-05-23 11:30:13.000
+141,Skin Care Researchers,People reading about skin care techniques.,2016-05-26 14:57:59.000,2018-05-23 11:30:13.000
+142,Credit Card Researchers,Consumers comparing credit card offers.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+143,Health Insurance Researchers,Consumers researching healthcare options.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+145,Property Insurance Researchers,Consumers researching property and homeowner insurance options.,2016-05-26 14:57:59.000,2018-05-23 11:30:13.000
+146,Audio Equipment Researchers,Consumers reading reviews of high end stereo equipment.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+147,Broadway Fans,People researching Broadway show reviews and shopping for tickets.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+148,Celebrity Gossip Fans,Readers of online celebrity gossip websites.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+149,Streaming Radio Listeners,Consumers listening to online streaming music services.,2016-05-26 14:57:59.000,2018-05-23 11:30:13.000
+150,TV Junkies,Consumers researching TV listings.,2016-05-26 14:57:59.000,2018-05-23 11:30:13.000
+151,Big & Tall Men,Consumers shopping for big and tall men's apparel.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+153,Phone Accessory Shoppers,Consumers in-market for phone accessories.,2016-05-26 14:57:59.000,2018-05-23 11:30:13.000
+154,Prepaid Smartphone Shoppers,Consumers in-market for a prepaid smartphone.,2016-05-26 14:57:59.000,2018-05-23 11:30:13.000
+155,Business Travelers,Users of business travel planning and expense reimbursement tools.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+157,Car Rental Shoppers,Consumers making online rental car bookings.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+158,Flight and Hotel Shoppers,Consumers using online airfare comparison tools.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+160,Sightseeing Travelers,Consumers reading online reviews of local attractions and tours.,2016-05-26 14:57:59.000,2018-05-23 11:30:13.000
+161,Travel Reward Points Enthusiasts,Consumers comparing travel rewards programs.,2016-05-26 14:57:59.000,2018-05-23 11:30:13.000
+162,Retirees,People using online retirement discount and health benefits services.,2016-05-26 14:57:59.000,2018-05-23 11:30:13.000
+163,Federal Employees,People visiting government employee benefits websites.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+164,Conservative News Readers,People reading right-leaning financial news websites.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+165,Liberal News Readers,People reading left-leaning financial news websites.,2016-05-26 14:57:59.000,2018-05-23 11:30:12.000
+166,Doves,People reading anti-war publications,2016-05-26 14:57:59.000,2017-10-20 11:11:02.000
+168,Social Conservatives,People reading right-leaning social issues websites.,2016-05-26 14:57:59.000,2018-05-23 11:30:13.000
+169,Social Liberals,People reading left-leaning social issues websites.,2016-05-26 14:57:59.000,2018-05-23 11:30:13.000
+170,Voters,People researching voter registration options.,2016-05-26 14:57:59.000,2018-05-23 11:30:13.000
+171,Shoe Shoppers,Consumers shopping for mass market shoes.,2016-05-26 14:57:59.000,2018-05-23 11:30:13.000
+4847,Readers of Hispanic Content,People reading news from Hispanic media sources.,2016-06-09 16:28:11.000,2018-05-23 16:19:11.000
+4848,Working Parents,People with young children researching daycare options.,2016-06-09 16:28:11.000,2017-12-27 12:31:08.000
+4852,Health & Fitness,,2016-06-09 16:28:11.000,2017-03-28 11:55:09.000
+4855,Entertainment & Tabloid Magazine Readers,Avid readers of online content about the entertainment industry.,2016-06-09 16:28:11.000,2017-12-07 12:35:47.000
+4857,Business Accounting Software Researchers,Professionals researching accounting software products.,2016-06-09 16:28:11.000,2018-05-23 11:30:12.000
+4858,Business Filing Researchers,Professionals researching products and services to file a business.,2016-06-09 16:28:11.000,2018-05-23 11:30:12.000
+4859,Business Logistics Managers,Professionals responsible for day-to-day business logistics.,2016-06-09 16:28:11.000,2018-05-23 11:30:12.000
+4861,IT Decision Makers,Professionals researching and comparing IT solutions.,2016-06-09 16:28:11.000,2018-05-23 11:30:12.000
+4866,Small Business Employees,,2016-06-09 16:28:11.000,2018-02-27 14:07:23.000
+4867,Sweepstakes Enthusiasts,Consumers visiting sweepstakes sites.,2016-06-09 16:28:11.000,2018-05-23 11:30:13.000
+4869,Women's Fitness Enthusiasts,Consumers researching health and fitness trends and techniques for women.,2016-06-09 16:28:11.000,2018-05-23 11:30:13.000
+4870,Tech-Savvy Moms,People reading tech sites geared to mothers.,2016-06-09 16:28:11.000,2018-05-23 11:30:13.000
+4872,Readers of Mexican Content,People reading news from Mexican media sources.,2016-06-09 16:28:11.000,2018-12-07 11:59:17.000
+4873,TV Game Show Fans,People searching for and watching TV game shows online.,2016-06-09 16:28:11.000,2018-05-23 16:19:11.000
+4894,Credit Union Researchers,People researching and comparing credit unions for their financial needs.,2016-08-11 12:08:56.000,2017-12-27 12:31:08.000
+4895,Mature Parents,Parents who had children later in life.,2016-08-11 12:12:27.000,2018-05-23 11:30:12.000
+4896,Streaming Music Enthusiasts,People visiting sites that offer digital music streaming.,2016-08-11 12:12:43.000,2018-05-23 16:19:11.000
+4897,Parents of Teenagers Going to College,People researching and comparing academic programs and college admission applications with their teenagers.,2016-08-11 12:12:51.000,2017-12-27 12:31:08.000
+4898,Cosmetics and Beauty Shoppers,Consumers comparing and shopping for cosmetics and beauty products.,2016-08-11 12:12:57.000,2017-12-27 12:31:08.000
+4899,Readers of Japanese Content,People reading news from Japanese media sources.,2016-08-11 12:13:05.000,2018-05-23 16:19:11.000
+4902,Yogis,Active fans of yoga.,2016-09-07 16:12:46.000,2018-05-23 11:30:13.000
+4903,Asthma Sufferers,People researching asthma trends and treatment options.,2016-09-07 16:12:46.000,2018-05-23 11:30:12.000
+4904,Adult Acne Sufferers,People researching acne trends and treatment options.,2016-09-07 16:12:46.000,2018-05-23 11:30:12.000
+4905,Heartburn Sufferers,People researching heartburn trends and treatment options.,2016-09-07 16:12:46.000,2018-05-23 11:30:12.000
+4906,Sinus Researchers,People researching sinus condition trends and treatment options.,2016-09-07 16:12:46.000,2018-05-23 11:30:13.000
+4907,Headache and Migraine Sufferers,People researching headache and migraine treatment options.,2016-09-07 16:12:46.000,2018-05-23 11:30:12.000
+4908,Back Pain Sufferers,People researching back pain trends and treatment options.,2016-09-07 16:12:46.000,2018-05-23 11:30:12.000
+4909,First Aid Researchers,People researching products and services related to first aid.,2016-09-07 16:12:46.000,2018-05-23 11:30:12.000
+4910,Cholesterol Researchers,People researching cholesterol trends and treatment options.,2016-09-07 16:12:46.000,2018-05-23 11:30:12.000
+4911,Dieters,Consumers reading content about diet and weight loss.,2016-09-07 16:12:46.000,2018-05-23 11:30:12.000
+4912,Vitamin Shoppers,Consumers in-market for vitamins.,2016-09-07 16:12:46.000,2018-05-23 11:30:13.000
+4913,Women's Health Researchers,People researching womens health options.,2016-09-07 16:12:46.000,2018-05-23 11:30:13.000
+4914,Men's Health Researchers,People researching mens health options.,2016-09-07 16:12:46.000,2018-05-23 11:30:13.000
+4915,Food Allergies Researchers,People researching food allergy treatment and alternative food options.,2016-09-07 16:12:46.000,2018-05-23 11:30:12.000
+4916,Arthritis Sufferers,People researching arthritis trends and treatment options.,2016-09-07 16:12:46.000,2018-05-23 11:30:12.000
+4917,Teen Content Readers,People reading sites featuring fashions for teens.,2016-09-07 16:12:46.000,2018-05-23 11:30:13.000
+4918,Gastrointestinal Researchers,People researching gastrointestinal trends and treatment options.,2016-09-07 16:12:46.000,2018-05-23 11:30:12.000
+4919,Military Families,People reading military publications.,2016-09-07 16:12:46.000,2018-05-23 11:30:13.000
+4920,LGBT Activists,People visiting sites advocating LGBT rights.,2016-09-07 16:12:46.000,2018-05-23 11:30:12.000
+4921,Tire Shoppers,Consumers in-market for vehicle tires.,2016-09-07 16:12:46.000,2018-05-23 11:30:13.000
+4924,Surfers,"People reading about surfing sites, techniques and equipment.",2016-09-07 16:12:46.000,2019-01-16 09:11:30.000
+4925,Gun Control Advocates,People visiting sites advocating gun control.,2016-09-07 16:12:46.000,2018-05-23 11:30:12.000
+4926,Gun Rights Advocates,People visiting sites advocating gun rights.,2016-09-07 16:12:46.000,2018-05-23 11:30:12.000
+4927,Immigration Rights Advocates,People visiting sites advocating immigration rights.,2016-09-07 16:12:46.000,2018-05-23 11:30:12.000
+4928,Immigration Control Advocates,People visiting sites advocating immigration control.,2016-09-07 16:12:46.000,2018-05-23 11:30:12.000
+4929,Right Wing Radicals,The Oathkeepers movement.,2016-09-07 16:12:46.000,2018-05-23 11:30:13.000
+4930,Occupy Movement Supporters,People who are interested in the Occupy movement.,2016-09-07 16:12:46.000,2018-05-23 11:30:13.000
+4931,Marijuana Legalization Advocates,People visiting sites advocating the legalization of marijuana.,2016-09-07 16:12:46.000,2018-05-23 11:30:12.000
+4932,Marijuana Prohibition Advocates,People visiting sites advocating the prohibition of marijuana.,2016-09-07 16:12:46.000,2018-05-23 11:30:12.000
+4933,Family Values Advocates,People visiting sites advocating traditional family values.,2016-09-07 16:12:46.000,2018-05-23 11:30:12.000
+4935,Conservative Think Tank Readers,People reading content online related to conservative think tanks.,2016-09-07 16:12:46.000,2018-05-23 11:30:12.000
+4936,Liberal Think Tank Readers,People visiting sites related to liberal think tanks.,2016-09-07 16:12:46.000,2018-05-23 11:30:12.000
+4937,Evangelical Christians,People engaged in Christian online forums.,2016-09-07 16:12:46.000,2018-05-23 11:30:12.000
+4940,Auto-Looking for New Car Purchase or Lease,,2016-10-18 11:50:13.000,2018-09-07 08:06:38.000
+4943,Online Grocery Shoppers,Consumers purchasing groceries online.,2016-10-28 17:25:22.000,2018-05-23 11:30:13.000
+4944,Pre-Measured Grocery Shoppers,Consumers purchasing groceries through a meal delivery service.,2016-10-28 17:25:22.000,2018-05-23 11:30:13.000
+5895,Cardio Health Researchers,People reading news and advice on preventing and treating cardio health issues.,2017-01-05 17:02:35.000,2017-12-27 12:31:08.000
+5896,Orthopedic Health Researchers,People reading news and advice on preventing and treating orthopedic health issues.,2017-01-05 17:02:35.000,2017-12-27 12:31:08.000
+5897,Orthodontics Researchers,People researching and comparing orthodontic practices and treatments.,2017-01-05 17:02:35.000,2017-12-27 12:31:08.000
+5898,Oncology Researchers,People reading news and advice on preventing and treating cancer.,2017-01-05 17:02:36.000,2017-12-27 12:31:08.000
+5900,Dentures,,2017-01-27 17:46:24.000,2017-01-27 17:46:24.000
+5901,Diabetes,,2017-01-27 17:46:30.000,2017-01-27 17:46:30.000
+5904,Truck Drivers,Professionals reading industry news and researching products and services for truck driving and transportation.,2017-02-16 10:24:41.000,2017-12-27 16:31:20.000
+5906,Business Communication Product Researchers,Professionals researching communication and productivity tools.,2017-02-17 12:17:26.000,2018-05-23 11:30:12.000
+5907,Budget Small Business Researchers,Professionals researching budget-friendly options for small businesses.,2017-02-17 12:18:17.000,2018-05-23 11:30:12.000
+5909,Web Design Researchers,Consumers researching creating websites and web design.,2017-02-17 15:23:04.000,2018-05-23 11:30:13.000
+5910,SEO Specialists,Professionals specializing in search engine optimization strategies.,2017-02-17 15:23:52.000,2018-05-23 11:30:13.000
+5911,Credit Score Researchers,People researching and using services to check their credit.,2017-02-17 15:25:24.000,2017-12-27 12:31:08.000
+5913,Spa Goers,Consumers comparing spas and booking appointments online.,2017-02-17 15:42:40.000,2019-08-26 11:24:44.000
+5914,Career Focused Individuals,People researching career development and advancement.,2017-02-17 15:54:06.000,2018-05-23 11:30:12.000
+5916,Shared Work Space Researchers,People researching locations for shared work spaces.,2017-02-17 15:56:15.000,2017-12-07 12:35:47.000
+5917,Caribbean Trip Planners,People researching attractions and accommodations in the Caribbean islands. These consumers are more likely to spend money on travel and local attractions.,2017-02-17 15:57:45.000,2017-12-07 12:35:47.000
+5918,Enterprise Field Services Researchers,Professionals reading industry news on enterprise field services.,2017-02-17 15:58:34.000,2018-05-23 11:30:12.000
+5920,Business Decision Makers,Professionals in leadership positions responsible for making business related decisions.,2017-02-17 16:00:39.000,2018-05-23 11:30:12.000
+5921,Arizona Trip Planners,People researching attractions and accommodations in Arizona. These consumers are more likely to spend money on travel and guided tours.,2017-02-17 16:01:39.000,2017-12-27 12:31:08.000
+5922,Software Directory Researchers,Professionals reading industry news on software directories.,2017-02-17 16:03:54.000,2018-05-23 11:30:13.000
+5924,Cloud Security Researchers,Professionals reading industry news and researching products and services for cloud security.,2017-02-17 16:05:08.000,2017-12-27 12:31:08.000
+5925,Business Incorporating & LLC Filing Researchers,Professionals reading industry news and researching products and services for filing a business or LLC.,2017-02-17 16:05:55.000,2017-12-27 12:31:08.000
+5926,Readers of Data Scientist blogs,Professionals reading industry news about analytics and data science,2017-02-17 16:07:04.000,2018-05-23 11:30:12.000
+5929,Employee Management & HR Researchers,Professionals researching employee management and HR products.,2017-02-21 13:18:44.000,2018-05-23 11:30:12.000
+5930,Tax Filers,Consumers researching products and services to file taxes.,2017-02-21 13:23:44.000,2017-12-07 12:35:47.000
+5933,Supply Chain Professionals,Professionals reading industry news and researching products and services for supply chain.,2017-02-21 13:23:44.000,2018-05-23 16:19:11.000
+5934,Logistics Professionals,Professionals reading industry news and researching products and services for logistics.,2017-02-21 13:23:44.000,2018-05-23 16:19:11.000
+5936,Fishing Enthusiasts,People reading news and techniques on fishing. These consumers are more likely to spend money on fishing gear.,2017-02-21 13:23:44.000,2017-12-07 12:35:47.000
+5938,Costa Rica Trip Planners,"People researching attractions and accommodations in Costa Rica. These consumers are more likely to spend money on flights, hotels, and local attractions.",2017-02-21 13:23:44.000,2017-12-07 12:35:47.000
+5942,Tax Policy Researchers,People researching tax policies and refunds. These consumers are more likely to spend money on tax filing products and services.,2017-02-21 13:23:44.000,2017-12-27 12:31:08.000
+5943,Financial News Readers,People reading financial news and following the latest trends.,2017-02-21 13:23:44.000,2017-12-07 12:35:47.000
+5944,Financial Advisors,Professionals reading industry news and trends on finance.,2017-02-21 13:23:44.000,2017-12-07 12:35:47.000
+5945,Parents of High School Students,People researching academic programs and resources for high schoolers.,2017-02-21 13:23:44.000,2017-12-27 12:31:08.000
+5946,Readers of Filipinos Content,People reading news from Filipino media sources.,2017-02-23 10:47:07.000,2018-05-23 16:19:11.000
+5951,Law Enforcement Officers,Professionals reading industry news and researching products and services for law enforcement.,2017-02-23 10:47:07.000,2017-12-27 12:31:08.000
+5952,Australia Trip Planners,People researching attractions and accommodations in Australia. These consumers are more likely to spend money on travel and local attractions.,2017-02-23 10:47:07.000,2017-12-07 13:35:48.000
+5956,Recreational Sports Participants,People registering for recreational sports leagues and programs for adults and kids.,2017-02-23 10:47:07.000,2019-01-16 09:11:30.000
+5957,Online Education Intenders,People researching institutions that offer college classes online. These consumers are more likely to pay for tuition and school supplies.,2017-02-23 10:47:07.000,2017-12-07 12:35:47.000
+5958,Flooring Shoppers,Consumers comparing services and shopping for home flooring products.,2017-02-23 10:47:07.000,2017-12-07 12:35:47.000
+5960,New Zealand Trip Planners,"People researching attractions and accommodations in New Zealand. These consumers are more likely to spend money on flights, hotels, and local attractions.",2017-03-01 10:49:41.000,2017-12-07 12:35:47.000
+5961,Business Tax Filers,People researching and comparing products and services to file taxes for businesses.,2017-03-02 16:40:31.000,2017-12-27 12:31:08.000
+5962,New Homeowners,Consumers researching home remodels and decor inspiration.,2017-03-02 17:34:14.000,2018-05-23 11:30:13.000
+5963,Weight Lifting Enthusiasts,People researching weight lifting techniques and trends.,2017-03-03 10:08:06.000,2019-01-16 09:11:30.000
+5967,Online Auto Shoppers,Consumers researching and comparing car sales online.,2017-03-08 09:54:14.000,2018-03-12 16:43:56.000
+5968,Luxury Kitchen Goods Shoppers,Consumers researching and comparing luxury kitchen goods. These consumers are more likely to spend money on home remodeling.,2017-03-08 09:56:03.000,2017-12-27 12:31:08.000
+5969,Luxury Bedding Shoppers,Consumers shopping for luxury bedding.,2017-03-08 09:57:00.000,2018-05-23 11:30:12.000
+5970,Luxury Home Fixture Shoppers,Consumers researching and comparing luxury home fixtures. These consumers are more likely to spend money on home remodeling.,2017-03-08 09:59:10.000,2017-12-27 12:31:08.000
+5971,Readers of Arabic Content,People reading news from Arabic media sources.,2017-03-13 09:59:22.000,2018-05-23 16:19:11.000
+5972,Financial Investors,Consumers reading financial industry news and investment trends.,2017-03-22 12:09:06.000,2018-05-23 11:30:12.000
+5984,Readers of Indian Content,People reading news from Indian media sources.,2017-03-27 16:36:07.000,2018-05-23 16:19:11.000
+5989,Tech News Enthusiasts,Consumers reading the latest technology news and researching new products.,2017-03-27 16:36:07.000,2017-12-07 12:35:47.000
+5991,Gluten-Free Recipe Researchers,People researching and testing gluten-free recipes. These consumers are more likely to spend money at specialty food stores.,2017-03-27 16:36:07.000,2017-12-27 12:31:08.000
+5999,Readers of African American Content,People reading news from African American media sources.,2017-03-27 16:36:07.000,2019-04-17 08:49:16.000
+6006,Breast Cancer Fund Raisers,People raising money for charitable organizations that support breast cancer research.,2017-03-27 16:36:07.000,2018-05-23 16:19:11.000
+6008,Digital Antenna Users,People shopping for digital antennas and researching cutting cable.,2017-03-27 16:36:07.000,2017-12-27 12:31:08.000
+6010,Star Wars Fans,"People reading fan sites, promotional material, and news on the Star Wars franchise.",2017-03-27 16:36:07.000,2017-12-07 12:35:47.000
+6013,Competitive Sports Participants,"People registering for competitive sports leagues, races, and events for adults.",2017-03-27 16:36:07.000,2019-01-16 09:11:30.000
+6023,Sports Medicine Health Care Professionals,Professionals reading industry news and researching products and services for sports medicine.,2017-03-27 16:36:07.000,2018-05-23 16:19:11.000
+6024,Joint Pain Health Care Professionals,Professionals reading industry news and researching products and services for join pain.,2017-03-27 16:36:07.000,2018-05-23 16:19:11.000
+6029,Indoor Cycling & Spinning Enthusiasts,Consumers purchasing at-home machines or visiting indoor cycling gyms. These consumers are more likely to buy gym memberships and cycling products.,2017-03-27 16:36:07.000,2019-01-16 09:11:30.000
+6030,Spa and Pool Owners,Consumers purchasing products to maintain their home spa or pool.,2017-03-27 16:36:07.000,2019-08-26 11:24:45.000
+6034,Backyard Farmers,People researching techniques and products for a backyard farm. These consumers are more likely to purchase farming and landscape products.,2017-03-27 16:36:07.000,2017-12-07 12:35:47.000
+6045,Engagement Ring Shoppers,Consumers comparing or purchasing an engagement ring.,2017-03-27 16:36:08.000,2017-12-07 12:35:47.000
+6047,Readers of Tamil Content,People reading news from Tamil media sources.,2017-03-27 16:36:08.000,2018-05-23 16:19:11.000
+6048,Readers of Telugu Content,People reading news from Telug media sources.,2017-03-27 16:36:08.000,2018-08-21 17:15:22.000
+6049,Readers of Portuguese Content,People reading news from Portuguese media sources.,2017-03-27 16:36:08.000,2018-05-23 16:19:11.000
+6050,Readers of Malayalam Content,People reading news from Malayalam media sources.,2017-03-27 16:36:08.000,2018-05-23 16:19:11.000
+6051,Readers of Italian Content,People reading news from Italian media sources.,2017-03-27 16:36:08.000,2018-05-23 16:19:11.000
+6062,Italian Chain Restaurant Eaters,Consumers visiting sites of chain restaurants that serve Italian food. These consumers are more likely to spend money on eating out.,2017-03-27 16:59:29.000,2017-12-27 12:31:08.000
+6064,Solar Energy Solution Shoppers,Consumers comparing and shopping for solar energy products and services. These consumers are more likely to spend money on energy efficient products.,2017-03-27 16:59:29.000,2017-12-27 12:31:08.000
+6065,Solar Energy Researchers,Consumers researching products and services to use solar energy.,2017-03-27 16:59:29.000,2017-12-07 12:35:47.000
+6067,Coffee Lovers,Consumers researching coffee companies and purchasing coffee beans. These consumers are more likely to purchase coffee online and visit coffeehouses.,2017-03-27 16:59:29.000,2017-12-07 12:35:47.000
+6076,Horse Owners,Consumers researching equine health care.,2017-03-27 16:59:29.000,2018-05-23 11:30:12.000
+6077,Horse Race Enthusiasts,Consumers reading horse racing news and trends.,2017-03-27 16:59:29.000,2019-01-16 09:11:30.000
+6081,Hawaii Trip Planners,People researching attractions and accommodations in Hawaii. These consumers are more likely to spend money on travel and local attractions.,2017-03-27 16:59:29.000,2017-12-27 12:31:08.000
+6084,Media Buying Professionals,Professionals reading advertising industry news and media buying trends.,2017-03-27 16:59:29.000,2018-05-23 11:30:12.000
+6085,Discount Womens Shoes Shoppers,Consumers shopping for discounts and bargains on women's shoes.,2017-03-27 16:59:29.000,2017-12-07 12:35:48.000
+6087,Metal and Rock Music Fans,People researching news and viewing online content focused on metal and rock music.,2017-03-27 16:59:29.000,2017-12-27 12:31:08.000
+6088,Whiskey Lovers,Consumers researching whiskey and purchasing alcohol online. These consumers are more likely to purchase whiskey and visit distilleries.,2017-03-27 16:59:29.000,2017-12-07 12:35:47.000
+6089,Mens Fitness Publication Readers,People reading digital content on mens fitness.,2017-03-27 16:59:29.000,2017-12-27 12:31:08.000
+6095,Nursing Students,People researching academic programs and resources for nursing.,2017-03-27 16:59:29.000,2017-12-27 12:31:08.000
+6098,Dental Hygiene Students,People researching academic programs and resources for dental hygiene.,2017-03-27 16:59:29.000,2017-12-27 12:31:08.000
+6106,Luxury Second Home Owners,High income individuals with more than one home.,2017-03-27 16:59:29.000,2018-05-23 11:30:12.000
+6107,Ski House Second Home Owners,People who own a second home in a ski town. These consumers are more likely to spend money on winter activities and ski gear.,2017-03-27 16:59:29.000,2017-12-07 12:35:47.000
+6108,Beach House Second Home Owners,People who own a second home in a beach town. These consumers are more likely to spend money on summer activities and beach gear.,2017-03-27 16:59:29.000,2017-12-07 12:35:47.000
+6110,Apartment Furniture Shoppers,Consumers in-market for apartment furniture.,2017-03-27 16:59:29.000,2018-05-23 11:30:12.000
+6111,Wine Lovers,Consumers researching wine and purchasing alcohol online. These consumers are more likely to purchase wine and visit vineyards.,2017-03-27 16:59:29.000,2017-12-07 12:35:47.000
+6112,Olympic Sports Enthusiasts,People researching and reading content about sports featured in the Olympics.,2017-03-27 16:59:29.000,2017-12-27 12:31:08.000
+6115,Rugby Fans,People reading about rugby news and watching games. These consumers are more likely to spend money on team gear and rugby equipment.,2017-03-27 16:59:29.000,2017-12-27 12:31:08.000
+6120,Readers of Puerto Rican Content,People reading news from Puerto Rican media sources.,2017-03-27 16:59:29.000,2018-05-23 16:19:11.000
+6122,Readers of Cuban Content,People reading news from Cuban media sources.,2017-03-27 16:59:29.000,2018-05-23 16:19:11.000
+6123,Misc-Deal Seekers or Coupon Shoppers,Consumers researching deals and shopping with coupons.,2017-03-27 16:59:29.000,2018-05-23 11:30:13.000
+6124,Cloud Storage Provider Researchers,Consumers researching and comparing cloud storage providers.,2017-03-27 16:59:29.000,2018-05-23 11:30:12.000
+6127,LED Lighting Shoppers,Consumers shopping for LED light bulbs and lighting fixtures.,2017-03-27 16:59:29.000,2017-12-27 12:31:08.000
+6128,Realtors & Real Estate Researchers,Consumers and professionals researching the newest real estate listings.,2017-03-27 16:59:29.000,2017-12-07 12:35:47.000
+6131,Movie and Game Review Readers,People reading reviews of movies and games. These consumers are more likely to spend money at movie theaters or video game stores.,2017-03-27 16:59:29.000,2017-12-27 12:31:08.000
+6133,Fantasy Football Enthusiasts,Consumers who read online publications about Fantasy Football.,2017-03-27 16:59:29.000,2018-05-23 11:30:12.000
+6134,Dentists,Professionals reading industry news and researching products and services for dentistry.,2017-03-27 16:59:29.000,2017-12-27 12:31:08.000
+6138,Open Source Developers,Professionals reading industry news about open source developer products and resources.,2017-03-27 16:59:29.000,2017-12-27 12:31:08.000
+6141,Entrepreneurs,Professionals reading industry news and researching products and services for starting a business.,2017-03-27 16:59:29.000,2017-12-27 12:31:08.000
+6142,European Trip Planners,People researching attractions and accommodations in Europe. These consumers are more likely to spend money on travel and guided tours.,2017-03-27 16:59:29.000,2017-12-27 12:31:08.000
+6143,College Football Fans,People reading news about college football and watching games. These consumers are more likely to spend money on team gear.,2017-03-27 16:59:29.000,2017-12-27 12:31:08.000
+6144,North Carolina Football Fans,People reading news about North Carolina football and watching games. These consumers are more likely to spend money on team gear.,2017-03-27 16:59:29.000,2017-12-27 12:31:08.000
+6145,Fast Food Lovers,Consumers visiting sites and comparing fast food restaurants. These consumers are more likely to spend money on eating out.,2017-03-27 16:59:29.000,2017-12-27 12:31:08.000
+6148,Kosher Recipe Researchers,People researching kosher recipes. These consumers are more likely to spend money at specialty food stores.,2017-03-27 16:59:29.000,2017-12-27 12:31:08.000
+6149,Readers of Jewish News,People reading news about the Jewish faith.,2017-03-27 16:59:29.000,2018-12-07 11:59:17.000
+6151,Wedding Registrants,Consumers creating wedding registries.,2017-03-27 16:59:29.000,2018-05-23 11:30:13.000
+6156,Ancestry Researchers,People researching products and services to investigate their ancestry.,2017-03-27 16:59:29.000,2017-12-27 12:31:08.000
+6159,United Arab Emirates Trip Planners,"People researching attractions and accommodations in the UAE. These consumers are more likely to spend money on flights, hotels, and local attractions.",2017-03-27 16:59:29.000,2017-12-07 12:35:47.000
+6160,Eyeglasses Shoppers,Consumers shopping for eyeglasses. These consumers are more likely to spend money on eyeglasses sold online.,2017-03-27 16:59:29.000,2017-12-07 12:35:47.000
+6162,Healthy Snacks Shoppers,Consumers shopping for healthy snacks and ingredients. These consumers are more likely to spend money at specialty food stores.,2017-03-27 16:59:29.000,2017-12-27 12:31:08.000
+6164,Microsoft Friendly Developers,Professional developers reading industry news on Microsoft products.,2017-03-27 16:59:29.000,2018-05-23 11:30:13.000
+6168,Christmas Enthusiasts,People researching holiday traditions and visiting sites related to Christmas.,2017-03-27 16:59:29.000,2018-05-23 16:19:11.000
+6169,Videographers,Professionals reading industry news and researching products and services for videography.,2017-03-27 16:59:29.000,2017-12-27 12:31:08.000
+6171,High-End Camera Shoppers,Consumers purchasing high end cameras and accessories.,2017-03-27 16:59:29.000,2018-05-23 16:19:11.000
+6172,Camera Review Readers,Consumers reading reviews for camera equipment.,2017-03-27 16:59:29.000,2018-05-23 11:30:12.000
+6173,Camera Shoppers,Consumers researching and comparing cameras. These consumers are more likely to spend money on cameras and photography equipment.,2017-03-27 16:59:29.000,2017-12-27 12:31:08.000
+6174,Photography Enthusiasts,People researching trends and resources for photography. These consumers are more likely to spend money on cameras and photography equipment.,2017-03-27 16:59:29.000,2017-12-27 12:31:08.000
+6177,Mens Shaving Products Shoppers,Consumers comparing or purchasing shaving products for men.,2017-03-27 16:59:29.000,2017-12-07 12:35:47.000
+6181,Cybersecurity Researchers,People researching cybersecurity news and products.,2017-03-27 16:59:29.000,2018-05-08 09:01:22.000
+6182,Finance Continuing Education Researchers,Professionals researching and comparing continuing education programs and resources for finance.,2017-03-27 16:59:29.000,2017-12-27 12:31:08.000
+6183,Accounting & CPA Continuing Education Researchers,Professionals researching and comparing continuing education programs and resources for accounting.,2017-03-27 16:59:29.000,2017-12-27 12:31:08.000
+6184,Reusable Drinkware Shoppers,Consumers comparing and shopping for reusable water bottles. These consumers are more likely to spend money on sustainable products.,2017-03-27 16:59:29.000,2017-12-27 12:31:08.000
+6188,High End TV Shoppers,Consumers comparing or purchasing high end televisions and accessories.,2017-03-27 16:59:29.000,2017-12-07 12:35:47.000
+6189,Texas Energy Providers,Consumers shopping for energy providers in Texas.,2017-03-27 16:59:29.000,2018-05-23 11:30:13.000
+6194,Readers of Greek Content,People reading news from Greek media sources.,2017-03-27 16:59:29.000,2018-05-23 16:19:11.000
+6206,Preppy Clothing Shoppers,Consumers shopping for clothing and accessories from brands with preppy styles.,2017-03-27 16:59:29.000,2018-09-12 18:31:21.000
+6207,Anesthesiologists,Professionals reading industry news and researching products and services for anesthesiology.,2017-03-27 16:59:29.000,2017-12-27 12:31:08.000
+6208,Recently Retired Individuals,People coordinating and researching retirement activities and lifestyle.,2017-03-27 16:59:29.000,2018-05-23 11:30:13.000
+6209,Study Abroad Researchers,Students researching programs to study and live outside of the US.,2017-03-27 16:59:29.000,2018-05-23 11:30:13.000
+6210,College Aspirants,People researching and applying to colleges and universities.,2017-03-27 16:59:29.000,2018-05-23 11:30:12.000
+6211,Charitable Organization Researchers,People researching charitable organizations for donate or volunteer opportunities.,2017-03-27 16:59:29.000,2018-05-23 11:30:12.000
+6212,Online Daters,People who frequent online dating websites.,2017-03-27 16:59:29.000,2018-05-23 11:30:13.000
+6214,Home Remodelers,People researching techniques and resources for home remodels.,2017-03-27 16:59:29.000,2018-05-23 11:30:12.000
+6215,Roommate Seekers,People active on roommate finder sites.,2017-03-27 16:59:29.000,2018-05-23 11:30:13.000
+6216,Car Buyers,Consumers shopping for cars and researching deals.,2017-03-27 16:59:29.000,2018-05-23 11:30:12.000
+6217,Weight Loss Researchers,Consumers researching weight loss methods.,2017-03-27 16:59:29.000,2018-05-23 11:30:13.000
+6218,Running Enthusiasts,Consumers who read online publications about running.,2017-03-27 16:59:29.000,2019-01-16 09:11:30.000
+6219,Cycling Enthusiasts,Consumers who read online publications about cycling.,2017-03-27 16:59:29.000,2019-01-16 09:11:30.000
+6220,Eyeglasses & Contact Lens Buyers,Consumers shopping online for eyeglasses and contact lenses.,2017-03-27 16:59:29.000,2018-05-23 11:30:12.000
+6221,RC Helicopters and Drones Hobbyists,People researching drone techniques and shopping for equipment.,2017-03-27 16:59:29.000,2018-05-23 11:30:13.000
+6222,Musical Instrument Purchasers,Consumers shopping for musical instruments and accessories.,2017-03-27 16:59:29.000,2018-05-23 11:30:13.000
+6223,Language Learners,People using sites and online resources to learn a new language.,2017-03-27 16:59:29.000,2018-05-23 11:30:12.000
+6224,Tattoo Fans,People researching tattoo culture and new tattoo trends.,2017-03-27 16:59:29.000,2018-05-23 11:30:13.000
+6225,Piercing Fans,People researching piercing culture and new piercing trends.,2017-03-27 16:59:29.000,2018-05-23 11:30:13.000
+6226,Divorcees,People researching resources for divorced parents.,2017-03-27 16:59:29.000,2018-05-23 11:30:12.000
+6227,Personal Stock Portfolio Managers,Consumers actively managing their personal investments.,2017-03-27 16:59:29.000,2018-05-23 11:30:13.000
+6228,Paleo Eaters,Consumers researching living a Paleo lifestyle and recipes.,2017-03-27 16:59:29.000,2018-05-23 11:30:13.000
+6229,Sweet Tooths,Consumers shopping for candy and researching recipes.,2017-03-27 16:59:29.000,2018-05-23 11:30:13.000
+6230,Vegans,Consumers researching living a vegan lifestyle and recipes.,2017-03-27 16:59:29.000,2018-05-23 11:30:13.000
+6231,Sleep Researchers,People researching sleep disorders.,2017-03-27 16:59:29.000,2018-05-23 11:30:13.000
+6232,Golf Enthusiasts,Consumers who read online publications about golf.,2017-03-27 16:59:29.000,2019-01-16 09:11:30.000
+6234,Yachting Enthusiasts,People reading yachting news and destinations.,2017-03-27 16:59:29.000,2018-05-23 11:30:13.000
+6235,Sailing Enthusiasts,People reading sailing news and destinations.,2017-03-27 16:59:29.000,2018-05-23 11:30:13.000
+6236,PokemonGo Fans,People reading gaming news and techniques for playing PokemonGo.,2017-03-27 16:59:29.000,2018-05-23 11:30:13.000
+6237,Non-Profit Volunteers,People who visit non-profit volunteer websites.,2017-03-27 16:59:29.000,2018-05-23 11:30:13.000
+6250,Tennis Players,People researching tennis techniques and equipment.,2017-03-27 16:59:30.000,2019-01-16 09:11:30.000
+6253,Medicare Researchers,People reading Medicare news and benefits.,2017-03-27 16:59:30.000,2018-05-23 11:30:13.000
+6255,Environmental Activists,People reading news and trends on environmental activism. These consumers are more likely to spend money with environmental charities.,2017-03-27 16:59:30.000,2017-12-27 12:31:08.000
+6257,Masters in Management Researchers,People researching masters in management programs.,2017-03-27 16:59:30.000,2018-05-08 09:06:14.000
+6259,Word Game Enthusiasts,People playing word games online.,2017-03-27 16:59:30.000,2018-05-23 11:30:13.000
+6260,Blockbuster Movie Fans,Consumers reading reviews of major movie releases.,2017-03-27 16:59:30.000,2018-05-23 11:30:12.000
+6263,Physicians,Professionals reading industry news and researching products and services for physicians.,2017-03-31 17:37:39.000,2017-12-27 12:31:08.000
+6264,Gastroenterologists,Professionals reading medical journals and online resources related to gastroenterology.,2017-03-31 17:38:14.000,2018-05-23 11:30:12.000
+6265,Pharmacists,Professionals reading industry news and researching products and services for pharmacists.,2017-03-31 17:38:55.000,2017-12-27 12:31:08.000
+6266,Respirologists and Pulmonologists,Professionals reading industry news and researching products and services for respirologists and pulmonologists.,2017-03-31 17:39:16.000,2017-12-27 12:31:08.000
+6267,Pediatricians,Professionals reading industry news and researching products and services for pediatricians.,2017-03-31 17:39:36.000,2017-12-27 12:31:08.000
+6277,Harry Potter Fans,People reading news and content related to the Harry Potter series.,2017-04-06 17:34:34.000,2017-12-27 12:31:08.000
+6278,Junk Food Lovers,Consumers researching new flavors of well-known junk foods.,2017-04-10 11:26:10.000,2018-05-23 11:30:12.000
+6284,Gym Equipment Owners,People researching and comparing fitness trends and techniques. These consumers are more likely to spend money on gym equipment for their homes.,2017-04-18 15:46:10.000,2017-12-27 12:31:08.000
+6285,Competitive Tri-Athletes,People researching and comparing triathlons. These consumers are more likely to spend money on fitness training and equipment.,2017-04-18 15:46:10.000,2019-01-16 09:11:30.000
+6286,Luxury Hotel Guests,High income individuals researching and booking hotel rooms.,2017-04-18 15:46:10.000,2018-05-23 11:30:12.000
+6298,Readers of Russian Content,People reading news from Russian media sources.,2017-05-03 10:00:02.000,2018-05-23 16:19:11.000
+6299,Readers of Bengali Content,People reading news from Bengali media sources.,2017-05-03 10:00:02.000,2018-05-23 16:19:11.000
+6300,Washington DC Trip Planners,"People researching attractions and accommodations in Washington DC. These consumers are more likely to spend money on flights, hotels, and local attractions.",2017-05-03 10:00:02.000,2017-12-07 12:35:47.000
+6301,Chicago Trip Planners,"People researching attractions and accommodations in Chicago. These consumers are more likely to spend money on flights, hotels, and local attractions.",2017-05-03 10:00:02.000,2017-12-07 12:35:47.000
+6302,Los Angeles Trip Planners,Consumers in-market for Los Angeles trips and vacations.,2017-05-03 10:00:02.000,2018-05-23 11:30:12.000
+6303,Atlanta Trip Planners,"People researching attractions and accommodations in Atlanta. These consumers are more likely to spend money on flights, hotels, and local attractions.",2017-05-03 10:00:02.000,2017-12-07 12:35:47.000
+6304,New York Trip Planners,Consumers in-market for New York City trips and vacations.,2017-05-03 10:00:02.000,2018-05-23 11:30:13.000
+6305,Identity Theft Protection Researchers,People researching and comparing products and services for identity theft protection.,2017-05-03 10:00:02.000,2017-12-27 12:31:08.000
+6306,Newly Recruited Military Personnel,Professionals reading industry news and researching products and services as newly recruited military personnel.,2017-05-03 17:22:58.000,2017-12-27 12:31:08.000
+6308,Food Safety Decision Makers,Professionals reading industry news and researching products and services for food safety.,2017-05-04 11:02:49.000,2017-12-27 12:31:08.000
+6314,Online Directory Searchers,Consumers using online directories.,2017-05-10 11:37:50.000,2018-05-23 11:30:13.000
+6315,Boston Trip Planners,Consumers in-market for Boston trips and vacations.,2017-05-10 16:11:32.000,2018-05-23 11:30:12.000
+6316,Philadelphia Trip Planners,"People researching attractions and accommodations in Philadelphia. These consumers are more likely to spend money on flights, hotels, and local attractions.",2017-05-10 16:13:56.000,2017-12-07 12:35:47.000
+6317,Houston Trip Planners,Consumers in-market for Houston trips and vacations.,2017-05-10 16:13:56.000,2018-05-23 11:30:12.000
+6318,Phoenix Trip Planners,"People researching attractions and accommodations in Phoenix. These consumers are more likely to spend money on flights, hotels, and local attractions.",2017-05-10 16:13:56.000,2017-12-07 12:35:47.000
+6319,San Francisco Trip Planners,Consumers in-market for San Francisco trips and vacations.,2017-05-10 16:13:56.000,2018-05-23 11:30:13.000
+6320,Miami Trip Planners,"People researching attractions and accommodations in Miami. These consumers are more likely to spend money on flights, hotels, and local attractions.",2017-05-10 16:13:56.000,2017-12-07 12:35:47.000
+6321,Nashville Trip Planners,"People researching attractions and accommodations in Nashville. These consumers are more likely to spend money on flights, hotels, and local attractions.",2017-05-10 16:13:56.000,2017-12-07 12:35:47.000
+6322,Seattle Trip Planners,Consumers in-market for Seattle trips and vacations.,2017-05-10 16:13:56.000,2018-05-23 11:30:13.000
+6323,New Orleans Trip Planners,"People researching attractions and accommodations in New Orleans. These consumers are more likely to spend money on flights, hotels, and local attractions.",2017-05-10 16:13:56.000,2017-12-07 12:35:47.000
+6324,Las Vegas Trip Planners,"People researching attractions and accommodations in Las Vegas. These consumers are more likely to spend money on flights, hotels, and local attractions.",2017-05-10 16:13:56.000,2017-12-07 12:35:47.000
+6325,Orlando Trip Planners,"People researching attractions and accommodations in Orlando. These consumers are more likely to spend money on flights, hotels, and local attractions.",2017-05-10 16:13:56.000,2017-12-07 12:35:47.000
+6328,Mattress Researchers,,2017-05-15 13:03:24.000,2017-05-15 13:03:24.000
+6329,Mattress Shoppers,Consumers considering purchasing a mattress.,2017-05-15 13:04:55.000,2018-05-23 11:30:12.000
+6330,Pet Store Goers,,2017-05-15 13:04:55.000,2017-05-15 13:04:55.000
+6331,Price Conscious Grocery Shoppers,Consumers seeking good deals on groceries.,2017-05-15 13:04:55.000,2018-05-23 11:30:13.000
+6332,Tire Researchers,,2017-05-15 13:04:55.000,2017-05-15 13:04:55.000
+6333,Crafting Enthusiasts,People looking for crafting inspiration and purchasing equipment.,2017-05-15 13:04:55.000,2018-05-23 11:30:12.000
+6334,Supermarket Shoppers,Consumers shopping for groceries at major supermarkets.,2017-05-15 13:04:55.000,2018-05-23 11:30:13.000
+6335,Outdoors Enthusiasts,People reading outdoor activities news and destinations.,2017-05-15 13:04:55.000,2018-05-23 11:30:13.000
+6336,Mid-Range Grocery Shoppers,Consumers shopping for groceries at mid-range grocery stores.,2017-05-15 13:04:55.000,2018-05-23 11:30:13.000
+6337,Diner and Ice Cream Lovers,Consumers who often frequent diners and ice cream shops.,2017-05-15 13:04:55.000,2018-05-23 11:30:12.000
+6339,Eyeglasses Wearers,,2017-05-15 13:04:55.000,2017-05-15 13:04:55.000
+6340,Kitchen and Home Goods Shoppers,Consumers comparing or purchasing home and kitchen decor and furniture.,2017-05-15 13:04:55.000,2017-12-07 12:35:47.000
+6341,Pharmacy Shoppers,Consumers researching and purchasing pharmaceuticals online.,2017-05-15 13:04:55.000,2018-05-23 11:30:13.000
+6343,Patio Furniture Shoppers,Consumers comparing or purchasing patio furniture.,2017-05-15 13:04:55.000,2017-12-07 12:35:47.000
+6344,Hair Care Shoppers,Consumers researching trends and purchasing hair and beauty products.,2017-05-15 13:04:55.000,2018-05-31 22:11:37.000
+6345,Senior Caregivers,Professionals reading healthcare industry news focused on senior citizens.,2017-05-15 13:04:55.000,2018-05-23 11:30:13.000
+6363,Readers of Caribbean Content,People reading news from Caribbean media sources.,2017-05-23 16:28:23.000,2018-05-23 16:19:11.000
+6364,Pizza Lovers,,2017-05-23 18:19:22.000,2017-05-23 18:19:22.000
+6365,Executive and C-Suite,People identified as holding executive positions as companies .,2017-05-23 18:19:22.000,2018-09-07 08:06:58.000
+6366,Rideshare App Users,People that regularly use rideshare apps for travel,2017-05-23 18:19:22.000,2019-08-20 11:34:51.000
+6367,Cable TV Shoppers,Consumers researching cable TV packages.,2017-05-23 18:19:22.000,2018-05-23 11:30:12.000
+6378,Luggage Shoppers,Consumers in-market for new luggage.,2017-05-31 16:26:05.000,2018-05-23 11:30:12.000
+6385,Motorcycle Purchasers,,2017-06-08 12:21:04.000,2017-06-08 12:21:04.000
+6386,Powerboat Purchasers,,2017-06-08 12:21:04.000,2017-06-08 12:21:04.000
+6387,Wireless Service Provider Researchers,,2017-06-08 12:21:04.000,2017-06-08 12:21:04.000
+6389,Oil Change Customers,,2017-06-08 12:21:04.000,2017-06-08 12:21:04.000
+6390,Pool and Spa Researchers,,2017-06-08 12:21:04.000,2018-09-07 08:07:11.000
+6391,HVAC Service Researchers,,2017-06-08 12:21:04.000,2017-06-08 12:21:04.000
+6393,Eye Health Researchers,People researching eye health and symptoms.,2017-06-08 12:21:04.000,2018-05-23 11:30:12.000
+7425,Life Insurance Researchers,People researching and comparing life insurance policies. These consumers are more likely to spend money with insurance companies.,2017-06-15 17:44:51.000,2017-12-27 12:31:08.000
+7453,Pilots,Professionals reading industry news and researching products and services for pilots.,2017-06-27 17:12:58.000,2017-12-27 12:31:08.000
+7454,Farmers,Professionals reading industry news and researching products and services for farmers.,2017-06-27 17:12:58.000,2017-12-27 12:31:08.000
+7461,Food Industry Professionals,Professionals reading industry news and researching products and services for food safety.,2017-06-28 13:17:51.000,2018-05-23 16:19:11.000
+7464,Guitar Enthusiasts,People reading guitar news and shopping for new equipment.,2017-06-29 11:17:23.000,2018-05-23 11:30:12.000
+7483,Economy Grocery Shoppers,,2017-07-06 15:45:18.000,2017-07-06 15:45:18.000
+7527,Democratic Donors,,2017-07-17 17:24:48.000,2017-07-17 17:24:48.000
+7529,Foreman and Construction Managers,Professionals reading foreman and construction industry news.,2017-07-17 17:25:23.000,2018-05-23 16:19:11.000
+7534,Canada Trip Planners,People researching attractions and accommodations in Canada. These consumers are more likely to spend money on travel and local attractions.,2017-07-18 16:24:28.000,2017-12-27 12:31:08.000
+7535,Medicare Provider Researchers,People researching Medicare providers and options.,2017-07-18 16:24:28.000,2018-05-23 11:30:13.000
+7536,Medicare Price Shoppers,People comparing Medicare providers based on price.,2017-07-18 16:24:28.000,2018-05-23 11:30:13.000
+7537,Ecommerce Platform Researchers,People comparing products and services of ecommerce platforms.,2017-07-18 16:24:28.000,2018-05-23 16:19:11.000
+7540,North Carolina Travel Researchers,People researching attractions and accommodations in North Carolina.,2017-07-19 11:24:30.000,2018-05-23 11:30:13.000
+7541,Alabama Trip Planners,"People researching attractions and accommodations in Alabama. These consumers are more likely to spend money on flights, hotels, and local attractions.",2017-07-19 11:24:30.000,2017-12-07 12:35:47.000
+7542,Georgia Trip Planners,"People researching attractions and accommodations in Georgia. These consumers are more likely to spend money on flights, hotels, and local attractions.",2017-07-19 11:24:30.000,2017-12-07 12:35:47.000
+7543,Louisiana Trip Planners,"People researching attractions and accommodations in Louisiana. These consumers are more likely to spend money on flights, hotels, and local attractions.",2017-07-19 11:24:30.000,2017-12-07 12:35:47.000
+7544,Texas Trip Planners,"People researching attractions and accommodations in Texas. These consumers are more likely to spend money on flights, hotels, and local attractions.",2017-07-19 11:24:30.000,2017-12-07 12:35:47.000
+7545,Florida Atlantic Coast Trip Planners,"People researching attractions and accommodations in Florida. These consumers are more likely to spend money on flights, hotels, and local attractions.",2017-07-19 11:24:30.000,2017-12-07 12:35:47.000
+7546,Florida Gulf Coast Travel Researchers,People researching attractions and accommodations in the Florida Gulf Coast area.,2017-07-19 11:24:30.000,2018-05-23 11:30:12.000
+7557,Tailgaters,,2017-07-20 17:31:31.000,2019-01-16 09:11:30.000
+7597,Readers of Spanish Content,People reading news from Spanish media sources.,2017-08-02 11:30:02.000,2018-05-23 16:19:11.000
+7598,Readers of South American Content,People reading news from South American media sources.,2017-08-02 11:30:02.000,2018-05-23 16:19:11.000
+7605,Organic Food Buyers,,2017-08-07 10:00:03.000,2017-08-07 10:00:03.000
+7685,Home Healthcare Researchers,People researching and comparing products and services for home healthcare.,2017-08-24 15:42:48.000,2017-12-27 12:31:08.000
+10007,Mobile Phone Purchase Intenders,Consumers in-market for a mobile phone.,2017-09-12 16:34:57.000,2018-05-23 11:30:13.000
+10008,Japanese Luxury Car Enthusiasts,Consumers reading content about luxury cars from Japan.,2017-09-12 16:39:45.000,2018-05-23 11:30:12.000
+10009,Investment Services Intenders,People researching and comparing investment service providers for personal investments.,2017-09-12 16:39:45.000,2018-03-05 11:41:17.000
+10010,Satellite TV Buyers,Consumers in-market for satellite television.,2017-09-12 16:39:45.000,2018-05-23 11:30:13.000
+10011,Big Box Shoppers,Consumers who shop at big box retailers.,2017-09-12 16:39:45.000,2018-05-23 11:30:12.000
+10249,Loan Comparison Researchers,Consumers researching and comparing loan offerings from different financial institutions.,2017-09-15 16:53:30.000,2017-12-07 12:35:47.000
+12032,Heart Health Researchers,People reading news and advice on preventing and treating heart health issues.,2017-11-16 14:20:02.000,2017-12-27 12:31:08.000
+10250,Halloween Costume Shoppers,Consumers comparing and shopping for Halloween costumes. These consumers are more likely to spend money on costumes for themselves and their kids.,2017-09-15 16:53:30.000,2017-12-27 12:31:08.000
+10251,Personal Bank Comparison Researchers,Consumers researching and comparing personal checking and saving account products from different banks.,2017-09-18 15:07:53.000,2017-12-07 12:35:47.000
+10284,Alaskan Cruise Planners,People researching cruise accommodations for trips to Alaska. These consumers are more likely to spend money on travel and local attractions.,2017-09-20 11:40:01.000,2017-12-27 12:31:08.000
+10326,IT News Readers,People reading industry news and product releases for information technology.,2017-09-21 16:35:42.000,2017-12-27 12:31:08.000
+10351,Military Personal Finance Researchers,People researching personal finance while also demonstrating interest in military related content.,2017-09-25 16:08:34.000,2018-05-23 11:30:13.000
+10364,Documentary Film Fans,People who love watching and reading about documentary films .,2017-09-26 18:05:13.000,2018-05-23 11:30:12.000
+10365,Horror Movie Fans,People interested in watching and reading about horror films .,2017-09-26 18:05:13.000,2018-05-23 11:30:12.000
+10366,Sci-Fi Movie Fans,People who love watching and reading articles about Sci-fi movies.,2017-09-26 18:05:13.000,2018-05-23 11:30:13.000
+10832,Austin Trip Planners,"People researching attractions and accommodations in Austin. These consumers are more likely to spend money on flights, hotels, and local attractions.",2017-10-11 11:16:31.000,2017-12-07 12:35:47.000
+10833,Dallas Trip Planners,"People researching attractions and accommodations in Dallas. These consumers are more likely to spend money on flights, hotels, and local attractions.",2017-10-11 11:16:31.000,2017-12-07 12:35:47.000
+10834,Norfolk and Virginia Beach Trip Planners,"People researching attractions and accommodations in Norfolk and Virginia. These consumers are more likely to spend money on flights, hotels, and local attractions.",2017-10-11 11:16:31.000,2018-09-07 08:07:27.000
+10835,Long Beach California Trip Planners,"People researching attractions and accommodations in Long Beach, California. These consumers are more likely to spend money on flights, hotels, and local attractions.",2017-10-11 11:16:31.000,2017-12-07 12:35:47.000
+10836,Fort Lauderdale Trip Planners,"People researching attractions and accommodations in Fort Lauderdale. These consumers are more likely to spend money on flights, hotels, and local attractions.",2017-10-11 11:16:31.000,2017-12-07 12:35:47.000
+10837,Denver Trip Planners,"People researching attractions and accommodations in Denver. These consumers are more likely to spend money on flights, hotels, and local attractions.",2017-10-11 11:16:31.000,2017-12-07 12:35:47.000
+10838,Detroit Trip Planners,"People researching attractions and accommodations in Detroit. These consumers are more likely to spend money on flights, hotels, and local attractions.",2017-10-11 11:16:31.000,2017-12-07 12:35:47.000
+10839,Tampa and St Petersburg Trip Planners,"People researching attractions and accommodations in Tampa and St Petersburg. These consumers are more likely to spend money on flights, hotels, and local attractions.",2017-10-11 11:16:31.000,2018-09-07 08:07:48.000
+10869,Seattle Seahawks Fans,People reading news about the Seattle Seahawks and watching games. These consumers are more likely to spend money on team gear.,2017-10-16 10:18:46.000,2017-12-27 12:31:08.000
+10870,Philadelphia Eagles Fans,People reading news about the Philadelphia Eagles and watching games. These consumers are more likely to spend money on team gear.,2017-10-16 10:18:46.000,2017-12-27 12:31:08.000
+10871,Dallas Cowboys Fans,People reading news about the Dallas Cowboys and watching games. These consumers are more likely to spend money on team gear.,2017-10-16 10:18:46.000,2017-12-27 12:31:08.000
+10872,Atlanta Falcons Fans,People reading news about the Atlanta Falcons and watching games. These consumers are more likely to spend money on team gear.,2017-10-16 10:18:46.000,2017-12-27 12:31:08.000
+10953,Beard Care Shoppers,Consumers comparing and shopping for beard care products and services.,2017-10-23 12:32:17.000,2017-12-27 12:31:08.000
+10954,Nintendo Enthusiasts,People who love visiting video game websites and reading about Nintendo.,2017-10-23 12:32:18.000,2018-05-23 11:30:13.000
+10955,Pokemon Enthusiasts,People who love visiting video game websites and reading about Pokemon.,2017-10-23 12:32:18.000,2018-05-23 11:30:13.000
+10970,Halloween Decorations Shoppers,Consumers in-market for Halloween decorations.,2017-10-24 10:16:21.000,2018-05-23 11:30:12.000
+10971,Halloween Enthusiasts,People who visit Halloween related websites.,2017-10-24 10:16:21.000,2018-05-23 11:30:12.000
+10972,Halloween Thrill Seekers,People researching Halloween related thrill venues and ideas.,2017-10-24 10:16:21.000,2018-05-23 11:30:12.000
+10973,Family Halloween Party Planners,Consumers in-market for Halloween party supplies and content.,2017-10-24 10:16:21.000,2018-05-23 11:30:12.000
+10974,Thanksgiving Entertaining Researchers,Consumers reading online about Thanksgiving entertaining ideas.,2017-10-24 10:16:21.000,2018-05-23 11:30:13.000
+10975,Thanksgiving Meal Planners,People reading online about Thanksgiving meal ideas.,2017-10-24 10:16:21.000,2018-05-23 11:30:13.000
+10976,Christmas Decorations Shoppers,Consumers in-market for Christmas decorations.,2017-10-24 10:16:21.000,2018-05-23 11:30:12.000
+10977,Christmas Celebration Researchers,People reading online about Christmas celebration ideas.,2017-10-24 10:16:21.000,2018-05-23 11:30:12.000
+10978,Family Christmas Celebration Researchers,People reading online about family focused Christmas celebration ideas.,2017-10-24 10:16:21.000,2018-05-23 11:30:12.000
+10979,Hanukkah Celebration Planners,People researching online about Hanukkah Celebration ideas.,2017-10-24 10:16:21.000,2018-05-23 11:30:12.000
+10980,Hanukkah Decorations Shoppers,Consumers in-market for Hanukkah decorations.,2017-10-24 10:16:21.000,2018-05-23 11:30:12.000
+10981,New Years Eve Party Ticket Purchasers,Consumers in-market for New Years Eve party tickets.,2017-10-24 10:16:21.000,2018-05-23 11:30:13.000
+10988,Santa Monica Trip Planners,"People researching attractions and accommodations in Santa Monica. These consumers are more likely to spend money on flights, hotels, and local attractions.",2017-10-25 12:42:39.000,2017-12-07 12:35:47.000
+11065,Authors,Professionals reading industry news and researching products and services for professional writing.,2017-11-01 10:42:27.000,2017-12-27 12:31:08.000
+11066,Chain Pizzeria Fans,Consumers researching promotions and ordering pizza from online pizza chains.,2017-11-01 10:42:28.000,2018-05-31 22:11:37.000
+11067,NCAA Football Fans,People reading articles and websites about college football and the NCAA.,2017-11-01 10:42:28.000,2018-05-23 11:30:13.000
+11974,Price Conscious Home Shoppers,Consumers shopping for discount home furnishings,2017-11-13 15:15:02.000,2018-02-26 15:39:59.000
+11975,Landscape Architects,Professionals reading industry news and researching products and services for landscape design.,2017-11-13 15:15:04.000,2017-12-27 12:31:08.000
+11977,Civil Engineers,Professionals reading industry news and researching products and services for civil engineering.,2017-11-13 15:15:04.000,2017-12-27 12:31:08.000
+12025,Urban Skateboarding Sneaker Shoppers,Consumers comparing and shopping for trendy urban skateboarding sneakers.,2017-11-16 14:05:02.000,2017-12-27 12:31:08.000
+12026,California Trip Planners,"People researching attractions and accommodations in California. These consumers are more likely to spend money on flights, hotels, and local attractions.",2017-11-16 14:05:02.000,2017-12-07 12:35:47.000
+12027,Gen Z Apparel Shoppers,Consumers comparing and shopping for clothing and accessories popular with Gen Z.,2017-11-16 14:05:02.000,2017-12-27 12:31:08.000
+12031,Neurologists,Professionals reading industry news and researching products and services for neurology.,2017-11-16 14:20:02.000,2017-12-27 12:31:08.000
+12132,Last Minute Travelers,People researching and booking travel accommodations with little to no advanced notice.,2017-11-27 16:45:02.000,2017-12-27 12:31:08.000
+12133,Luxury Boutique Hotel Researchers,"Consumers comparing or purchasing accommodations at luxury, boutique hotels.",2017-11-27 16:45:02.000,2017-12-07 12:35:47.000
+12277,Market Intelligence Researchers,Professionals reading industry news focused on market intelligence.,2017-12-04 17:10:02.000,2017-12-18 10:57:27.000
+12490,Gourmet Food Purchasers,Consumers shopping for gourmet food products and services.,2017-12-14 15:05:02.000,2018-02-26 15:40:05.000
+12602,Family Medical Practice Journal Researchers,People reading news about the Catholic faith.,2017-12-18 12:10:03.000,2018-12-07 11:59:17.000
+12820,Commercial Contractors & Designers,Professionals reading industry news about contracting and designing for commercial properties.,2017-12-21 12:30:02.000,2018-12-07 11:59:17.000
+12821,Commercial Healthcare Hospitality & Retail Designers,Professionals reading industry news about hospitality and retail design for commercial healthcare properties.,2017-12-21 12:30:02.000,2018-12-07 11:59:17.000
+13421,Los Angeles Mass Transit Commuters,People reading news about mass transit systems in Los Angeles and using commuter resources.,2018-01-04 10:25:02.000,2018-01-04 10:25:02.000
+13428,Smoking Cessation Intenders,People researching available products and services to stop smoking cigarettes.,2018-01-04 17:30:02.000,2018-05-23 16:19:11.000
+13496,Professional Chefs,Professionals reading industry news and researching products and services for chefs.,2018-01-08 16:15:02.000,2018-05-23 16:19:11.000
+13497,Restaurant Supply Shoppers,Consumers comparing and shopping for wholesale restaurant food and supplies.,2018-01-08 16:15:02.000,2018-05-23 16:19:11.000
+13498,Restaurant News Readers,Professionals reading industry news and researching products and services for restaurants.,2018-01-08 16:15:02.000,2018-05-23 16:19:11.000
+14800,Rapid City Trip Planners,"People researching attractions and accommodations in Rapid City. These consumers are more likely to spend money on flights, hotels, and local attractions.",2018-01-24 18:25:03.000,2018-05-23 16:19:11.000
+14801,Cryptocurrency Enthusiasts,People reading industry news and following trends on cryptocurrencies.,2018-01-24 18:25:03.000,2018-01-24 18:25:03.000
+14802,Online Bank Researchers,People researching online banks and comparing products and services.,2018-01-24 18:30:02.000,2018-05-23 16:19:11.000
+14895,In-Market Car Shoppers,Consumers shopping for cars on car consolidator search sites.,2018-01-26 15:40:04.000,2018-03-12 16:42:47.000
+14901,Audio Book Listeners,People visiting sites to download audio books and audio content.,2018-01-26 16:20:04.000,2018-05-23 16:19:11.000
+15877,Readers of Pakistani Content,People reading news from Pakistani media sources.,2018-02-02 16:25:03.000,2018-05-23 16:19:11.000
+15878,Readers of Catholic News,People reading news about the Muslim faith.,2018-02-02 16:25:03.000,2018-12-07 11:59:17.000
+15879,Freelancers,Professionals reading industry news and following trends on freelancing.,2018-02-02 16:25:03.000,2018-02-02 16:25:03.000
+15882,Online Role Playing Game Enthusiasts,People researching role playing games and sharing with the community.,2018-02-02 16:25:03.000,2018-12-07 11:59:17.000
+15883,Video and Computer Gaming Enthusiasts,People reading news and following gaming trends.,2018-02-02 16:25:03.000,2018-12-07 11:59:17.000
+15884,Video Gamers,People researching and reading reviews of video games.,2018-02-02 16:25:03.000,2018-12-07 11:59:17.000
+15935,Pregnancy Resources Researchers,People who visit websites and read articles related to pregnancy and childbirth.,2018-02-06 11:45:03.000,2018-05-31 22:11:37.000
+16119,San Diego Trip Planners,"People researching attractions and accommodations in San Diego. These consumers are more likely to spend money on flights, hotels, and local attractions.",2018-02-13 10:50:03.000,2018-02-13 10:50:03.000
+16137,Olympics Fans,People reading news about the Olympics and following the events.,2018-02-13 14:10:03.000,2018-02-13 14:10:03.000
+16138,Special Olympics Fans,People reading news about the Special Olympics and following the events.,2018-02-13 14:10:03.000,2018-02-13 14:10:03.000
+16196,Mexico Trip Planners,"People researching attractions and accommodations in Mexico. These consumers are more likely to spend money on flights, hotels, and local attractions.",2018-02-14 15:50:04.000,2018-02-14 15:50:04.000
+16197,Financial Business Intelligence Researchers,Professionals reading industry news and following financial business intelligence trends.,2018-02-14 15:50:04.000,2018-02-22 15:26:32.000
+16198,World of Warcraft Enthusiasts,People researching World of Warcraft news and following gaming trends.,2018-02-14 15:50:04.000,2018-12-12 18:21:00.000
+17269,At-Home Gym Intenders,Consumers purchasing products and services for exercising at home.,2018-02-27 14:15:03.000,2018-05-23 16:19:11.000
+17271,Car Collector Enthusiasts,"People reading news on the collector car market. ",2018-02-27 14:15:03.000,2018-05-23 16:19:12.000
+17274,Readers of Jamaican Content,People reading news from Jamaican media sources.,2018-02-27 14:15:03.000,2018-05-23 16:19:11.000
+17314,Lobbyists,Professionals reading industry news on lobbying.,2018-02-28 11:00:04.000,2018-12-07 11:59:17.000
+17318,Charitable Organization Supporters,People supporting charitable organizations through service and donations.,2018-02-28 11:00:04.000,2018-12-07 11:59:17.000
+17320,March Madness Enthusiasts,People watching college basketball and reading about March Madness.,2018-02-28 11:00:04.000,2018-02-28 11:00:04.000
+17452,Clinic & Lab Immunologist Professionals,"Professionals reading industry news and trends on immunology at medical clinics and labs. ",2018-03-01 16:10:03.000,2018-05-23 16:19:11.000
+17540,Vacuum Shoppers,People comparing and shopping for vacuums and vacuum parts.,2018-03-06 16:20:03.000,2018-03-06 16:20:03.000
+17669,Fragrance Shoppers,People shopping for perfume or cologne.,2018-03-09 14:20:03.000,2018-03-09 14:20:03.000
+17670,Deodorant Shoppers,People shopping for deoderant.,2018-03-09 14:20:03.000,2018-03-09 14:20:03.000
+17671,Crypto Market Investors,People researching news and trends on the crypto market.,2018-03-09 14:20:04.000,2018-03-09 14:20:04.000
+17672,Indie Coffee Shoppers,People shopping for coffee products from independent coffee brands.,2018-03-09 14:20:04.000,2018-05-23 16:19:11.000
+17673,Coffee Chain Shoppers,People shopping for coffee products from chains coffee brands.,2018-03-09 14:20:04.000,2018-05-23 16:19:11.000
+17674,Medical Advice Researchers,People researching medical symptoms and seeking advice online.,2018-03-09 14:20:04.000,2018-12-07 11:59:17.000
+17729,Competitive Car Brand Shoppers,People comparing and shopping for competitive economy car brands.,2018-03-12 15:35:03.000,2018-05-23 11:30:13.000
+17730,Luxury Department Store Shoppers,Consumers shopping at luxury department stores.,2018-03-12 15:35:03.000,2018-12-07 11:59:17.000
+17785,Luxury Womens Brands Shoppers,Consumers shopping for clothing and accessories from luxury women's brands.,2018-03-14 11:00:04.000,2018-12-07 11:59:17.000
+17786,Womens Fashion Brands Shoppers,Consumers shopping for clothing and accessories from top women's fashion brands.,2018-03-14 11:00:04.000,2018-12-07 11:59:17.000
+17803,TV Advertising Professionals,Professionals reading industry news and following trends for tv advertising.,2018-03-14 13:35:05.000,2018-04-11 16:46:51.000
+18202,Real Estate Decision Makers,Professionals reading industry news and trends on real estate.,2018-03-21 13:30:04.000,2018-12-07 11:59:17.000
+18203,Hunters,Consumers reading hunting news and shopping for products and equipment for hunting.,2018-03-21 13:30:04.000,2018-12-07 11:59:17.000
+18204,Healthcare Thought Leaders,Professionals reading industry news and sharing information on healthcare.,2018-03-21 13:30:04.000,2018-05-31 22:11:37.000
+18347,Affordable Hotel Bookers,Consumers comparing and booking hotel accommodations at affordable level US hotel chains.,2018-03-26 16:20:05.000,2018-03-26 16:20:05.000
+18348,Sci-Fi Show Watchers,Consumers watching and reading about popular sci-fi television shows.,2018-03-26 16:20:05.000,2018-05-23 11:30:13.000
+18350,Photo Memory Makers,Consumers comparing services and shopping for prodcuts to make creations out of their photographs.,2018-03-26 16:45:03.000,2018-03-26 16:45:03.000
+18351,Drama Show Watchers,Consumers watching and reading about popular drama television shows.,2018-03-26 16:45:03.000,2018-03-26 16:45:03.000
+18352,Pediatric Provider Researchers,People researching healthcare providers and doctors for pedriatric medicine.,2018-03-26 16:45:03.000,2018-12-12 17:00:06.000
+18490,Professional Sound Products Researchers,People researching and shopping for professional sound products.,2018-03-30 16:25:02.000,2018-03-30 16:25:02.000
+18619,Asian Food Enthusiasts,People reading about Asian food and researching recipes.,2018-04-09 12:10:04.000,2018-04-09 12:10:04.000
+18620,Mexican Food Enthusiasts,People reading about Mexican food and researching recipes.,2018-04-09 12:10:04.000,2018-05-23 11:30:13.000
+18621,Italian Food Enthusiasts,People reading about Italian food and researching recipes.,2018-04-09 12:10:05.000,2018-04-09 12:10:05.000
+18622,Las Vegas Nightlife Researchers,People researching nightlife in Las Vegas.,2018-04-09 12:10:05.000,2018-04-09 12:10:05.000
+18646,Recipe Researchers,People researching recipes for at home cooking and entertaining.,2018-04-10 14:55:03.000,2018-04-10 14:55:03.000
+18647,Gourmet Food & Wine Researchers,People researching recipes and trends for gourmet food and wine.,2018-04-10 14:55:03.000,2018-04-10 14:55:03.000
+18648,Architecture Enthusiasts,People reading industry news and following architecture trends.,2018-04-10 14:55:03.000,2018-04-10 14:55:03.000
+18781,Gastroenterology Journal Researchers,People and medical professionals reading gastroenterology journals.,2018-04-16 16:00:03.000,2018-05-04 15:11:29.000
+18782,Internal Medicine Journal Researchers,People and medical professionals reading internal medicine journals.,2018-04-16 16:00:03.000,2018-05-04 15:11:29.000
+18783,Nursing and Physicians Assistant Journal Researchers,People and medical professionals reading nursing and physicians assistant journals.,2018-04-16 16:00:03.000,2018-05-04 15:11:29.000
+18784,Healthcare Provider Education Researchers,"People and medical professionals reading family medical practice journals. ",2018-04-16 16:00:03.000,2018-05-23 16:19:11.000
+18807,Food Safety QA Professionals,Professionals reading food safety industry news.,2018-04-17 11:25:03.000,2018-05-23 16:19:11.000
+18923,Online Home Decor Shoppers,Consumers shopping online for home decor available for delivery.,2018-04-19 18:25:02.000,2018-04-19 18:25:02.000
+18924,Commercial Banking Market Intelligence Researchers,Professionals researching market intelligence for commercial banking.,2018-04-19 18:25:02.000,2018-04-19 18:25:02.000
+18995,Commercial Architects and Designers,Professionals reading industry news on commercial architecture and design.,2018-04-23 15:55:03.000,2018-04-23 15:55:03.000
+18996,Investment Banking Professionals,Professionals reading industry news on investment banking.,2018-04-23 15:55:03.000,2018-04-23 15:55:03.000
+18997,Insurance Professionals,Professionals reading industry news on insurance.,2018-04-23 15:55:03.000,2018-04-23 15:55:03.000
+18998,Investment Management Professionals,Professionals reading industry news on investment management.,2018-04-23 15:55:03.000,2018-04-23 15:55:03.000
+19250,World Cup Enthusiasts,People who are fans of international soccer.,2018-05-02 11:00:05.000,2018-05-02 11:00:05.000
+19251,Cinco de Mayo Celebrators,People researching traditions and planning celebrations for Cinco de Mayo.,2018-05-02 11:00:05.000,2018-05-02 11:00:05.000
+19294,Patriotic Party Decoration Shoppers,Consumers shopping for patriotic themed party decorations.,2018-05-03 10:25:02.000,2018-05-03 10:25:02.000
+19295,Fishing Equipment Shoppers,Consumers shopping for fishing equipment.,2018-05-03 10:25:03.000,2018-05-03 10:25:03.000
+19296,BBQ Enthusiasts,People reading trends and techniques on BBQ and shopping for products.,2018-05-03 10:25:03.000,2018-05-03 10:25:03.000
+19297,Alzheimer and Dementia Researchers,People researching information and care for alzheimer and dementia patients.,2018-05-03 10:25:03.000,2018-05-03 10:25:03.000
+19298,Beach Supplies Shoppers,Consumers shopping for beach supplies.,2018-05-03 10:25:03.000,2018-05-03 10:25:03.000
+19338,Summer Activities Researchers,People researching summer activities for their families and kids.,2018-05-03 17:05:05.000,2018-05-03 17:05:05.000
+19422,Home Design and Living Publication Readers,People reading publications focused on design and living at home.,2018-05-08 11:55:03.000,2018-05-08 11:55:03.000
+19423,Kitchen Appliance Shoppers,People shopping for kitchen appliances.,2018-05-08 11:55:03.000,2018-05-08 11:55:03.000
+19519,Property and Facility Managers,Professionals reading industry news and researching products and services for property and facility management.,2018-05-11 12:30:03.000,2018-05-11 12:30:03.000
+19520,Building Service Contractors,Professionals reading industry news and researching products and services for building service contracting.,2018-05-11 12:30:03.000,2018-05-11 12:30:03.000
+19578,Sports Gamblers,People browsing content related to online\nsports betting.,2018-05-15 11:55:04.000,2019-02-13 17:05:19.000
+19579,Hematologists,Professionals reading industry news and researching products for hematology.,2018-05-15 11:55:04.000,2018-05-15 11:55:04.000
+19587,Acura Vehicle Shoppers,People researching and comparing Acura vehicles. These consumers are more likely to spend money on a new or used car.,2018-05-15 14:20:03.000,2018-05-15 14:20:03.000
+19588,Audi Vehicle Shoppers,People researching and comparing Audi vehicles. These consumers are more likely to spend money on a new or used car.,2018-05-15 14:20:03.000,2018-05-15 14:20:03.000
+19589,Auto Body Shoppers,Consumers researching products and services for auto body work.,2018-05-15 14:20:03.000,2018-05-15 14:20:03.000
+19590,Auto Show Enthusiasts,People researching news and viewing online content focused on auto shows and collectible cars.,2018-05-15 14:20:03.000,2018-05-15 14:20:03.000
+19591,Camaro Enthusiasts,People researching and comparing Camaro vehicles. These consumers are more likely to spend money on a new or used car.,2018-05-15 14:20:04.000,2018-05-15 14:20:04.000
+19592,Cigars Shoppers,Consumers researching brands and shopping for cigars.,2018-05-15 14:20:04.000,2018-05-15 14:20:04.000
+19593,Classic Car Shoppers,People researching and comparing classic cars. These consumers are more likely to spend money on car shows and collectible cars.,2018-05-15 14:20:04.000,2018-05-15 14:20:04.000
+19594,Corvette Enthusiasts,People researching and comparing Corvette vehicles. These consumers are more likely to spend money on a new or used car.,2018-05-15 14:20:04.000,2018-05-15 14:20:04.000
+19595,Diesel Vehicle Shoppers,People researching and comparing diesel vehicles. These consumers are more likely to spend money on a new or used car.,2018-05-15 14:20:04.000,2018-05-15 14:20:04.000
+19596,Dirt Bike Enthusiasts,Consumers researching dirt bike racing news and shopping for dirt bikes and riding accessories.,2018-05-15 14:20:04.000,2018-05-15 14:20:04.000
+19597,Disability Insurance Researchers,People researching and comparing disability insurance policies. These consumers are more likely to spend money with insurance companies.,2018-05-15 14:20:04.000,2018-05-15 14:20:04.000
+19598,Doctor Who Fans,"People reading fan sites, promotional material, and news on the Doctor Who series.",2018-05-15 14:20:04.000,2018-05-15 14:20:04.000
+19599,Dodge Vehicle Shoppers,People researching and comparing Dodge vehicles. These consumers are more likely to spend money on a new or used car.,2018-05-15 14:20:04.000,2018-05-15 14:20:04.000
+19600,Ducati Motorcycle Shoppers,People researching and comparing Ducati motorcycles. These consumers are more likely to spend money on a new or used motorcycle.,2018-05-15 14:20:04.000,2018-05-15 14:20:04.000
+40438,iPhone Users,Consumers shopping for products and services for their iPhones.,2018-11-09 15:40:05.000,2018-11-09 15:40:05.000
+19601,Ford Mustang Enthusiasts,People researching and comparing Ford Mustang model vehicles. These consumers are more likely to spend money on a new or used car.,2018-05-15 14:20:04.000,2018-05-15 14:20:04.000
+19602,Ford Vehicle Shoppers,People researching and comparing Ford vehicles. These consumers are more likely to spend money on a new or used car.,2018-05-15 14:20:04.000,2018-05-15 14:20:04.000
+19603,France Trip Planners,"People researching attractions and accommodations in France. These consumers are more likely to spend money on flights, hotels, and local attractions.",2018-05-15 14:20:04.000,2018-05-15 14:20:04.000
+19604,Game of Thrones Fans,"People reading fan sites, promotional material, and news on the Game of Thrones books and series.",2018-05-15 14:20:05.000,2018-05-15 14:20:05.000
+19605,Harley Davidson Shoppers,People researching and comparing Harley Davidson vehicles. These consumers are more likely to spend money on a new or used motorcycle.,2018-05-15 14:20:05.000,2018-05-15 14:20:05.000
+19606,Home Networking Researchers,People researching brands and comparing products and services for a home network.,2018-05-15 14:20:05.000,2018-05-15 14:20:05.000
+19607,Home Theater Enthusiasts,People researching brands and comparing products and services for a home theater.,2018-05-15 14:20:05.000,2018-05-15 14:20:05.000
+19608,Honda Vehicle Shoppers,People researching and comparing Honda vehicles. These consumers are more likely to spend money on a new or used car.,2018-05-15 14:20:05.000,2018-05-15 14:20:05.000
+19609,Hyundai Vehicle Shoppers,People researching and comparing Hyundai vehicles. These consumers are more likely to spend money on a new or used car.,2018-05-15 14:20:05.000,2018-05-15 14:20:05.000
+19610,Jaguar Vehicle Shoppers,People researching and comparing Jaguar vehicles. These consumers are more likely to spend money on a new or used car.,2018-05-15 14:20:05.000,2018-05-15 14:20:05.000
+19611,Jeep Vehicle Shoppers,People researching and comparing Jeep vehicles. These consumers are more likely to spend money on a new or used car.,2018-05-15 14:20:05.000,2018-05-15 14:20:05.000
+19612,Kia Vehicle Shoppers,People researching and comparing Kia vehicles. These consumers are more likely to spend money on a new or used car.,2018-05-15 14:20:05.000,2018-05-15 14:20:05.000
+19613,Land Rover Shoppers,People researching and comparing Land Rover vehicles. These consumers are more likely to spend money on a new or used car.,2018-05-15 14:20:05.000,2018-05-15 14:20:05.000
+19614,Mazda Vehicle Shoppers,People researching and comparing Mazda vehicles. These consumers are more likely to spend money on a new or used car.,2018-05-15 14:20:05.000,2018-05-15 14:20:05.000
+19615,Mercedes-Benz Vehicle Shoppers,People researching and comparing Mercedes-Benz vehicles. These consumers are more likely to spend money on a new or used car.,2018-05-15 14:20:05.000,2018-05-15 14:20:05.000
+19616,Muscle Car Shoppers,People researching and comparing muscle cars. These consumers are more likely to spend money on a new or used car.,2018-05-15 14:20:05.000,2018-05-15 14:20:05.000
+19617,Nissan Vehicle Shoppers,People researching and comparing Nissan vehicles. These consumers are more likely to spend money on a new or used car.,2018-05-15 14:20:05.000,2018-05-15 14:20:05.000
+19618,Off Road Accessories Enthusiasts,Consumers researching products and services for off road accessories.,2018-05-15 14:20:06.000,2018-05-15 14:20:06.000
+19619,Pet Food Shoppers,Consumers researching brands and shopping for pet food.,2018-05-15 14:20:06.000,2018-05-15 14:20:06.000
+19620,PlayStation Enthusiasts,People reading news about PlayStation and researching games for the system.,2018-05-15 14:20:06.000,2018-05-15 14:20:06.000
+19621,Portugal Trip Planners,"People researching attractions and accommodations in Portugal. These consumers are more likely to spend money on flights, hotels, and local attractions.",2018-05-15 14:20:06.000,2018-05-15 14:20:06.000
+19622,Quads and ATV Enthusiasts,People researching brands and comparing quads and ATV vehicles. These consumers are more likely to spend money on a new or used ATVs.,2018-05-15 14:20:06.000,2018-05-15 14:20:06.000
+19623,Russia Trip Planners,"People researching attractions and accommodations in Russia. These consumers are more likely to spend money on flights, hotels, and local attractions.",2018-05-15 14:20:06.000,2018-05-15 14:20:06.000
+19624,RV Shoppers,People researching and comparing recreational vehicles and campers. These consumers are more likely to spend money on a new or used RV.,2018-05-15 14:20:06.000,2018-05-15 14:20:06.000
+19625,Sony Fans,People reading news about Sony and researching new product releases.,2018-05-15 14:20:06.000,2018-05-15 14:20:06.000
+19626,Star Trek Fans,"People reading fan sites, promotional material, and news on the Star Trek franchise.",2018-05-15 14:20:06.000,2018-05-15 14:20:06.000
+19627,Subaru Vehicle Shoppers,People researching and comparing Subaru vehicles. These consumers are more likely to spend money on a new or used car.,2018-05-15 14:20:06.000,2018-05-15 14:20:06.000
+19628,Oral Hygiene Shoppers,Consumers researching brands and shopping for oral hygiene products.,2018-05-15 14:20:06.000,2018-05-15 14:20:06.000
+19629,Tiny Home Researchers,People researching and comparing products and services for tiny homes.,2018-05-15 14:20:06.000,2018-05-15 14:20:06.000
+19630,Toyota Vehicle Shopper,People researching and comparing Toyota vehicles. These consumers are more likely to spend money on a new or used car.,2018-05-15 14:20:06.000,2018-05-15 14:20:06.000
+19631,Tractor Shoppers,People researching and comparing tractors. These consumers are more likely to spend money on a new or used tractors and accessories.,2018-05-15 14:20:06.000,2018-05-15 14:20:06.000
+19632,Truck Shoppers,People researching and comparing truck models. These consumers are more likely to spend money on a new or used car.,2018-05-15 14:20:07.000,2018-05-15 14:20:07.000
+19633,UFC and MMA Fans,Active fans of the Ultimate Fighting Championship and Mixed Martial Arts.,2018-05-15 14:20:07.000,2018-05-15 14:20:07.000
+19634,Volkswagen Vehicle Shopper,People researching and comparing Volkswagen vehicles. These consumers are more likely to spend money on a new or used car.,2018-05-15 14:20:07.000,2018-05-15 14:20:07.000
+19635,Xbox Enthusiasts,People reading news about Xbox and researching games for the system.,2018-05-15 14:20:07.000,2018-05-15 14:20:07.000
+19757,Natural Pet Food Shoppers,Consumers researching and shopping for natural pet food.,2018-05-17 17:30:03.000,2018-05-17 17:30:03.000
+19758,Dog Lovers,People reading about dogs and shopping for pet products and services.,2018-05-17 17:30:03.000,2018-05-17 17:30:03.000
+19759,Pet Lovers,People reading about pets and shopping for pet products and services.,2018-05-17 17:30:03.000,2018-05-17 17:30:03.000
+19760,Cat Lovers,People reading about cats and shopping for pet products and services.,2018-05-17 17:30:04.000,2018-05-17 17:30:04.000
+19878,Coin Collectors,People researching rare coins and purchasing products for their collection.,2018-05-21 17:40:05.000,2018-05-21 17:40:05.000
+19879,Personal Investment Researchers,People researching products and services for personal investments.,2018-05-21 17:40:05.000,2018-05-21 17:40:05.000
+20730,Readers of Chinese Content,People reading news from Chinese media sources.,2018-05-29 11:00:03.000,2018-05-29 11:00:03.000
+20731,Readers of South Asian Content,People reading news from South Asian media sources.,2018-05-29 11:00:03.000,2018-05-29 11:00:03.000
+20750,BMW Vehicle Shoppers,People researching and comparing BMW vehicles. These consumers are more likely to spend money on a new or used car.,2018-05-29 15:00:03.000,2018-07-02 13:02:57.000
+20751,Commercial Vehicles Shoppers,People researching and comparing commercial vehicles. These consumers are more likely to spend money on a new or used commercial vehicle.,2018-05-29 15:00:04.000,2018-05-29 15:00:04.000
+20752,Commercial Truck Researchers,People researching and comparing commercial trucks. These consumers are more likely to spend money on a new or used commercial truck.,2018-05-29 15:00:04.000,2018-05-29 15:00:04.000
+20753,Tesla Enthusiasts,People researching Tesla vehicles and news on alternative fuel vehicles. These consumers are more likely to spend money on a new or alternative fuel car.,2018-05-29 15:00:04.000,2018-05-29 15:00:04.000
+20754,Used Car Shoppers,People researching and comparing used cars. These consumers are more likely to spend money on a used car.,2018-05-29 15:00:04.000,2018-05-29 15:00:04.000
+20755,Movie Ticket Buyers,People searching movie times and purchasing tickets online.,2018-05-29 15:00:04.000,2018-05-29 15:00:04.000
+20756,The Walking Dead Fans,"People reading fan sites, promotional material, and news on The Walking Dead comics and series.",2018-05-29 15:00:04.000,2018-05-29 15:00:04.000
+20764,Entertainment Industry Decision Makers,Professionals reading industry news and researching trends in the entertainment industry.,2018-05-29 18:30:06.000,2018-05-29 18:30:06.000
+20766,Senior Living Center Researchers,People researching senior living centers and comparing services and facilities.,2018-05-29 18:30:06.000,2018-05-29 18:30:06.000
+20767,Beer Lovers,Consumers researching beer companies and purchasing beer online.,2018-05-29 18:30:06.000,2018-05-29 18:30:06.000
+20768,Beer Aficionados,People researching beer companies and purchasing craft beers. These consumers are more likely to purchase home brewing products and visit breweries.,2018-05-29 18:30:06.000,2018-05-29 18:30:06.000
+20814,Boston Celtics Fans,People reading news about the Boston Celtics and watching games. These consumers are more likely to spend money on team gear.,2018-05-30 19:20:05.000,2018-05-30 19:20:05.000
+20815,Cleveland Cavaliers Fans,People reading news about the Cleveland Cavaliers and watching games. These consumers are more likely to spend money on team gear.,2018-05-30 19:20:05.000,2018-05-30 19:20:05.000
+20816,Houston Rockets Fans,People reading news about the Houston Rockets and watching games. These consumers are more likely to spend money on team gear.,2018-05-30 19:20:05.000,2018-05-30 19:20:05.000
+20817,Golden State Warriors Fans,People reading news about the Golden State Warriors and watching games. These consumers are more likely to spend money on team gear.,2018-05-30 19:20:06.000,2018-05-30 19:20:06.000
+20963,Natural and Holistic Health Researchers,People researching trends and products for natural and holistic health care.,2018-06-05 12:45:05.000,2018-06-05 12:45:05.000
+21057,Work Comes First Travelers,People looking to book a hotel who travel frequently for business and vacation.,2018-06-06 16:50:02.000,2018-06-06 16:50:02.000
+21058,Countdown to the Beach Travelers,People looking to book a hotel for the ultimate relaxation vacation.,2018-06-06 16:50:03.000,2018-06-06 16:50:03.000
+21059,Executive Travelers,People looking to book a four-star hotel for a vacation escape from their high-stress jobs.,2018-06-06 16:50:03.000,2018-06-06 16:50:03.000
+21060,Family Adventures Travelers,People looking to book a rental home for a family-oriented vacation.,2018-06-06 16:50:03.000,2018-06-06 16:50:03.000
+21061,"Work Hard, Play Hard Travelers",People looking to book a rental home for a young professional friend group vacation.,2018-06-06 16:50:03.000,2018-06-06 16:50:03.000
+21062,Getting Off the Grid Travelers,People looking to book a rental home who want to be in the wilderness and close to nature,2018-06-06 16:50:03.000,2018-06-06 16:50:03.000
+21236,Arsenal Fans,People reading news about the Arsenal football club and watching games. These consumers are more likely to spend money on team gear.,2018-06-11 17:50:03.000,2018-06-11 17:50:03.000
+21237,Chelsea Fans,People reading news about the Chelsea football club and watching games. These consumers are more likely to spend money on team gear.,2018-06-11 17:50:03.000,2018-06-11 17:50:03.000
+21238,Manchester United Fans,People reading news about the Manchester United football club and watching games. These consumers are more likely to spend money on team gear.,2018-06-11 17:50:03.000,2018-06-11 17:50:03.000
+21239,FC Barcelona Fans,People reading news about the Barcelona football club and watching games. These consumers are more likely to spend money on team gear.,2018-06-11 17:50:03.000,2018-06-11 17:50:03.000
+21240,Italian Mens National Soccer Team Fans,People reading news about the Italian Mens national soccer team and watching games. These consumers are more likely to spend money on team gear.,2018-06-11 17:50:04.000,2018-06-11 17:50:04.000
+21241,Premier League Fans,People reading news about the Premier League and watching games. These consumers are more likely to spend money on team gear.,2018-06-11 17:50:04.000,2018-06-11 17:50:04.000
+21242,World Cup Apparel Shoppers,Consumers shopping for World Cup apparel and team gear for teams competing in the World Cup.,2018-06-11 17:50:04.000,2018-06-11 17:50:04.000
+21243,Readers of Costa Rican Content,People reading news from Costa Rican media sources.,2018-06-11 17:50:04.000,2018-06-11 17:50:04.000
+21244,Readers of Guatemalan Content,People reading news from Guatemalan media sources.,2018-06-11 17:50:04.000,2018-06-11 17:50:04.000
+21245,Readers of Honduran Content,People reading news from Honduran media sources.,2018-06-11 17:50:04.000,2018-06-11 17:50:04.000
+21246,Readers of El Salvadoran Content,People reading news from El Salvadoran media sources.,2018-06-11 17:50:04.000,2018-06-11 17:50:04.000
+21247,Readers of Nicaraguan Content,People reading news from Nicaraguan media sources.,2018-06-11 17:50:04.000,2018-06-11 17:50:04.000
+21248,Readers of Panamanian Content,People reading news from Panamanian media sources.,2018-06-11 17:50:04.000,2018-06-11 17:50:04.000
+21249,Readers of Dominican Republic Content,People reading news from Dominican Republic media sources.,2018-06-11 17:50:04.000,2018-06-11 17:50:04.000
+21250,Readers of Colombian Content,People reading news from Colombian media sources.,2018-06-11 17:50:04.000,2018-06-11 17:50:04.000
+21251,Readers of Belizean Content,People reading news from Belizean media sources.,2018-06-11 17:50:04.000,2018-06-11 17:50:04.000
+21292,Smart Home Product Researchers,Consumers comparing and shopping for smart home products.,2018-06-12 11:45:03.000,2018-06-12 11:45:03.000
+21293,Home Wifi Researchers,Consumers comparing and shopping for whole home wifi products.,2018-06-12 11:45:03.000,2018-06-12 11:45:03.000
+21326,Video Game Shoppers,Consumers researching and purchasing video games.,2018-06-12 14:35:03.000,2018-06-12 14:35:03.000
+22091,Zoo Visitors,People researching zoos and planning a visit.,2018-06-18 18:40:03.000,2018-06-18 18:40:03.000
+22092,Water Park Visitors,People researching water parks and planning a visit.,2018-06-18 18:40:03.000,2018-06-18 18:40:03.000
+22093,Childrens Museum Visitors,People researching childrens museums and planning a visit.,2018-06-18 18:40:03.000,2018-06-18 18:40:03.000
+22094,Fireworks Enthusiasts,People researching where to purchase fireworks and see firework displays.,2018-06-18 18:40:03.000,2018-06-18 18:40:03.000
+22095,Hiking Enthusiasts,"People researching hiking trails, planning hikes, and purchasing gear.",2018-06-18 18:40:03.000,2018-06-18 18:40:03.000
+22096,Camping Enthusiasts,"People researching camping sites, planning camping trips, and purchasing gear.",2018-06-18 18:40:04.000,2018-06-18 18:40:04.000
+22398,Vaping Shoppers,Consumers researching products and brands for vaping.,2018-06-21 14:15:03.000,2018-06-21 14:15:03.000
+22400,Oil Brand Shoppers,Consumers shopping for name brand automotive oil.,2018-06-21 14:15:03.000,2018-06-21 14:15:03.000
+22401,As Seen on TV Shoppers,Consumers shopping for items advertising on television with a direct response mail-order or toll-free telephone number.,2018-06-21 14:15:03.000,2018-06-21 14:15:03.000
+22403,Pandora Jewelry Shoppers,Consumers shopping for jewelry from Pandora.,2018-06-21 14:15:04.000,2018-06-21 14:15:04.000
+22406,Green Bay Packers Fans,People reading news about the Green Bay Packers and watching games. These consumers are more likely to spend money on team gear.,2018-06-21 14:15:04.000,2018-06-21 14:15:04.000
+22408,Super Mario Bros Fans,People reading news and product releases for Super Mario Bros games and merchandise.,2018-06-21 14:15:04.000,2018-06-21 14:15:04.000
+22411,Chile Trip Planners,"People researching attractions and accommodations in Chile These consumers are more likely to spend money on flights, hotels, and local attractions.",2018-06-21 14:15:04.000,2018-06-21 14:15:04.000
+22413,China Trip Planners,"People researching attractions and accommodations in China These consumers are more likely to spend money on flights, hotels, and local attractions.",2018-06-21 14:15:04.000,2018-06-21 14:15:04.000
+22415,Colombia Trip Planners,"People researching attractions and accommodations in Colombia These consumers are more likely to spend money on flights, hotels, and local attractions.",2018-06-21 14:15:04.000,2018-06-21 14:15:04.000
+22417,Country Music Festivals Enthusiasts,People researching and planning to attend country music festivals.,2018-06-21 14:15:05.000,2018-06-21 14:15:05.000
+22419,Summer Festivals and Fairs Visitors,People researching and planning to attend local summer festivals and fairs.,2018-06-21 14:15:05.000,2018-07-06 07:13:18.000
+22420,Online Games Enthusiasts,People playing games online.,2018-06-21 14:15:05.000,2018-06-21 14:15:05.000
+22421,Online Card Games Players,People joining card game communities and playing games online.,2018-06-21 14:15:05.000,2018-06-21 14:15:05.000
+22422,Poker Card Game Hobbyists,People joining poker communities and playing poker and card games online.,2018-06-21 14:15:06.000,2018-06-21 14:15:06.000
+22423,Martial Arts Enthusiasts,People reading martial arts news and purchasing products for their training.,2018-06-21 14:15:06.000,2019-01-16 09:11:30.000
+22424,Cosplay Enthusiasts,People researching cosplay events and activities and purchasing costumes.,2018-06-21 14:15:06.000,2018-06-21 14:15:06.000
+22425,BBQ Recipe Researchers,People researching BBQ recipes and cooking techniques.,2018-06-21 14:15:06.000,2018-06-21 14:15:06.000
+22426,Bodybuilding Enthusiasts,People researching health and fitness trends for bodybuilding.,2018-06-21 14:15:06.000,2019-01-16 09:11:30.000
+22427,Yale University Fans,People reading articles and websites about college sports and Yale University athletics.,2018-06-21 14:15:06.000,2018-06-21 14:15:06.000
+22428,Harvard University Fans,People reading articles and websites about college sports and Harvard University athletics.,2018-06-21 14:15:07.000,2018-06-21 14:15:07.000
+22502,Lacrosse Enthusiasts,People researching lacrosse leagues and purchasing equipment and apparel.,2018-06-22 16:15:03.000,2019-01-16 09:11:30.000
+23778,Venture Capitalists,Professionals researching investment opportunities and venture capital industry trends.,2018-06-25 18:00:03.000,2018-06-25 18:00:03.000
+32485,College Professors,Professionals reading industry news and researching products and services for college professors.,2018-06-29 12:55:03.000,2018-06-29 12:55:03.000
+32486,Vacation Rental Accommodation Researchers,People researching and booking rentals accommodations for vacations.,2018-06-29 12:55:03.000,2018-06-29 12:55:03.000
+32701,Womens Equality Advocates,People visiting sites advocating for womens equal rights.,2018-07-06 14:35:03.000,2018-07-06 14:35:03.000
+32702,Romantics,People reading about romance and researching ideas for planning romantic moments.,2018-07-06 14:35:04.000,2018-07-06 14:35:04.000
+32703,School Supply Shoppers,Consumers shopping for classroom supplies for K-12 students.,2018-07-06 14:35:04.000,2018-07-06 14:35:04.000
+32704,Major Airline Customers,People visiting sites for major airline brands to plan and view travel itinerary.,2018-07-06 14:35:04.000,2018-07-06 14:35:04.000
+32705,Certified Events Professionals,Professionals reading industry news and researching products and services for event management.,2018-07-06 14:35:04.000,2018-07-06 14:35:04.000
+33191,Online Shoppers,People who spend money online,2018-07-17 10:40:03.000,2018-07-17 10:46:58.000
+33474,Daily Fantasy Sports Enthusiasts,"People in this audience follow fantasy sports, join leagues, and research sports trends.",2018-07-20 15:20:04.000,2018-07-25 14:16:21.000
+33533,Los Angeles Lakers Fans,People reading news about the Los Angeles Lakers and watching games. These consumers are more likely to spend money on team gear.,2018-07-25 18:00:03.000,2018-07-31 16:25:26.000
+33534,Miami Heat Fans,People reading news about the Miami Heat and watching games. These consumers are more likely to spend money on team gear.,2018-07-25 18:00:03.000,2018-07-31 16:25:26.000
+33957,Call of Duty Enthusiasts,People reading news and product releases for Call of Duty games and merchandise.,2018-08-02 16:05:03.000,2018-08-02 16:05:03.000
+33958,Astrology Enthusiasts,People reading daily horoscopes and astrology content.,2018-08-02 16:05:03.000,2018-08-02 16:05:03.000
+33959,Boston Bruins Fans,People reading news about the Boston Bruins and watching games. These consumers are more likely to spend money on team gear.,2018-08-02 16:05:03.000,2018-08-02 16:05:03.000
+33960,Chicago Blackhawks Fans,People reading news about the Chicago Blackhawks and watching games. These consumers are more likely to spend money on team gear.,2018-08-02 16:05:03.000,2018-08-02 16:05:03.000
+33961,Detroit Red Wings Fans,People reading news about the Detroit Red Wings and watching games. These consumers are more likely to spend money on team gear.,2018-08-02 16:05:04.000,2018-08-02 16:05:04.000
+33962,Chicago Bears Fans,People reading news about the Chicago Bears and watching games. These consumers are more likely to spend money on team gear.,2018-08-02 16:05:04.000,2018-08-02 16:05:04.000
+33963,Denver Broncos Fans,People reading news about the Denver Broncos and watching games. These consumers are more likely to spend money on team gear.,2018-08-02 16:05:04.000,2018-08-02 16:05:04.000
+33964,Milwaukee Bucks Fans,People reading news about the Milwaukee Bucks and watching games. These consumers are more likely to spend money on team gear.,2018-08-02 16:05:04.000,2018-08-02 16:05:04.000
+33965,Minnesota Timberwolves Fans,People reading news about the Minnesota Timberwolves and watching games. These consumers are more likely to spend money on team gear.,2018-08-02 16:05:04.000,2018-08-02 16:05:04.000
+33966,New York Knicks Fans,People reading news about the New York Knicks and watching games. These consumers are more likely to spend money on team gear.,2018-08-02 16:05:04.000,2018-08-02 16:05:04.000
+33967,New York Rangers Fans,People reading news about the New York Rangers and watching games. These consumers are more likely to spend money on team gear.,2018-08-02 16:05:04.000,2018-08-02 16:05:04.000
+33968,Oklahoma City Thunder Fans,People reading news about the Oklahoma City Thunder and watching games. These consumers are more likely to spend money on team gear.,2018-08-02 16:05:04.000,2018-08-02 16:05:04.000
+33969,Pittsburgh Penguins Fans,People reading news about the Pittsburgh Penguins and watching games. These consumers are more likely to spend money on team gear.,2018-08-02 16:05:04.000,2018-08-02 16:05:04.000
+33970,San Antonio Spurs Fans,People reading news about the San Antonio Spurs and watching games. These consumers are more likely to spend money on team gear.,2018-08-02 16:05:04.000,2018-08-02 16:05:04.000
+33971,Sun Protection Shoppers,Consumers comparing brands and shopping for sun protection products.,2018-08-02 16:05:05.000,2018-08-02 16:05:05.000
+33972,Toronto Raptors Fans,People reading news about the Toronto Raptors and watching games. These consumers are more likely to spend money on team gear.,2018-08-02 16:05:05.000,2018-08-02 16:05:05.000
+34077,Candy Shoppers,Consumers researching candy companies and purchasing candy online.,2018-08-07 17:10:03.000,2018-08-07 17:10:03.000
+34078,Cookie Eaters,Consumers researching cookie companies and purchasing cookies online.,2018-08-07 17:10:03.000,2018-08-07 17:10:03.000
+34079,Detroit Lions Fans,People reading news about the Detroit Lions and watching games. These consumers are more likely to spend money on team gear.,2018-08-07 17:10:03.000,2018-08-07 17:10:03.000
+34081,Miami Dolphins Fans,People reading news about the Miami Dolphins and watching games. These consumers are more likely to spend money on team gear.,2018-08-07 17:10:03.000,2018-08-07 17:10:03.000
+34082,New England Patriots Fans,People reading news about the New England Patriots and watching games. These consumers are more likely to spend money on team gear.,2018-08-07 17:10:04.000,2018-08-07 17:10:04.000
+34083,New York Giants Fans,People reading news about the New York Giants and watching games. These consumers are more likely to spend money on team gear.,2018-08-07 17:10:04.000,2018-08-07 17:10:04.000
+34084,New York Jets Fans,People reading news about the New York Jets and watching games. These consumers are more likely to spend money on team gear.,2018-08-07 17:10:04.000,2018-08-07 17:10:04.000
+34085,Oakland Raiders Fans,People reading news about the Oakland Raiders and watching games. These consumers are more likely to spend money on team gear.,2018-08-07 17:10:04.000,2018-08-07 17:10:04.000
+34086,Pittsburgh Steelers Fans,People reading news about the Pittsburgh Steelers and watching games. These consumers are more likely to spend money on team gear.,2018-08-07 17:10:04.000,2018-08-07 17:10:04.000
+34087,San Francisco 49ers Fans,People reading news about the San Francisco 49ers and watching games. These consumers are more likely to spend money on team gear.,2018-08-07 17:10:04.000,2018-08-07 17:10:04.000
+34088,Soda Drinkers,Consumers researching soda companies and purchasing soda online.,2018-08-07 17:10:04.000,2018-08-07 17:10:04.000
+34276,Romance Movie and TV enthusiasts,Consumers researching popular romance movies and TV shows.,2018-08-13 13:35:02.000,2018-08-13 13:35:02.000
+34459,Coffee Bean Shoppers,Consumers researching coffee brands and purchasing coffee beans.,2018-08-15 18:00:03.000,2018-08-15 18:00:03.000
+34460,Ice Cream Shoppers,Consumers researching ice cream brands and purchasing ice cream products.,2018-08-15 18:00:03.000,2018-08-15 18:00:03.000
+34461,Jazz Music Fans,People reading about jazz music and musicians.,2018-08-15 18:00:03.000,2018-08-15 18:00:03.000
+34462,Baltimore Orioles Fans,People reading news about the Baltimore Orioles and watching games. These consumers are more likely to spend money on team gear.,2018-08-15 18:00:03.000,2018-08-15 18:00:03.000
+34463,Boston Red Sox Fans,People reading news about the Boston Red Sox and watching games. These consumers are more likely to spend money on team gear.,2018-08-15 18:00:04.000,2018-08-15 18:00:04.000
+34464,New York Yankees Fans,People reading news about the New York Yankees and watching games. These consumers are more likely to spend money on team gear.,2018-08-15 18:00:04.000,2018-08-15 18:00:04.000
+34465,Toronto Blue Jays Fans,People reading news about the Toronto Blue Jays and watching games. These consumers are more likely to spend money on team gear.,2018-08-15 18:00:04.000,2018-08-15 18:00:04.000
+34466,Detroit Tigers Fans,People reading news about the Detroit Tigers and watching games. These consumers are more likely to spend money on team gear.,2018-08-15 18:00:04.000,2018-08-15 18:00:04.000
+34467,Little Rock Trip Planners,"People researching attractions and accommodations in Little Rock, Arkansas. These consumers are more likely to spend money on flights, hotels, and local attractions.",2018-08-15 18:00:04.000,2018-08-15 18:00:04.000
+34468,Hard Rock Hotel & Casino Trip Planners,Consumers comparing and booking accommodations at Hard Rock Hotels and Casinos.,2018-08-15 18:00:04.000,2018-08-15 18:00:04.000
+34469,Jazz Festival Enthusiasts,People researching and planning to attend jazz music festivals.,2018-08-15 18:00:04.000,2018-08-15 18:00:04.000
+34470,Drive-In Theater Enthusiasts,People researching the history of drive-in theaters and buying movie tickets.,2018-08-15 18:00:04.000,2018-08-15 18:00:04.000
+34471,Cabin Rental Researchers,People researching and booking cabin rentals accommodations.,2018-08-15 18:00:04.000,2018-08-15 18:00:04.000
+34574,F1 Racing Enthusiasts,People visiting websites and reading articles about F1 racing.,2018-08-17 10:50:03.000,2018-08-17 10:50:03.000
+34635,Arizona Cardinals Fans,People reading news about the Arizona Cardinals and watching games. These consumers are more likely to spend money on team gear.,2018-08-20 11:00:03.000,2018-08-20 11:00:03.000
+34636,Baltimore Ravens Fans,People reading news about the Baltimore Ravens and watching games. These consumers are more likely to spend money on team gear.,2018-08-20 11:00:03.000,2018-08-20 11:00:03.000
+34637,Buffalo Bills Fans,People reading news about the Buffalo Bills and watching games. These consumers are more likely to spend money on team gear.,2018-08-20 11:00:03.000,2018-08-20 11:00:03.000
+34638,Carolina Panthers Fans,People reading news about the Carolina Panthers and watching games. These consumers are more likely to spend money on team gear.,2018-08-20 11:00:03.000,2018-08-20 11:00:03.000
+34639,Cleveland Browns Fans,People reading news about the Cleveland Browns and watching games. These consumers are more likely to spend money on team gear.,2018-08-20 11:00:03.000,2018-08-20 11:00:03.000
+34640,Houston Texans Fans,People reading news about the Houston Texans and watching games. These consumers are more likely to spend money on team gear.,2018-08-20 11:00:03.000,2018-08-20 11:00:03.000
+34641,Indianapolis Colts Fans,People reading news about the Indianapolis Colts and watching games. These consumers are more likely to spend money on team gear.,2018-08-20 11:00:04.000,2018-08-20 11:00:04.000
+34642,Cincinnati Bengals Fans,People reading news about the Cincinnati Bengals and watching games. These consumers are more likely to spend money on team gear.,2018-08-20 11:00:04.000,2018-08-20 11:00:04.000
+34643,Jacksonville Jaguars Fans,People reading news about the Jacksonville Jaguars and watching games. These consumers are more likely to spend money on team gear.,2018-08-20 11:00:04.000,2018-08-20 11:00:04.000
+34644,Kansas City Chiefs Fans,People reading news about the Kansas City Chiefs and watching games. These consumers are more likely to spend money on team gear.,2018-08-20 11:00:04.000,2018-08-20 11:00:04.000
+34645,Minnesota Vikings Fans,People reading news about the Minnesota Vikings and watching games. These consumers are more likely to spend money on team gear.,2018-08-20 11:00:04.000,2018-08-20 11:00:04.000
+34646,New Orleans Saints Fans,People reading news about the New Orleans Saints and watching games. These consumers are more likely to spend money on team gear.,2018-08-20 11:00:04.000,2018-08-20 11:00:04.000
+34647,Los Angeles Rams Fans,People reading news about the Los Angeles Rams and watching games. These consumers are more likely to spend money on team gear.,2018-08-20 11:00:04.000,2018-08-20 11:00:04.000
+34648,Los Angeles Chargers Fans,People reading news about the Los Angeles Chargers and watching games. These consumers are more likely to spend money on team gear.,2018-08-20 11:00:04.000,2018-08-20 11:00:04.000
+34649,Tampa Bay Buccaneers Fans,People reading news about the Tampa Bay Buccaneers and watching games. These consumers are more likely to spend money on team gear.,2018-08-20 11:00:05.000,2018-08-20 11:00:05.000
+34650,Tennessee Titans Fans,People reading news about the Tennessee Titans and watching games. These consumers are more likely to spend money on team gear.,2018-08-20 11:00:05.000,2018-08-20 11:00:05.000
+34651,Washington Redskins Fans,People reading news about the Washington Redskins and watching games. These consumers are more likely to spend money on team gear.,2018-08-20 11:00:05.000,2018-08-20 11:00:05.000
+34909,Project Managers,Professionals reading industry news and researching products and services for project managers.,2018-08-22 13:00:03.000,2018-08-22 13:00:03.000
+34948,Comedy Movie and TV Enthusiasts,Consumers researching popular comedy movies and TV shows.,2018-08-22 15:30:03.000,2018-08-22 15:30:03.000
+34950,Action Movie and TV Enthusiasts,Consumers researching popular action movies and TV shows.,2018-08-22 15:30:03.000,2018-08-22 15:30:03.000
+34951,Scifi Movie and TV Enthusiasts,Consumers researching popular scifi movies and TV shows.,2018-08-22 15:30:03.000,2018-08-22 15:30:03.000
+35169,SMB Commercial Insurance Researchers,Professionals researching commercial insurance products.,2018-08-27 12:20:03.000,2018-08-28 13:07:01.000
+35742,Disney Fans,"People reading fan sites, promotional material, and news about Disney entertainment and attractions.",2018-08-31 11:20:04.000,2018-08-31 11:20:04.000
+35903,Trendy Denim Shoppers,Customers shopping for denim from trendsetting brands.,2018-09-05 18:10:03.000,2018-09-05 18:10:03.000
+35904,Utility Workwear Shoppers,Customers shopping for clothes and shoes from utility workwear brands.,2018-09-05 18:10:04.000,2018-09-05 18:10:04.000
+35905,Athleisure Shoppers,Customers shopping for clothes and accessories from athleisure and fitness brands.,2018-09-05 18:10:04.000,2018-09-05 18:10:04.000
+35906,MS Information Researchers,People researching multiple sclerosis treatments and charities.,2018-09-05 18:15:03.000,2018-09-05 18:15:03.000
+35932,Easter Decorations and Candy Shoppers,Consumers shopping for Easter decorations and candy.,2018-09-06 11:40:04.000,2018-09-14 16:47:29.000
+35953,Kitchen and Bath Professionals,Professionals reading industry news and researching products and services for kitchen and bathroom construction and design.,2018-09-06 16:55:03.000,2018-09-06 16:55:03.000
+35964,eSports Enthusiasts,"People in this audience participate and/or spectate in eSports (Competitive/Professional video gaming), follow various video game leagues, and keep up with video game tournaments that take place throughout the year.",2018-09-06 20:30:04.000,2019-01-16 09:11:30.000
+36020,Architects,Professionals reading industry news and researching architecture products and services.,2018-09-07 15:00:03.000,2018-09-07 15:00:03.000
+36138,Haunted House Researchers,People researching and planning to visit haunted houses across the US.,2018-09-12 14:00:08.000,2018-09-12 14:00:08.000
+36343,Computer Processor and Data Center Decision Makers,Professionals reading industry news and researching products and services for computer processing and data center storage.,2018-09-14 14:35:03.000,2018-09-14 14:35:03.000
+36860,Casual Dining Restaurant Researchers,People researching news and menus from casual dining restaurants.,2018-09-19 15:55:03.000,2018-09-19 15:55:03.000
+36862,Soap Shoppers,Consumers shopping for soap and other household cleaning products.,2018-09-19 16:20:03.000,2018-09-19 16:20:03.000
+36863,Hurricane Safety Researchers,People researching storm preparation and tracking storms online.,2018-09-19 16:20:03.000,2018-09-19 16:20:03.000
+36864,Vegetarians,Consumers researching living a vegetarian lifestyle and recipes.,2018-09-19 16:20:04.000,2018-09-19 16:20:04.000
+36867,Blender Shoppers,Consumers shopping for blenders and other small kitchen appliances.,2018-09-19 16:20:04.000,2018-09-19 16:20:04.000
+36868,Chandelier and Lamp Shoppers,"Consumers shopping for lighting, like chandeliers and lamps, for their homes.",2018-09-19 16:20:04.000,2018-09-19 16:20:04.000
+36869,Wood Carving Enthusiasts,People looking for wood carving inspiration and purchasing equipment.,2018-09-19 16:20:04.000,2018-09-19 16:20:04.000
+36870,Model Train Enthusiasts,People researching model trains and shopping for products and equipment.,2018-09-19 16:20:05.000,2018-09-19 16:20:05.000
+36871,Model Building Hobbyists,People researching model building and shopping for products and equipment.,2018-09-19 16:20:05.000,2018-09-19 16:20:05.000
+36872,Knitting Enthusiasts,People looking for knitting inspiration and purchasing equipment.,2018-09-19 16:20:05.000,2018-09-19 16:20:05.000
+36873,Quilting Enthusiasts,People looking for quilting inspiration and purchasing equipment.,2018-09-19 16:20:05.000,2018-09-19 16:20:05.000
+36874,Bowling Enthusiasts,"People researching bowling communities, techniques and equipment.",2018-09-19 16:20:05.000,2018-09-19 16:20:05.000
+36875,Painting Hobbyist,People looking for painting inspiration and purchasing equipment.,2018-09-19 16:20:05.000,2018-09-19 16:20:05.000
+36876,Billiards Enthusiasts,"People researching billiards communities, techniques and equipment.",2018-09-19 16:20:05.000,2018-09-19 16:20:05.000
+36877,Crochet Enthusiasts,People looking for crochet inspiration and purchasing equipment.,2018-09-19 16:20:06.000,2018-09-19 16:20:06.000
+36878,Drawing Enthusiasts,People looking for drawing inspiration and purchasing equipment.,2018-09-19 16:20:06.000,2018-09-19 16:20:06.000
+36879,Embroidery Enthusiasts,People looking for embroidery inspiration and purchasing equipment.,2018-09-19 16:20:06.000,2018-09-19 16:20:06.000
+36880,Skateboarding Enthusiasts,"People researching skateboarding communities, techniques and equipment.",2018-09-19 16:20:06.000,2018-09-19 16:20:06.000
+36881,Paintball Enthusiasts,"People researching paintball communities, techniques and equipment.",2018-09-19 16:20:06.000,2018-09-19 16:20:06.000
+36882,Airstream Enthusiasts,People researching airstreams and vintage RVs. These consumers are more likely to spend money on a new or used airstream.,2018-09-19 16:20:06.000,2018-09-19 16:20:06.000
+36883,Dance Enthusiasts,People looking for dance inspiration and purchasing equipment.,2018-09-19 16:20:06.000,2018-09-19 16:20:06.000
+36884,Dance Clothing Shoppers,Customers shopping for clothes and accessories for competitive dance performances.,2018-09-19 16:20:07.000,2018-09-19 16:20:07.000
+37165,Home and Garden TV Fans,Consumers watching and reading about popular home and garden television shows.,2018-09-24 16:25:03.000,2018-09-24 16:25:03.000
+37166,Cooking Show Fans,Consumers watching and reading about popular cooking television shows.,2018-09-24 16:25:03.000,2018-09-24 16:25:03.000
+37257,Cold and Flu Prevention Researchers,People researching cold and flu prevention and symptom relief.,2018-09-25 14:15:03.000,2018-09-25 14:15:03.000
+37406,Metal Detecting Enthusiasts,People researching metal detecting and shopping for products and equipment.,2018-09-26 12:50:04.000,2018-09-26 12:50:04.000
+37407,Archery Enthusiasts,People researching archery techniques and purchasing equipment.,2018-09-26 12:50:04.000,2019-01-16 09:11:30.000
+37408,Survivalist Enthusiasts,People researching survivalism and shopping for products and equipment.,2018-09-26 12:50:04.000,2018-09-26 12:50:04.000
+37409,Antiquing Enthusiasts,People researching antiques and shopping for products.,2018-09-26 12:50:04.000,2018-09-26 12:50:04.000
+37410,Bird Watching Enthusiasts,People researching bird watching communities and shopping for equipment.,2018-09-26 12:50:04.000,2018-09-26 12:50:04.000
+37411,Leather Goods Shoppers,Consumers shopping for items like apparel and luggage from brands that specialize in leather goods.,2018-09-26 12:50:05.000,2018-09-26 12:50:05.000
+37412,Medieval History Enthusiasts,People researching medieval history and purchasing history books and products.,2018-09-26 12:50:05.000,2018-09-26 12:50:05.000
+37413,Tailgate Enthusiasts,People researching recipes and purchasing products for tailgates.,2018-09-26 12:50:05.000,2018-09-26 12:50:05.000
+37414,Motor Scooter Enthusiasts,People researching and comparing motor scooters. These consumers are more likely to spend money on a new or used scooter.,2018-09-26 12:50:05.000,2018-09-26 12:50:05.000
+37415,Korean Food Enthusiasts,People reading about Korean food and researching recipes.,2018-09-26 12:50:05.000,2018-09-26 12:50:05.000
+37416,Louisiana Creole Food Enthusiasts,People reading about Louisiana Creole food and researching recipes.,2018-09-26 12:50:05.000,2018-09-26 12:50:05.000
+37417,Malaysian Food Enthusiasts,People reading about Malaysian food and researching recipes.,2018-09-26 12:50:05.000,2018-09-26 12:50:05.000
+37418,Thai Food Enthusiasts,People reading about Thai food and researching recipes.,2018-09-26 12:50:05.000,2018-09-26 12:50:05.000
+37419,Light Bulb Shoppers,Consumers shopping for light bulbs and lighting fixtures.,2018-09-26 12:50:05.000,2018-09-26 12:50:05.000
+37420,Smartphone Case Shoppers,Consumers shopping for smartphone cases and mobile accessories.,2018-09-26 12:50:06.000,2018-09-26 12:50:06.000
+37421,Budget Mobile Phone Researchers,Consumers researching budget mobile phones and wireless plans.,2018-09-26 12:50:06.000,2018-09-26 12:50:06.000
+37422,Laptop Researchers,Consumers shopping for laptops and laptop accessories.,2018-09-26 12:50:06.000,2018-09-26 12:50:06.000
+37423,Promotional Products Purchasers,Consumers shopping for customizable promotional products.,2018-09-26 12:50:06.000,2018-09-26 12:50:06.000
+37524,RV Owners and Upgraders,Consumers shopping for parts and accessories to outfit their motorhome or camper.,2018-09-27 15:20:03.000,2018-09-27 15:20:03.000
+37874,Spain Trip Planners,"People researching attractions and accommodations in Spain. These consumers are more likely to spend money on flights, hotels, and local attractions.",2018-10-03 14:15:03.000,2018-10-03 14:15:03.000
+37875,Vermont Trip Planners,"People researching attractions and accommodations in Vermont. These consumers are more likely to spend money on flights, hotels, and local attractions.",2018-10-03 14:15:03.000,2018-10-03 14:15:03.000
+37876,Jamband Fans,People reading about jamband music and culture.,2018-10-03 14:15:03.000,2018-10-03 14:15:03.000
+37877,Dallas Mavericks Fans,People reading news about the Dallas Mavericks and watching games. These consumers are more likely to spend money on team gear.,2018-10-03 14:15:03.000,2018-10-03 14:15:03.000
+37878,New Orleans Pelicans Fans,People reading news about the New Orleans Pelicans and watching games. These consumers are more likely to spend money on team gear.,2018-10-03 14:15:03.000,2018-10-03 14:15:03.000
+37879,Chess Enthusiasts,People researching chess techniques and playing chess online.,2018-10-03 14:15:04.000,2018-10-03 14:15:04.000
+37880,Solitaire Players,People playing solitaire and card games online.,2018-10-03 14:15:04.000,2018-10-03 14:15:04.000
+37881,Trivia Enthusiasts,People researching trivia facts and playing trivia games online.,2018-10-03 14:15:04.000,2018-10-03 14:15:04.000
+37882,Home Aquarium Enthusiasts,Consumers researching or purchasing home aquarium products and services.,2018-10-03 14:15:04.000,2018-10-03 14:15:04.000
+37883,Shapewear & Leggings Shoppers,Consumers shopping for leggings and shapewear apparel.,2018-10-03 14:15:04.000,2018-10-03 14:15:04.000
+37887,Gift Givers,Consumers shopping for gift cards and other gifts.,2018-10-03 14:45:03.000,2018-10-03 14:45:03.000
+38283,Womens Subscription Box Shoppers,Consumers researching and purchasing subscription boxes for womens products and accessories.,2018-10-10 15:20:04.000,2018-10-10 15:20:04.000
+38284,Portuguese Food Enthusiasts,People reading about Portuguese food and researching recipes.,2018-10-10 15:20:04.000,2018-10-10 15:20:04.000
+38350,Indian Food Enthusiasts,People reading about Indian food and researching recipes.,2018-10-11 12:20:04.000,2018-10-11 12:20:04.000
+38351,Xtreme Sports Fans,People reading news about professional xtreme sports and purchasing gear.,2018-10-11 12:20:04.000,2019-01-16 09:11:30.000
+38352,Lawn and Home Pest Control Researchers,Consumers researching lawn and home pest control products and techniques.,2018-10-11 12:20:04.000,2018-10-11 12:20:04.000
+38353,Netherlands Trip Planners,"People researching attractions and accommodations in the Netherlands. These consumers are more likely to spend money on flights, hotels, and local attractions.",2018-10-11 12:20:04.000,2018-10-11 12:20:04.000
+38354,Train Travelers,People researching and booking train travel accommodations.,2018-10-11 12:20:04.000,2018-10-11 12:20:04.000
+38355,Private Jet Traveler,People researching and booking private jet travel accommodations.,2018-10-11 12:20:04.000,2018-10-11 12:20:04.000
+38356,Grateful Dead Fans,"People reading about the Grateful Dead, their music, and similar musicians.",2018-10-11 12:20:04.000,2018-10-11 12:20:04.000
+38357,Jam Band Festival Fans,People researching and planning to attend jam band music festivals.,2018-10-11 12:20:04.000,2018-10-11 12:20:04.000
+38358,Off the Grid Living Enthusiasts,People researching living off the grid and shopping for products and equipment.,2018-10-11 12:20:04.000,2018-10-11 12:20:04.000
+38359,Christian Voters,People researching political issues for Christian voters.,2018-10-11 12:20:05.000,2018-10-11 12:20:05.000
+38360,Northeastern Voters,People researching voter registration options and political issues for voters in Northeastern states.,2018-10-11 12:20:05.000,2018-10-11 12:20:05.000
+38361,Mid-Atlantic Voters,People researching voter registration options and political issues for voters in Mid-Atlantic states.,2018-10-11 12:20:05.000,2018-10-11 12:20:05.000
+38362,South Atlantic Voters,People researching voter registration options and political issues for voters in South Atlantic states.,2018-10-11 12:20:05.000,2018-10-11 12:20:05.000
+38363,Southeastern Voters,People researching voter registration options and political issues for voters in Southeastern states.,2018-10-11 12:20:05.000,2018-10-11 12:20:05.000
+38364,Southern Central Voters,People researching voter registration options and political issues for voters in Southern Central states.,2018-10-11 12:20:05.000,2018-10-11 12:20:05.000
+38365,Midwestern Voters,People researching voter registration options and political issues for voters in Midwestern states.,2018-10-11 12:20:05.000,2018-10-11 12:20:05.000
+38366,Green Party Policy Supporters,People researching political issues for Green Party supporters.,2018-10-11 12:20:05.000,2018-10-11 12:20:05.000
+38367,Tea Party Policy Supporters,People researching political issues for Tea Party supporters.,2018-10-11 12:20:05.000,2018-10-11 12:20:05.000
+38368,Volvo Vehicle Shoppers,People researching and comparing Volvo vehicles. These consumers are more likely to spend money on a new or used car.,2018-10-11 12:30:03.000,2018-10-11 12:30:03.000
+38989,Tahoe Skiers and Snowboarders,Consumers reading reviews of ski resorts and snow reports in Tahoe.,2018-10-18 14:10:03.000,2018-10-18 14:10:03.000
+38990,Colorado Skiers and Snowboarders,Consumers reading reviews of ski resorts and snow reports in Colorado.,2018-10-18 14:10:03.000,2018-10-18 14:10:03.000
+38991,Aspen Trip Planners,People researching attractions and accommodations in Aspen. These consumers are more likely to spend money on travel and local attractions.,2018-10-18 14:10:03.000,2018-10-18 14:10:03.000
+38992,Oregon Trip Planners,People researching attractions and accommodations in Oregon. These consumers are more likely to spend money on travel and local attractions.,2018-10-18 14:10:03.000,2018-10-18 14:10:03.000
+38993,Washington Skiers and Snowboarders,Consumers reading reviews of ski resorts and snow reports in Washington state.,2018-10-18 14:10:03.000,2018-10-18 14:10:03.000
+38994,Western Canada Skiers and Snowboarders,Consumers reading reviews of ski resorts and snow reports in Western Canada.,2018-10-18 14:10:04.000,2018-10-18 14:10:04.000
+38995,California Skiers and Snowboarders,Consumers reading reviews of ski resorts and snow reports in California.,2018-10-18 14:10:04.000,2018-10-18 14:10:04.000
+38996,Montana and Idaho Trip Planners,People researching attractions and accommodations in Montana and Idaho. These consumers are more likely to spend money on travel and local attractions.,2018-10-18 14:10:04.000,2018-10-18 14:10:04.000
+39189,Retired Budget Healthcare Shoppers,Retired people shopping for discount healthcare.,2018-10-22 14:15:03.000,2018-10-22 14:15:03.000
+39190,Retired Health Insurance Researchers,Retired people researching health insurance options.,2018-10-22 14:15:03.000,2018-10-22 14:15:03.000
+39191,Retired Wealthy Assisted Living Researchers,Retired wealthy people researching assisted living options.,2018-10-22 14:15:03.000,2018-10-22 14:15:03.000
+39192,Bargain Shopping Researchers,People researching bargain shopping options.,2018-10-22 14:15:03.000,2018-10-22 14:15:03.000
+39193,Medical Science Researchers,People researching medical science journals and publications.,2018-10-22 14:15:03.000,2018-10-22 14:15:03.000
+39194,Cook at Home Parents,Parents that cook family meals at home.,2018-10-22 14:15:03.000,2018-10-22 14:15:03.000
+39195,Retired Government Employees,Retired people who were government employees.,2018-10-22 14:15:04.000,2018-10-22 14:15:04.000
+39196,Retired Assisted Living Shoppers,Retired people shopping for assisted living.,2018-10-22 14:15:04.000,2018-10-22 14:15:04.000
+39197,Budget Grocery Shoppers,People shopping for groceries on a budget.,2018-10-22 14:15:04.000,2018-10-22 14:15:04.000
+39198,Involved Parents,Parents actively involved in the education of their children.,2018-10-22 14:15:04.000,2018-10-22 14:15:04.000
+39199,Medical Consultation Researchers,People researching medical consultation options.,2018-10-22 14:15:04.000,2018-10-22 14:15:04.000
+39330,Atlanta Hawks Fans,People reading news about the Atlanta Hawks and watching games. These consumers are more likely to spend money on team gear.,2018-10-22 18:40:04.000,2018-10-22 18:40:04.000
+39331,Denver Nuggets Fans,People reading news about the Denver Nuggets and watching games. These consumers are more likely to spend money on team gear.,2018-10-22 18:40:04.000,2018-10-22 18:40:04.000
+39332,Indiana Pacers Fans,People reading news about the Indiana Pacers and watching games. These consumers are more likely to spend money on team gear.,2018-10-22 18:40:04.000,2018-10-22 18:40:04.000
+39333,Los Angeles Clippers Fans,People reading news about the Los Angeles Clippers and watching games. These consumers are more likely to spend money on team gear.,2018-10-22 18:40:04.000,2018-10-22 18:40:04.000
+39334,Memphis Grizzlies Fans,People reading news about the Memphis Grizzlies and watching games. These consumers are more likely to spend money on team gear.,2018-10-22 18:40:04.000,2018-10-22 18:40:04.000
+39335,Orlando Magic Fans,People reading news about the Orlando Magic and watching games. These consumers are more likely to spend money on team gear.,2018-10-22 18:40:04.000,2018-10-22 18:40:04.000
+39336,Philadelphia 76ers Fans,People reading news about the Philadelphia 76ers and watching games. These consumers are more likely to spend money on team gear.,2018-10-22 18:40:04.000,2018-10-22 18:40:04.000
+39337,Phoenix Suns Fans,People reading news about the Phoenix Suns and watching games. These consumers are more likely to spend money on team gear.,2018-10-22 18:40:04.000,2018-10-22 18:40:04.000
+39338,Portland Trail Blazers Fans,People reading news about the Portland Trail Blazers and watching games. These consumers are more likely to spend money on team gear.,2018-10-22 18:40:04.000,2018-10-22 18:40:04.000
+39339,Utah Jazz Fans,People reading news about the Utah Jazz and watching games. These consumers are more likely to spend money on team gear.,2018-10-22 18:40:04.000,2018-10-22 18:40:04.000
+39462,GIS Users,Professionals who use Geographic Information Systems,2018-10-23 11:00:05.000,2018-10-23 11:00:05.000
+39547,Louisville Cardinals Fans,Fans of Louisville Cardinals,2018-10-23 18:10:04.000,2019-01-16 09:11:30.000
+39551,Ride Share Drivers,Professionals reading industry news and researching products and services for ride share drivers.,2018-10-23 19:20:04.000,2018-10-23 19:20:04.000
+39640,Big 12 Fans,Fans of Big 12,2018-10-24 11:30:04.000,2019-01-16 09:11:30.000
+39641,Ohio State Buckeyes Fans,Fans of Ohio State Buckeyes,2018-10-24 11:30:04.000,2019-01-16 09:11:30.000
+39642,Notre Dame Fighting Irish Fans,Fans of Notre Dame Fighting Irish,2018-10-24 11:30:04.000,2019-01-16 09:11:30.000
+39643,Louisiana State University Tigers Fans,Fans of Louisiana State University Tigers,2018-10-24 11:30:04.000,2019-01-16 09:11:30.000
+39644,Florida State Seminoles Fans,Fans of Florida State Seminoles,2018-10-24 11:30:04.000,2019-01-16 09:11:30.000
+39645,Oregon Ducks Fans,Fans of Oregon Ducks,2018-10-24 11:30:04.000,2019-01-16 09:11:30.000
+39646,Syracuse Orange Fans,Fans of Syracuse Orange,2018-10-24 11:30:04.000,2019-01-16 09:11:30.000
+39647,South Carolina Gamecocks Fans,Fans of South Carolina Gamecocks,2018-10-24 11:30:05.000,2019-01-16 09:11:30.000
+39648,UNC Tar Heels Fans,Fans of UNC Tar Heels,2018-10-24 11:30:05.000,2019-01-16 09:11:30.000
+39649,Duke Blue Devils Fans,Fans of Duke Blue Devils,2018-10-24 11:30:05.000,2019-01-16 09:11:30.000
+39650,Kentucky Wildcats Fans,Fans of Kentucky Wildcats,2018-10-24 11:30:05.000,2019-01-16 09:11:30.000
+39651,Iowa Hawkeyes Fans,Fans of Iowa Hawkeyes,2018-10-24 11:30:05.000,2019-01-16 09:11:30.000
+39652,Gonzaga Bulldogs Fans,Fans of Gonzaga Bulldogs,2018-10-24 11:30:05.000,2019-01-16 09:11:30.000
+39653,Indiana Hoosiers Fans,Fans of Indiana Hoosiers,2018-10-24 11:30:05.000,2019-01-16 09:11:30.000
+39654,Oklahoma State Cowboys Fans,Fans of Oklahoma State Cowboys,2018-10-24 11:30:05.000,2019-01-16 09:11:30.000
+39655,Arizona Wildcats Fans,Fans of Arizona Wildcats,2018-10-24 11:30:05.000,2019-01-16 09:11:30.000
+39656,Clemson Tigers Fans,Fans of Clemson Tigers,2018-10-24 11:30:05.000,2019-01-16 09:11:30.000
+39657,Kansas City Royals Fans,Fans of Kansas City Royals,2018-10-24 11:30:06.000,2019-01-16 09:11:30.000
+39658,Philadelphia Phillies Fans,Fans of Philadelphia Phillies,2018-10-24 11:30:06.000,2019-01-16 09:11:30.000
+39659,Los Angeles Dodgers Fans,Fans of Los Angeles Dodgers,2018-10-24 11:30:06.000,2019-01-16 09:11:30.000
+39665,Aspen Skiers and Snowboarders,Consumers reading reviews of ski resorts and snow reports in Aspen.,2018-10-24 15:20:03.000,2018-10-24 15:20:03.000
+39685,Credit Cards Rewards Researchers,People researching rewards programs and comparing credit cards.,2018-10-24 16:30:04.000,2018-10-24 16:30:04.000
+39767,Mexican Food Shoppers,Consumers shopping for products and ingredients for Mexican recipes.,2018-10-25 16:20:04.000,2018-10-25 16:20:04.000
+39768,Hair Loss Prevention Researchers,Consumers shopping for hair loss prevention products and services.,2018-10-25 16:20:04.000,2018-10-25 16:20:04.000
+39770,Sparkling Water Enthusiasts,Consumers researching sparkling water companies and purchasing sparkling water online.,2018-10-25 16:20:04.000,2018-10-25 16:20:04.000
+40183,Canoeing and Kayaking Enthusiasts,People reading about canoeing and kayaking news and destinations.,2018-11-02 17:10:04.000,2019-01-16 09:11:30.000
+40184,Scuba Diving Enthusiasts,People reading about scuba diving news and destinations.,2018-11-02 17:10:04.000,2019-01-16 09:11:30.000
+40185,Astronomy Enthusiasts,People researching news and trends in astronomy.,2018-11-02 17:10:04.000,2018-11-02 17:10:04.000
+40186,WWE and Pro Wrestling Fans,Consumers watching and reading about WWE and pro wrestling.,2018-11-02 17:10:04.000,2018-11-02 17:10:04.000
+40187,Organic Food Eaters,Consumer reading about organic foods and researching organic food recipes.,2018-11-02 17:10:04.000,2018-11-02 17:10:04.000
+40188,Civil War History Buff,People reading about the history of the American Civil War.,2018-11-02 17:10:04.000,2018-11-02 17:10:04.000
+40189,Native American Culture Enthusiasts,People reading about Native American culture and traditions.,2018-11-02 17:10:04.000,2018-11-02 17:10:04.000
+40190,Luxury Watch Shoppers,Consumers shopping for watches from luxury brands.,2018-11-02 17:10:05.000,2018-11-02 17:10:05.000
+40191,Revolutionary War History Buffs,People reading about the history of the American Revolutionary War.,2018-11-02 17:10:05.000,2018-11-02 17:10:05.000
+40192,Rome Trip Planners,People researching attractions and accommodations in Rome. These consumers are more likely to spend money on travel and local attractions.,2018-11-02 17:10:05.000,2018-11-02 17:10:05.000
+40193,Myrtle Beach Trip Planners,People researching attractions and accommodations in Myrtle Beach. These consumers are more likely to spend money on travel and local attractions.,2018-11-02 17:10:05.000,2018-11-02 17:10:05.000
+40194,Detroit Pistons Fans,People reading news about the Detroit Pistons and watching games. These consumers are more likely to spend money on team gear.,2018-11-02 17:10:05.000,2018-11-02 17:10:05.000
+40195,U.S. History Buffs,People reading about the history of the United States of America.,2018-11-02 17:10:05.000,2018-11-02 17:10:05.000
+40427,Model Aircraft and Rocket Hobbyists,People researching model aircrafts and rockets and shopping for products and equipment.,2018-11-09 18:00:00.000,2019-03-29 14:26:28.000
+40434,History Buffs,People reading general history facts.,2018-11-09 15:40:04.000,2018-11-09 15:40:04.000
+40435,World War One History Buffs,People reading about the history of World War I.,2018-11-09 15:40:05.000,2018-11-09 15:40:05.000
+40436,Egypt Trip Planners,People researching attractions and accommodations in Egypt. These consumers are more likely to spend money on travel and local attractions.,2018-11-09 15:40:05.000,2018-11-09 15:40:05.000
+40437,Podcast Listeners,People visiting sites about podcasts and reading or listening to content from popular podcasts.,2018-11-09 15:40:05.000,2018-11-09 15:40:05.000
+40439,Ski and Snowboard Apparel Shoppers,Consumers shopping for winter clothing from ski and snowboarding apparel brands.,2018-11-09 15:45:04.000,2018-11-09 15:45:04.000
+40525,Hospital Executives,Professionals reading industry news and researching products and services for hospital executives.,2018-11-12 17:30:04.000,2018-11-12 17:30:04.000
+40526,Condom Shoppers,Consumers comparing brands and shopping for condoms online.,2018-11-12 17:30:04.000,2018-11-12 17:30:04.000
+40682,Ergonomic Office Supplies Shoppers,Consumers shopping for ergonomic desk and office supply products.,2018-11-14 12:30:04.000,2018-11-14 12:30:04.000
+40683,Aviation Enthusiasts,People reading about aircrafts and flying and joining aviation communities.,2018-11-14 12:30:04.000,2018-11-14 12:30:04.000
+40684,Space Travel Enthusiasts,People reading about space travel and supporting scientific advancements.,2018-11-14 12:30:04.000,2018-11-14 12:30:04.000
+40685,Rodeo Enthusiasts,People researching and planning to attend local rodeos.,2018-11-14 12:30:04.000,2019-01-16 09:11:30.000
+40686,Online Legal Document Service Researchers,People researching and comparing online services for legal documentation.,2018-11-14 12:30:04.000,2018-11-14 12:30:04.000
+40687,Legal Advice Researchers,People researching and comparing services for legal advice.,2018-11-14 12:30:04.000,2018-11-14 12:30:04.000
+40688,Legal News Readers,People reading news about law and the latest legal cases.,2018-11-14 12:30:04.000,2018-11-14 12:30:04.000
+40689,Legal Help Seekers,People researching and comparing law firms for legal representation.,2018-11-14 12:30:04.000,2018-11-14 12:30:04.000
+40690,Business Book Readers,People searching online for books and content about business.,2018-11-14 12:30:04.000,2018-11-14 12:30:04.000
+40691,Poetry Readers,People searching online for poetry.,2018-11-14 12:30:05.000,2018-11-14 12:30:05.000
+40692,eBook Readers,People searching online for eBooks and digital content.,2018-11-14 12:30:05.000,2018-11-14 12:30:05.000
+40693,Nature and Outdoors Book Readers,People searching online for books and content about nature and the outdoors.,2018-11-14 12:30:05.000,2018-11-14 12:30:05.000
+40694,Anime Fans,"People reading fan sites, promotional material, and news on the latest anime.",2018-11-14 12:30:05.000,2018-11-14 12:30:05.000
+40695,Alternative Medicine Enthusiasts,People researching products and methods of alternative medicine.,2018-11-14 12:30:05.000,2018-11-14 12:30:05.000
+40696,Palm Beach Trip Planners,People researching attractions and accommodations in Palm Beach. These consumers are more likely to spend money on travel and local attractions.,2018-11-14 12:30:05.000,2018-11-14 12:30:05.000
+40697,Santa Cruz Trip Planners,People researching attractions and accommodations in Santa Cruz. These consumers are more likely to spend money on travel and local attractions.,2018-11-14 12:30:05.000,2018-11-14 12:30:05.000
+40698,GMC Vehicle Shopper,People researching and comparing GMC vehicles. These consumers are more likely to spend money on a new or used car.,2018-11-14 12:30:05.000,2018-11-14 12:30:05.000
+40699,Automotive Racing Enthusiasts,People researching automotive racing news and trends.,2018-11-14 12:30:05.000,2019-01-16 09:11:30.000
+40700,Speedway Event Enthusiasts,People researching and planning to attend speedway events.,2018-11-14 12:30:06.000,2019-01-16 09:11:30.000
+40701,Automotive News Readers,People reading news about automotive and the latest auto trends.,2018-11-14 12:30:07.000,2018-11-14 12:30:07.000
+40702,Automotive Service Professionals,Professionals reading industry news and researching products and services for automotive service.,2018-11-14 12:30:07.000,2018-11-14 12:30:07.000
+40703,Automotive Auctions Enthusiasts,People researching and planning to attend or make a purchase at an automotive auction.,2018-11-14 12:30:07.000,2018-11-14 12:30:07.000
+41048,SEC Fans,Fans of SEC,2018-11-16 15:15:15.000,2019-01-16 09:11:30.000
+41052,Health and Fitness Book Readers,People searching online for books and content about health and fitness.,2018-11-16 15:15:15.000,2018-11-16 15:15:15.000
+41054,ACC Fans,Fans of ACC,2018-11-16 15:15:15.000,2019-01-16 09:11:30.000
+41055,Travel Book Readers,People searching online for books and content about travel destinations.,2018-11-16 15:15:15.000,2018-11-16 15:15:15.000
+41057,Auburn Tigers Fans,Fans of Auburn Tigers,2018-11-16 15:15:15.000,2019-01-16 09:11:30.000
+41058,Oklahoma Sooners Fans,Fans of Oklahoma Sooners,2018-11-16 15:15:15.000,2019-01-16 09:11:30.000
+41059,UConn Huskies Fans,Fans of UConn Huskies,2018-11-16 15:15:15.000,2019-01-16 09:11:30.000
+41061,Penn State Nittany Lions Fans,Fans of Penn State Nittany Lions,2018-11-16 15:15:15.000,2019-01-16 09:11:30.000
+41062,Michigan Wolverines Fans,Fans of Michigan Wolverines,2018-11-16 15:15:15.000,2019-01-16 09:11:30.000
+41063,Florida Gators Fans,Fans of Florida Gators,2018-11-16 15:15:15.000,2019-01-16 09:11:30.000
+41065,Tennessee Volunteers Fans,Fans of Tennessee Volunteers,2018-11-16 15:15:15.000,2019-01-16 09:11:30.000
+41066,Texas AM Aggies Fans,Fans of Texas AM Aggies,2018-11-16 15:15:15.000,2019-01-16 09:11:30.000
+41067,Arkansas Razorbacks Fans,Fans of Arkansas Razorbacks,2018-11-16 15:15:15.000,2019-01-16 09:11:30.000
+41069,Big East Fans,Fans of Big East,2018-11-16 15:15:15.000,2019-01-16 09:11:30.000
+41070,Cleveland Indians Fans,Fans of Cleveland Indians,2018-11-16 15:15:15.000,2019-01-16 09:11:30.000
+41072,Wyoming Cowboys Fans,Fans of Wyoming Cowboys,2018-11-16 15:15:15.000,2019-01-16 09:11:30.000
+41074,Minnesota Twins Fans,Fans of Minnesota Twins,2018-11-16 15:15:15.000,2019-01-16 09:11:30.000
+41075,Houston Astros Fans,Fans of Houston Astros,2018-11-16 15:15:15.000,2019-01-16 09:11:30.000
+41076,Los Angeles Angels Fans,Fans of Los Angeles Angels,2018-11-16 15:15:15.000,2019-01-16 09:11:30.000
+41078,Atlanta Braves Fans,Fans of Atlanta Braves,2018-11-16 15:15:15.000,2019-01-16 09:11:30.000
+41079,Miami Marlins Fans,Fans of Miami Marlins,2018-11-16 15:15:15.000,2019-01-16 09:11:30.000
+41080,New York Mets Fans,Fans of New York Mets,2018-11-16 15:15:15.000,2019-01-16 09:11:30.000
+41081,Washington Nationals Fans,Fans of Washington Nationals,2018-11-16 15:15:15.000,2019-01-16 09:11:30.000
+41082,Chicago Cubs Fans,Fans of Chicago Cubs,2018-11-16 15:15:15.000,2019-01-16 09:11:30.000
+41083,Cininnati Reds Fans,Fans of Cininnati Reds,2018-11-16 15:15:15.000,2019-01-16 09:11:30.000
+41084,Milwaukee Brewers Fans,Fans of Milwaukee Brewers,2018-11-16 15:15:15.000,2019-01-16 09:11:30.000
+41085,Pittsburgh Pirates Fans,Fans of the Pittsburgh Pirates,2018-11-16 15:15:15.000,2019-04-22 13:23:52.000
+41087,Arizona Diamondbacks Fans,Fans of Arizona Diamondbacks,2018-11-16 15:15:15.000,2019-01-16 09:11:30.000
+41088,San Francisco Giants Fans,Fans of San Francisco Giants,2018-11-16 15:15:16.000,2019-01-16 09:11:30.000
+41190,Sunglasses Shoppers,Consumers shopping online for sunglasses.,2018-11-19 14:25:04.000,2018-11-19 14:25:04.000
+41191,Sports Memorabilia Shoppers,Consumers shopping for sports memorabilia.,2018-11-19 14:25:04.000,2018-11-19 14:25:04.000
+41192,Sea World Park Trip Planners,People researching Sea World parks and planning a visit.,2018-11-19 14:25:04.000,2018-11-19 14:25:04.000
+41193,Christmas Tree Shoppers,Consumers shopping for Christmas trees and other Christmas decorations online.,2018-11-19 14:25:04.000,2018-11-19 14:25:04.000
+41194,Product Manuals Researchers,People researching product manuals for devices and gadgets.,2018-11-19 14:25:04.000,2018-11-19 14:25:04.000
+41195,Ice Skating Enthusiasts,People reading about professional and recreational ice skating and shopping for equipment.,2018-11-19 14:25:04.000,2019-01-16 09:11:30.000
+41196,Power Tools Shoppers,Consumers shopping for power tools and home construction equipment.,2018-11-19 14:25:04.000,2018-11-19 14:25:04.000
+41197,Godiva Chocolate Fans,People researching the chocolate brands and shopping for chocolates and gifts from Godiva.,2018-11-19 14:25:04.000,2018-11-19 14:25:04.000
+41199,St. Louis Cardinals Fans,Fans of St. Louis Cardinals Fans,2018-11-19 16:00:04.000,2019-01-16 09:11:30.000
+41546,Reality TV Show Watchers,Consumers watching and reading about popular reality TV shows.,2018-12-03 11:10:04.000,2018-12-03 11:10:04.000
+41547,Electronics Shoppers,Consumers shopping for electronics products online.,2018-12-03 11:10:04.000,2018-12-03 11:10:04.000
+41548,Winter Apparel Shoppers,Consumers shopping for winter clothing from popular apparel brands.,2018-12-03 11:10:04.000,2018-12-03 11:10:04.000
+41549,Bitcoin Enthusiasts,People reading industry news and following trends on bitcoin.,2018-12-03 11:10:05.000,2018-12-03 11:10:05.000
+41550,Africa Trip Planners,"People researching attractions and accommodations in Africa. These consumers are more likely to spend money on flights, hotels, and local attractions.",2018-12-03 11:10:05.000,2018-12-03 11:10:05.000
+41551,Cookie Recipe Researchers,People researching cookie and dessert recipes and baking techniques.,2018-12-03 11:10:05.000,2018-12-03 11:10:05.000
+41552,Restaurant Menu Researchers,Consumers researching menus for local and chain restaurants.,2018-12-03 11:10:05.000,2018-12-03 11:10:05.000
+41553,Classical Music Enthusiasts,People reading about classical music and musicians.,2018-12-03 11:10:05.000,2018-12-03 11:10:05.000
+41554,Northwestern Wildcats Fans,People reading news about the Northwestern Wildcats and watching games. These consumers are more likely to spend money on team gear.,2018-12-03 11:10:05.000,2018-12-03 11:10:05.000
+41853,Atlanta United Fans,People reading news about the Atlanta United soccer team and watching games. These consumers are more likely to spend money on team gear.,2018-12-07 11:50:03.000,2018-12-07 11:50:03.000
+41854,Swimming Enthusiasts,People reading about swim lessons and swimming competitions.,2018-12-07 11:50:04.000,2019-01-16 09:11:30.000
+41855,Snow Removal Researchers,Consumers researching and comparing snow removal equipment brands.,2018-12-07 11:50:04.000,2018-12-07 11:50:04.000
+41856,Chocolate Lovers,Consumers researching chocolate companies and purchasing chocolates and desserts.,2018-12-07 11:50:04.000,2018-12-07 11:50:04.000
+41857,Aquarium Trip Planners,People researching aquariums and planning a visit.,2018-12-07 11:50:04.000,2018-12-07 11:50:04.000
+42000,Chicken Recipe Researchers,People researching recipes that feature chicken.,2018-12-11 10:35:05.000,2018-12-11 10:35:05.000
+42008,The Sims Video Game Fans,People reading The Sims news and following gaming trends.,2018-12-11 14:15:04.000,2018-12-11 14:15:04.000
+42010,Minecraft Video Game Fans,People reading Minecraft news and following gaming trends.,2018-12-11 14:15:04.000,2018-12-11 14:15:04.000
+42011,League of Legends Video Game Fans,People reading League of Legends news and following gaming trends.,2018-12-11 14:15:05.000,2018-12-11 14:15:05.000
+42012,Destiny Video Game Fans,People reading Destiny news and following gaming trends.,2018-12-11 14:15:05.000,2018-12-11 14:15:05.000
+42203,Fitness Activity Tracker Users,People using health and fitness activity trackers.,2018-12-13 20:00:00.000,2019-01-31 12:40:53.000
+42237,Ebay Shoppers,Consumers shoping online at Ebay.,2018-12-14 21:00:00.000,2019-01-31 13:46:00.000
+42238,Online Calculator Users,Consumers using online calculators.,2018-12-14 21:00:00.000,2019-01-31 13:49:10.000
+42239,ESPN Enthusiasts,Consumers watching and reading content from ESPN networks.,2018-12-14 21:00:00.000,2019-01-31 13:47:39.000
+42368,Online Thesaurus Users,Consumers using online thesauruses.,2018-12-18 22:00:01.000,2019-01-31 13:50:37.000
+42398,Tea Drinkers,Consumers researching tea companies and purchasing tea online.,2018-12-19 13:45:03.000,2018-12-19 13:45:03.000
+42399,Farming Simulator Video Game Fans,People reading farming simulator game news and following gaming trends.,2018-12-19 13:45:03.000,2018-12-19 13:45:03.000
+42400,Diablo Video Game Fans,People reading Diablo news and following gaming trends.,2018-12-19 13:45:03.000,2018-12-19 13:45:03.000
+42401,Hearthstone Video Game Fans,People reading Hearthstone news and following gaming trends.,2018-12-19 13:45:03.000,2018-12-19 13:45:03.000
+42479,Smoky Mountains Trip Planners,People researching attractions and accommodations in the Smoky Mountains region. These consumers are more likely to spend money on travel and local attractions.,2018-12-20 12:00:04.000,2018-12-20 12:00:04.000
+42964,Biohackers,People researching health and fitness methods and products to bio-hack their bodies.,2019-01-07 12:00:03.000,2019-01-07 12:00:03.000
+43539,Discount Flight Searchers,Consumers searching for flight discounts and deals using online airfare comparison tools.,2019-01-10 11:10:03.000,2019-01-10 11:10:03.000
+43540,Voice Over Internet Protocol (VoIP) Users,Consumers researching and using VoIP technologies.,2019-01-10 11:10:04.000,2019-01-10 11:10:04.000
+43541,Wig Shoppers,Consumers shopping wig and hair products and services.,2019-01-10 11:10:04.000,2019-01-10 11:10:04.000
+43542,Waterfront Vacationers,"People researching and booking vacations at beach, river or lake destinations.",2019-01-10 11:10:04.000,2019-01-10 11:10:04.000
+43543,Home Brewing Enthusiasts,People researching techniques and purchasing products for home beer brewing.,2019-01-10 11:10:04.000,2019-01-10 11:10:04.000
+43544,Craft Beer Enthusiasts,People researching craft breweries and beers.,2019-01-10 11:10:04.000,2019-01-10 11:10:04.000
+43545,Homemade Gifts Crafters,Consumers researching breweries and purchasing craft beer.,2019-01-10 11:10:04.000,2019-01-10 11:10:04.000
+43546,Personalized Gift Shoppers,Consumers shopping for gifts that can be personalized.,2019-01-10 11:10:04.000,2019-01-10 11:10:04.000
+43547,Animal Humane Society Helpers,People supporting Animal Humane Society through volunteer service and donations.,2019-01-10 11:10:04.000,2019-01-10 11:10:04.000
+43548,Animal Rights Researchers,People researching and supporting animal rights organizations.,2019-01-10 11:10:04.000,2019-01-10 11:10:04.000
+43549,Dog Breed Researchers,People researching dog breeds and breeders.,2019-01-10 11:10:05.000,2019-01-10 11:10:05.000
+43550,Meal Kit Delivery Researchers,Consumers researching and subscribing to meal kit delivery services.,2019-01-10 11:10:05.000,2019-01-10 11:10:05.000
+43551,Virtual Reality Enthusiasts,Consumers researching and shopping for virtual reality products.,2019-01-10 11:10:05.000,2019-01-10 11:10:05.000
+43552,Grand Theft Auto Video Game Fans,People reading Grand Theft Auto news and following gaming trends,2019-01-10 11:10:05.000,2019-01-10 11:10:05.000
+44272,Rowing Enthusiasts,People researching rowing and purchasing equipment and apparel.,2019-01-25 13:10:04.000,2019-01-25 13:10:04.000
+44378,Internet Speed Testers,Consumers researching and using internet speed tester tools.,2019-01-25 23:00:00.000,2019-01-31 14:06:53.000
+44379,French Language Learners,Consumers using sites and online resources to learn French.,2019-01-25 23:00:00.000,2019-01-31 14:07:00.000
+44380,Home Heating and Cooling Researchers,Consumers comparing or shopping for home heating and cooling systems.,2019-01-25 23:00:00.000,2019-01-31 14:07:07.000
+44381,Symphony Music Enthusiasts,"People reading about symphony music and classical music ",2019-01-25 23:00:00.000,2019-01-31 14:07:14.000
+44382,Lyrics Researchers,Consumers reading about popular music and the lyrics of songs.,2019-01-25 23:00:00.000,2019-01-31 14:07:22.000
+44383,Guitar Music Researchers,Consumers reading about guitar music and researching sheet music to play.,2019-01-25 23:00:00.000,2019-01-31 14:07:29.000
+44384,Action Figure and Collectibles Shoppers,Shoppers interested in collecting action figures.,2019-01-25 23:00:00.000,2019-04-02 16:17:29.000
+44385,Sudoku Players,People playing sudoku online and researching strategies.,2019-01-25 23:00:00.000,2019-03-12 12:57:18.000
+44386,Crossword Puzzles Players,People joining crossword puzzle communities and completing crossword puzzles online.,2019-01-25 23:00:00.000,2019-01-31 14:07:37.000
+44387,Puzzle Enthusiasts,People joining puzzle communities and playing puzzle and card games online.,2019-01-25 23:00:00.000,2019-01-31 14:07:45.000
+44388,Board Game Enthusiasts,People playing and creating board games.,2019-01-25 23:00:00.000,2019-03-12 12:57:18.000
+44389,Mahjong Players,People joining mahjong communities and playing mahjong online.,2019-01-25 23:00:00.000,2019-01-31 14:07:51.000
+44390,Background Check Users,People using background check websites.,2019-01-25 23:00:00.000,2019-02-06 16:21:45.000
+44391,Spanish Language Learners,Consumers using sites and online resources to learn Spanish.,2019-01-25 23:00:00.000,2019-01-31 14:07:58.000
+44444,Home DIY Enthusiasts,People enthusiastic about Home DIY projects,2019-01-28 09:00:04.000,2019-01-28 09:00:04.000
+44445,Teaching Resources Researchers,People researching teaching resources and materials,2019-01-28 09:00:04.000,2019-01-28 09:00:04.000
+44446,Home Rug Shoppers,People shopping for home rugs,2019-01-28 09:00:04.000,2019-01-28 09:00:04.000
+44447,Home Goods Shoppers,People shopping for home goods,2019-01-28 09:00:04.000,2019-01-28 09:00:04.000
+44448,Home Custom Bedroom Decorators,People interested in custom bedroom decorating,2019-01-28 09:00:04.000,2019-01-28 09:00:04.000
+44449,United Nations Donors,People donating to the United Nations,2019-01-28 09:00:05.000,2019-01-28 09:00:05.000
+44450,Trendy Shoe Shoppers,People shopping for trendy and fashionable shoes,2019-01-28 09:00:05.000,2019-01-28 09:00:05.000
+44451,Music Trivia Researchers,People researching movie trivia facts,2019-01-28 09:00:05.000,2019-01-28 09:00:05.000
+44452,Primary Care Doctor Researchers,People researching primary care doctors,2019-01-28 09:00:05.000,2019-01-28 09:00:05.000
+44453,Mens Business Clothes Shoppers,People shopping for mens business clothing,2019-01-28 09:00:05.000,2019-01-28 09:00:05.000
+44454,Marines,People in the Marines,2019-01-28 09:00:05.000,2019-01-28 09:00:05.000
+44455,Kitchen Stove Shoppers,People shopping for kitchen stoves,2019-01-28 09:00:05.000,2019-01-28 09:00:05.000
+44456,Craft Spirits Enthusiasts,People enthusiastic about craft spirits,2019-01-28 09:00:05.000,2019-01-28 09:00:05.000
+44457,New York City Fine Theatre Enthusiasts,People enthusiastic about New York City fine theatre,2019-01-28 09:00:05.000,2019-08-15 10:14:58.000
+44458,Federal Employee Benefits Researchers,People researching federal employee benefits,2019-01-28 09:00:05.000,2019-01-28 09:00:05.000
+44459,Foot Pain Sufferers,People suffering from foot pain,2019-01-28 09:00:05.000,2019-01-28 09:00:05.000
+44460,Military Benefits Researchers,People researching military benefits,2019-01-28 09:00:05.000,2019-01-28 09:00:05.000
+44461,Gun Violence Researchers,People researching gun violence,2019-01-28 09:00:05.000,2019-01-28 09:00:05.000
+44462,Immigration Resource Researchers,People researching immigration resources,2019-01-28 09:00:06.000,2019-01-28 09:00:06.000
+44463,Immigration Policy Researchers,People researching immigration policy,2019-01-28 09:00:06.000,2019-01-28 09:00:06.000
+44464,Health Conscious Expecting Parents,Health-first people expecting children,2019-01-28 09:00:06.000,2019-01-28 09:00:06.000
+44465,Luxury Athletic Footwear Shoppers,People shopping for luxury athletic footwear,2019-01-28 09:00:06.000,2019-01-28 09:00:06.000
+44466,Wedding Content Readers,People reading content about weddings,2019-01-28 09:00:06.000,2019-01-28 09:00:06.000
+44467,Family Tree Enthusiasts,People enthusiastic about family trees,2019-01-28 09:00:06.000,2019-01-28 09:00:06.000
+44468,Tutoring Resources Researchers,People researching tutoring resources and materials,2019-01-28 09:00:06.000,2019-01-28 09:00:06.000
+44469,Home Interior Design Enthusiasts,People enthusiastic about home interior design,2019-01-28 09:00:06.000,2019-01-28 09:00:06.000
+44470,Custom Home Lighting Shoppers,People shopping for custom home lighting solutions,2019-01-28 09:00:06.000,2019-01-28 09:00:06.000
+44471,Retirement Financial Account Researchers,People researching retirement financial accounts,2019-01-28 09:00:06.000,2019-01-28 09:00:06.000
+44472,Country Home Decorators,People interested in country home decorating,2019-01-28 09:00:06.000,2019-01-28 09:00:06.000
+44473,Home Coffee Makers,People making coffee at home,2019-01-28 09:00:06.000,2019-01-28 09:00:06.000
+44474,Los Angeles Activities Researchers,People researching Los Angeles activities,2019-01-28 09:00:07.000,2019-01-28 09:00:07.000
+44475,Georgia Activities Researchers,People researching Georgia activities,2019-01-28 09:00:07.000,2019-01-28 09:00:07.000
+44476,New York City Events Researchers,People researching New York City events,2019-01-28 09:00:07.000,2019-01-28 09:00:07.000
+44477,Houston Activity Researchers,People researching Houston activities,2019-01-28 09:00:07.000,2019-01-28 09:00:07.000
+44478,San Francisco Activities Researchers,People researching San Francisco activities,2019-01-28 09:00:07.000,2019-01-28 09:00:07.000
+44479,Nashville Activity Researchers,People researching Nashville activities,2019-01-28 09:00:07.000,2019-01-28 09:00:07.000
+44480,New Orleans Activities Researchers,People researching New Orleans activities,2019-01-28 09:00:07.000,2019-01-28 09:00:07.000
+44481,Las Vegas Hotel Researchers,People researching Las Vegas Hotels,2019-01-28 09:00:07.000,2019-01-28 09:00:07.000
+44482,Orlando Activities Researchers,People researching Orlando activities,2019-01-28 09:00:07.000,2019-01-28 09:00:07.000
+44483,Louisiana Activities Researchers,People researching Louisiana activities,2019-01-28 09:00:07.000,2019-01-28 09:00:07.000
+44484,Texas Activity Researchers,People researching Texas activities,2019-01-28 09:00:07.000,2019-01-28 09:00:07.000
+44485,Home Exterior Design Enthusiasts,People enthusiastic about home exterior design,2019-01-28 09:00:07.000,2019-01-28 09:00:07.000
+44486,Heart Surgery Researchers,People researching heart surgery,2019-01-28 09:00:08.000,2019-01-28 09:00:08.000
+44487,San Diego Activities Researchers,People researching San Diego activities,2019-01-28 09:00:08.000,2019-01-28 09:00:08.000
+44488,San Diego Events Researchers,People researching San Diego events,2019-01-28 09:00:08.000,2019-01-28 09:00:08.000
+44489,Home Goods Supercenter Shoppers,People shopping in home goods supercenters,2019-01-28 09:00:08.000,2019-01-28 09:00:08.000
+44490,Luxury Fitness Shoppers,People shopping for luxury fitness activities,2019-01-28 09:00:08.000,2019-01-28 09:00:08.000
+44491,Disney Vacation Planners,People planning Disney Vacations,2019-01-28 09:00:08.000,2019-01-28 09:00:08.000
+44537,Milk and Dairy Shoppers,Consumers visiting milk and dairy brands websites and shopping for products.,2019-01-28 13:55:04.000,2019-01-28 13:55:04.000
+44579,Koi Pond Enthusiasts,People researching products and advice on caring for their koi ponds.,2019-01-28 23:00:00.000,2019-02-01 14:06:48.000
+44580,Home Cleaning Researchers,People researching products and techniques for cleaning household items.,2019-01-28 23:00:00.000,2019-03-11 12:36:24.000
+44581,Darts Enthusiasts,People reading about dart competitions and shopping for equipment.,2019-01-28 23:00:00.000,2019-02-01 14:12:20.000
+44582,Spy Gadgets Shoppers,Consumers shopping for spy gadgets and home security electronics.,2019-01-28 23:00:00.000,2019-02-01 14:12:30.000
+44583,Sustainable Lifestyle Enthusiasts,People researching products and services for a sustainable lifestyle.,2019-01-28 23:00:00.000,2019-02-01 14:12:40.000
+44584,Child Car Seat Researchers,People researching and comparing car seats for children.,2019-01-28 23:00:00.000,2019-02-01 14:12:49.000
+44585,Ballet Enthusiasts,People researching historical and contemporary ballets and visiting performance spaces.,2019-01-28 23:00:00.000,2019-02-06 16:21:45.000
+44586,Opera Enthusiasts,People reading about operas and performers.,2019-01-28 23:00:00.000,2019-02-01 14:12:57.000
+44587,Baseball Enthusiasts,People researching baseball leagues and purchasing equipment and apparel.,2019-01-28 23:00:00.000,2019-02-01 14:13:05.000
+44588,Softball Enthusiasts,People researching softball leagues and purchasing equipment and apparel.,2019-01-28 23:00:00.000,2019-02-01 14:13:14.000
+44589,Brooklyn Nets Fans,People reading news about the Brooklyn Nets and watching games. These consumers are more likely to spend money on team gear.,2019-01-28 23:00:00.000,2019-02-01 14:13:33.000
+45515,US Judiciary System Researchers,People researching history and news on the US Judiciary System and legal system.,2019-02-04 22:00:00.000,2019-02-06 16:21:46.000
+45516,Basketball Enthusiasts,People researching basketball and purchasing equipment and apparel.,2019-02-04 22:00:00.000,2019-02-06 16:21:46.000
+45517,Football Enthusiasts,People researching football and purchasing equipment and apparel.,2019-02-04 22:00:00.000,2019-02-06 16:21:46.000
+45518,Volleyball Enthusiasts,People researching volleyball and purchasing equipment and apparel.,2019-02-04 22:00:00.000,2019-02-06 16:21:47.000
+45519,Competitive Wrestling Enthusiasts,People researching competitive wrestling and purchasing equipment and apparel.,2019-02-04 22:00:00.000,2019-02-06 16:21:47.000
+45520,Cricket Enthusiasts,People researching cricket and purchasing equipment and apparel.,2019-02-04 22:00:00.000,2019-02-06 16:21:47.000
+45521,Rock Climbing Enthusiasts,People researching rock climbing and purchasing equipment and apparel.,2019-02-04 22:00:00.000,2019-02-06 16:21:48.000
+45522,Hair Color Shoppers,Consumers shopping for hair color products and services.,2019-02-04 22:00:00.000,2019-02-06 16:21:48.000
+45523,Welding Tools and Supplies Shoppers,Consumers shopping for welding tools and supplies.,2019-02-04 22:00:00.000,2019-02-06 16:21:48.000
+45524,Mowing Equipment Shoppers,Consumers researching lawn and gardening equipment.,2019-02-04 22:00:00.000,2019-02-06 16:21:49.000
+45525,Cattle Industry New Readers,People reading industry news and following business trends in the cattle industry.,2019-02-04 22:00:00.000,2019-02-06 16:21:49.000
+45526,Dairy Industry New Readers,People reading industry news and following business trends in the dairy industry.,2019-02-04 22:00:00.000,2019-02-06 16:21:49.000
+45527,CBD Oils Shoppers,People researching products and health benefits of using CBD oils.,2019-02-04 22:00:00.000,2019-02-06 16:21:50.000
+45528,Cannabis News Readers,People reading industry news and following business trends for cannabis brands and products.,2019-02-04 22:00:00.000,2019-02-06 16:21:50.000
+45662,Psychiatrists,Professionals reading industry news and medical information on psychiatry.,2019-02-06 21:00:01.000,2019-02-07 15:17:10.000
+45664,Headphone Shoppers,Consumers comparing and shopping for headphones and audio products.,2019-02-06 21:00:01.000,2019-02-07 15:17:10.000
+45665,Reptile Enthusiasts,People reading about reptiles and shopping for pet products and services.,2019-02-06 21:00:01.000,2019-02-07 15:17:11.000
+45666,Bird and Parrot Lovers,People reading about birds and parrots and shopping for pet products and services.,2019-02-06 21:00:01.000,2019-02-07 15:17:11.000
+45667,Blades and Hunting Knife Shoppers,Consumers shopping for blades and knives for hunting and outdoor activities.,2019-02-06 21:00:01.000,2019-02-07 15:17:11.000
+45668,Pizza Lovers,Consumers researching pizza companies and purchasing pizza online.,2019-02-06 21:00:01.000,2019-02-07 15:17:12.000
+45669,Cocktail Recipe Researchers,People researching recipes for cocktails and mixed drinks.,2019-02-06 21:00:01.000,2019-02-07 15:17:12.000
+45670,Women's Swimsuit Shoppers,Consumers shopping for women's swimsuits and beach apparel.,2019-02-06 21:00:01.000,2019-02-07 15:17:12.000
+45671,Men's Suit Shoppers,Consumers shopping for men's suits and formal attire.,2019-02-06 21:00:01.000,2019-02-07 15:17:13.000
+45672,Bible Study Researchers,People reading information on Christianity and researching resources for bible studies.,2019-02-06 21:00:01.000,2019-02-07 15:17:13.000
+45673,Fundraising Advocates,People researching fundraising organizations to offer support or donations.,2019-02-06 21:00:01.000,2019-03-11 12:36:24.000
+45674,Medical Technology News Readers,People reading industry news and following business trends for medical technology companies.,2019-02-06 21:00:01.000,2019-02-07 15:17:13.000
+45675,Home Medical Supplies Shoppers,Consumers shopping for medical supplies for home healthcare.,2019-02-06 21:00:01.000,2019-03-11 12:36:24.000
+45676,Scrubs Uniforms Shoppers,Consumers shopping for scrubs and other medical uniforms.,2019-02-06 21:00:01.000,2019-02-07 15:17:14.000
+45677,Sleepwear Shoppers,Consumers shopping for sleepwear.,2019-02-06 21:00:02.000,2019-02-07 15:17:14.000
+45678,Men's Underwear Shoppers,Consumers shopping for men's underwear.,2019-02-06 21:00:02.000,2019-03-12 13:05:06.000
+45679,Government Student Loan Researchers,People researching and comparing student loan offerings from government institutions.,2019-02-06 21:00:02.000,2019-02-07 15:17:14.000
+45685,Cosmetic Surgery Intenders,People researching doctors and procedures for cosmetic surgery.,2019-02-06 23:00:00.000,2019-02-12 10:52:20.000
+45725,Trampoline Shoppers,Consumers researching trampoline activities and shopping for trampolines.,2019-02-07 21:00:00.000,2019-02-12 10:52:31.000
+46132,Counseling Researchers,People comparing counselors and researching options for counseling services.,2019-02-15 18:00:00.000,2019-02-25 14:00:17.000
+46134,Pontoon Boat Researchers,People researching pontoons and other fishing and power boats.,2019-02-15 18:00:00.000,2019-02-25 14:00:17.000
+46566,Fertility Treatment Researchers,People researching fertility treatment options.,2019-02-25 18:00:00.000,2019-02-26 15:01:48.000
+46567,Bigfoot Folklore Enthusiasts,People reading about Bigfoot folklore and other mystical creatures and urban legends.,2019-02-25 18:00:00.000,2019-02-26 15:01:48.000
+47065,Diabetes Support Forum Readers,People reading news and advice on preventing and treating diabetes.,2019-03-05 18:00:00.000,2019-03-07 11:46:12.000
+47115,Electric Vehicle Shoppers,People researching and comparing electric vehicles.,2019-03-05 22:00:00.000,2019-03-11 12:36:24.000
+47130,Home Lending Researchers,People researching home lending accommodations for business and personal travel.,2019-03-06 00:00:00.000,2019-03-11 12:36:24.000
+47713,High School Sports Researchers,People reading about high school sports programs.,2019-03-14 18:00:00.000,2019-03-15 15:47:10.000
+47789,Israel Trip Planners,"People researching attractions and accommodations in Israel. These consumers are more likely to spend money on travel, lodging, attractions and guided tours.",2019-03-14 22:00:00.000,2019-04-02 16:17:29.000
+47850,Asheville Trip Planners,"People researching attractions and accommodations in Asheville. These consumers are more likely to spend money on flights, hotels, lodging and local attractions.",2019-03-15 22:00:02.000,2019-03-21 15:33:09.000
+48022,Sushi Lovers,People researching sushi related content.,2019-03-19 22:00:00.000,2019-03-21 15:33:09.000
+48154,Elite Cycling Gear Shoppers,"Consumers researching and shopping for elite cycling equipment, apparel and accessories.",2019-03-21 22:00:00.000,2019-03-22 15:31:46.000
+48459,Work Visa Researchers,People researching Work Visa and Immigration related content.,2019-03-27 22:00:00.000,2019-03-28 16:40:23.000
+48460,Online Payroll Services Users,"People, like human resource professionals, researching and using online payroll services.",2019-03-27 22:00:01.000,2019-03-28 16:40:22.000
+48462,Self Storage Shoppers,People in-market for self-storage and moving related products and services.,2019-03-27 22:00:01.000,2019-03-28 16:40:23.000
+48463,PBS Enthusiasts,People interested in PBS programming.,2019-03-27 22:00:01.000,2019-03-28 16:40:22.000
+48465,HGTV Enthusiasts,People interested in HGTV shows and home remodeling content.,2019-03-27 22:00:01.000,2019-04-02 16:17:29.000
+49502,Veterinarians,Veterinarians,2019-04-08 18:00:05.000,2019-07-09 13:57:13.000
+49972,Horseback Riding Enthusiasts,People reading horseback riding news and resources.,2019-04-15 18:00:00.000,2019-04-24 17:40:04.000
+49973,Farm Finance Researchers,People researching financial institutions specializing in farming business.,2019-04-15 18:00:00.000,2019-04-24 17:40:04.000
+49974,Agricultural and Food Issues Researchers,People researching organizations for food and agriculture issues.,2019-04-15 18:00:00.000,2019-04-24 17:40:04.000
+49975,Cattlemen and Pork Producers,Professionals reading news and trends in the beef and pork production industries.,2019-04-15 18:00:00.000,2019-04-24 17:40:05.000
+49976,Agriculture and Climate Advocates,People supporting organizations for agriculture and climate advocacy.,2019-04-15 18:00:00.000,2019-04-24 17:40:04.000
+49977,DIY Upcycle Home Project Planners,People researching and planning home DIY and upcycle projects.,2019-04-15 18:00:00.000,2019-04-24 17:40:04.000
+49978,Homeschooling Parents,People researching academic projects and programs to homeschool their children.,2019-04-15 18:00:00.000,2019-04-24 17:40:04.000
+49979,Cape Cod News Readers,"People interested in reading about local news and events surrounding the Cape Cod, MA area.",2019-04-15 18:00:00.000,2019-04-18 09:00:05.000
+50860,Food Delivery Service Users,Users of online food delivery services.,2019-04-23 18:00:02.000,2019-04-24 18:30:04.000
+51119,Skin Disorder Researchers,People reading news and advice on preventing and treating skin disorders.,2019-04-26 18:00:00.000,2019-04-29 14:20:04.000
+51120,Foot Health Researchers,People reading news and advice on preventing and treating foot health issues.,2019-04-26 18:00:00.000,2019-04-29 14:20:04.000
+51678,Plumbers,Professionals reading industry news and researching products and services for plumbers.,2019-05-06 22:00:00.000,2019-05-07 18:50:04.000
