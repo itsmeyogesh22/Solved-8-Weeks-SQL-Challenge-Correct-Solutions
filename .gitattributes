@@ -1,2 +1,1 @@
-/'Case Study #8 - Fresh Segments'/** linguist-documentation=false
-/'Case Study #8 - Fresh Segments'/** linguist-detectable
+*.sql linguist-detectable=true
