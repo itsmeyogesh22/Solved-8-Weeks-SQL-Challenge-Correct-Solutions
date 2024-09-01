@@ -25,9 +25,7 @@
   <br>
 <a href = "https://github.com/itsmeyogesh22/8-Weeks-SQL-Challenge/tree/cb2ed8a91791a2f21e5eb5da2ee77c7fa80ac4e3/Case%20Study%20%238%20-%20Fresh%20Segments/PostgreSQL%20Implementation"><img width = 110 height = 110 align = "center" src = "https://github.com/user-attachments/assets/707ade4e-37a6-4c6f-a9d3-25ee6e6153f1"></a> <a href = "https://github.com/itsmeyogesh22/8-Weeks-SQL-Challenge/tree/cb2ed8a91791a2f21e5eb5da2ee77c7fa80ac4e3/Case%20Study%20%238%20-%20Fresh%20Segments/SQL%20Server%20Implementation"><img width = 110 height = 110 align = "center" src = "https://github.com/user-attachments/assets/04fcb916-7003-4eb5-8403-63cec20ce761"></a></h3>
 </h3>
-<br></br>
-                      <img src = "https://github.com/user-attachments/assets/0e03a934-14d8-417d-8ac3-526a02ab276e" width = 588 height = 588 align = "center">
-    </pre></div></div>
+</pre></div></div>
 <br></br>
 <br></br>
 <br></br>
