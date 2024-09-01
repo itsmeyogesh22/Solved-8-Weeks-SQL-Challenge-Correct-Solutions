@@ -208,6 +208,33 @@ ORDER BY
   ARRAY_POSITION(ARRAY[6260, 131, 150, 23, 20764]::INTEGER[], interest_metrics.interest_id),
   interest_metrics.month_year;
 ```
+| interest_name                          | month_year | ranking | percentile_ranking | composition |
+|----------------------------------------|------------|---------|--------------------|-------------|
+| Blockbuster Movie Fans                 | 2018-07-01 | 287     | 60.63              | 5.27        |
+| Blockbuster Movie Fans                 | 2019-08-01 | 1123    | 2.26               | 1.83        |
+| Android Fans                           | 2018-07-01 | 182     | 75.03              | 5.09        |
+| Android Fans                           | 2018-08-01 | 684     | 10.82              | 1.77        |
+| Android Fans                           | 2019-02-01 | 1058    | 5.62               | 1.85        |
+| Android Fans                           | 2019-03-01 | 1081    | 4.84               | 1.72        |
+| Android Fans                           | 2019-08-01 | 1092    | 4.96               | 1.91        |
+| TV Junkies                             | 2018-07-01 | 49      | 93.28              | 5.3         |
+| TV Junkies                             | 2018-08-01 | 481     | 37.29              | 1.7         |
+| TV Junkies                             | 2018-10-01 | 430     | 49.82              | 2.34        |
+| TV Junkies                             | 2018-12-01 | 619     | 37.79              | 1.72        |
+| TV Junkies                             | 2019-08-01 | 1034    | 10.01              | 1.94        |
+| Techies                                | 2018-07-01 | 97      | 86.69              | 5.41        |
+| Techies                                | 2018-08-01 | 530     | 30.9               | 1.9         |
+| Techies                                | 2018-09-01 | 594     | 23.85              | 1.6         |
+| Techies                                | 2019-02-01 | 1015    | 9.46               | 1.89        |
+| Techies                                | 2019-03-01 | 1026    | 9.68               | 1.91        |
+| Techies                                | 2019-08-01 | 1058    | 7.92               | 1.9         |
+| Entertainment Industry Decision Makers | 2018-07-01 | 101     | 86.15              | 5.85        |
+| Entertainment Industry Decision Makers | 2018-08-01 | 644     | 16.04              | 1.78        |
+| Entertainment Industry Decision Makers | 2018-10-01 | 697     | 18.67              | 2.01        |
+| Entertainment Industry Decision Makers | 2019-02-01 | 873     | 22.12              | 2.11        |
+| Entertainment Industry Decision Makers | 2019-03-01 | 1005    | 11.53              | 1.97        |
+| Entertainment Industry Decision Makers | 2019-08-01 | 1020    | 11.23              | 1.91        |
+
 <br></br>
 <div id="box-shadow-object"  
      align="right"
