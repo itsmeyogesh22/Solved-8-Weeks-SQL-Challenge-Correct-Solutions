@@ -12,3 +12,7 @@
 <p align="center">
 <img src = "https://github.com/user-attachments/assets/cf42b7ac-3dcb-40f5-8c65-689e774ca11f" width = 648 height = 848 align = "middle">
 </p>
+<br></br>
+<p align="center">
+<a href = "https://www.linkedin.com/in/yogesh-dagar-359043212/"><img width = 640 height = 132 align = "center" src = "https://github.com/user-attachments/assets/4034f3bc-c6f8-4766-8e55-86a8286802c5"></a>
+</p>
