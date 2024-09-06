@@ -1,4 +1,4 @@
-<br>
+<br></br>
 <h1 align = "left" style="list-style: none;"><img width = "75" height = "75" align = "center" src = https://github.com/user-attachments/assets/b74f8efd-c35a-4512-8fc8-16fba8d6c05b> Case Study: Balanced Tree</h1>
 <h3 align = "left">For Serious SQL Course visit:  <a href = "https://www.datawithdanny.com/courses/serious-sql"><img width = 60 height = 60 align = "center" src = https://github.com/user-attachments/assets/6c37b5cc-b73b-4a3f-8227-adc5bbf43e5d></a></h3>
 <h3 align = "left">Solutions Implemented using following DB's:  
@@ -37,6 +37,31 @@ analyse their sales performance and generate a basic financial report to share w
 </pre>
 </div>
 </div>
+<br></br>
+<p align = "right">
+<h3>
+<a href = "https://github.com/itsmeyogesh22/8-Weeks-SQL-Challenge/blob/f9944b6839e0c004efada0bae74b959952b28837/Case%20Study%20%237%20-%20Balanced%20Tree/PostgreSQL%20Implementation/high_level_sales_analysis.sql"><img width = 60 height = 60 align = "left" src ="https://github.com/user-attachments/assets/45be6f00-349b-4690-a696-babcb9fe7e33"></a> High Level Sales Analysis</h3>
+</h3>
+</p>
+
+<p align = "right">
+<h3>
+<a href = "https://github.com/itsmeyogesh22/8-Weeks-SQL-Challenge/blob/f9944b6839e0c004efada0bae74b959952b28837/Case%20Study%20%237%20-%20Balanced%20Tree/PostgreSQL%20Implementation/product%20analysis.sql"><img width = 60 height = 60 align = "left" src ="https://github.com/user-attachments/assets/5fc2382e-695b-4823-8bfa-f8e0825cc513"></a> Product Analysis</h3>
+</h3>
+</p>
+
+<p align = "right">
+<h3>
+<a href = "https://github.com/itsmeyogesh22/8-Weeks-SQL-Challenge/blob/f9944b6839e0c004efada0bae74b959952b28837/Case%20Study%20%237%20-%20Balanced%20Tree/PostgreSQL%20Implementation/transaction_analysis.sql"><img width = 60 height = 60 align = "left" src ="https://github.com/user-attachments/assets/cb97005b-8cca-47e5-8232-d9501509891e"></a> Transaction Analysis</h3>
+</h3>
+</p>
+
+<p align = "right">
+<h3>
+<a href = "https://github.com/itsmeyogesh22/8-Weeks-SQL-Challenge/blob/f9944b6839e0c004efada0bae74b959952b28837/Case%20Study%20%237%20-%20Balanced%20Tree/PostgreSQL%20Implementation/bonus_challenge.sql"><img width = 60 height = 60 align = "left" src ="https://github.com/user-attachments/assets/e08703f9-75c6-4fd5-b012-ac3c6038916f"></a> Bonus Challenge
+</h3>
+</p>
+<br></br>
 <br></br>
 <div id="box-shadow-panel">
     <pre align = "left" class = 'w-para' 
