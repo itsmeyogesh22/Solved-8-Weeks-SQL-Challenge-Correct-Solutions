@@ -3,12 +3,11 @@
 <h3 align = "left">For Serious SQL Course visit:  <a href = "https://www.datawithdanny.com/courses/serious-sql"><img width = 60 height = 60 align = "center" src = https://github.com/user-attachments/assets/6c37b5cc-b73b-4a3f-8227-adc5bbf43e5d></a></h3>
 <h3 align = "left">Solutions Implemented using following DB's:  
 <br><br>
-
 <a href = "https://github.com/user-attachments/assets/dfc24f31-1738-4658-a5e0-b302fbe6953f"><img width = 110 height = 110 align = "center" src = "https://github.com/user-attachments/assets/707ade4e-37a6-4c6f-a9d3-25ee6e6153f1"></a> <a href = "https://github.com/itsmeyogesh22/8-Weeks-SQL-Challenge/tree/34d1a105bbb7891f95b9999fdef74e16af2fbaec/Case%20Study%20%236%20-%20Clique%20Bait/SQL%20Server%20Implementation"><img width = 110 height = 110 align = "center" src = "https://github.com/user-attachments/assets/04fcb916-7003-4eb5-8403-63cec20ce761"></a></h3>
 </h3>
 <br></br>
 <br></br>
-<img src= "https://github.com/user-attachments/assets/36ed68f1-a535-4cb4-bfab-5dd958b4dc56" height = 150 width="120" align = "left" >  <div id="box-shadow-object"  
+<img src= "https://github.com/user-attachments/assets/dfc24f31-1738-4658-a5e0-b302fbe6953f" height = 150 width="120" align = "left" >  <div id="box-shadow-object"  
      align="left"
      style="
             webkit-box-shadow: 10px 10px 0px 0px rgba(0,0,0,0.52);
@@ -30,11 +29,13 @@
                 margin-bottom: 10px; 
                ">
 <h1 align = "left" style="list-style: none;"> Context</h1>
-<h2>"Balanced Tree Clothing Company prides themselves on 
-providing an optimised range of clothing and lifestyle 
-wear for the modern adventurer!"</h2>
-<h4>Danny, the CEO of this trendy fashion company has asked you to assist the team’s merchandising teams 
-analyse their sales performance and generate a basic financial report to share with the wider business.</h4>
+<h2>"Clique Bait is not like your regular online seafood store - 
+the founder and CEO Danny, was also a part of a digital data 
+analytics team and wanted to expand his knowledge into the 
+seafood industry!"</h2>
+<h4>In this case study - We are required to support Danny’s vision and analyse his dataset 
+and come up with creative solutions to calculate funnel fallout rates for the Clique Bait 
+online store.</h4>
 </pre>
 </div>
 </div>
@@ -80,24 +81,22 @@ analyse their sales performance and generate a basic financial report to share w
                 margin-bottom: 10px; 
                ">
 <h1 align = "left" style="list-style: none;">Available Data</h1>
-<h3>Product Details: balanced_tree.product_details includes all information about 
-the entire range that Balanced Clothing sells in their store.</h3>
+<h3>Users: Customers who visit the Clique Bait website are tagged via their cookie_id.
+</h3>
 </pre>
      
-| product_id | price | product_name                     | category_id | segment_id | style_id | category_name | segment_name | style_name          |
-|------------|-------|----------------------------------|-------------|------------|----------|---------------|--------------|---------------------|
-| c4a632     | 13    | Navy Oversized Jeans - Womens    | 1           | 3          | 7        | Womens        | Jeans        | Navy Oversized      |
-| e83aa3     | 32    | Black Straight Jeans - Womens    | 1           | 3          | 8        | Womens        | Jeans        | Black Straight      |
-| e31d39     | 10    | Cream Relaxed Jeans - Womens     | 1           | 3          | 9        | Womens        | Jeans        | Cream Relaxed       |
-| d5e9a6     | 23    | Khaki Suit Jacket - Womens       | 1           | 4          | 10       | Womens        | Jacket       | Khaki Suit          |
-| 72f5d4     | 19    | Indigo Rain Jacket - Womens      | 1           | 4          | 11       | Womens        | Jacket       | Indigo Rain         |
-| 9ec847     | 54    | Grey Fashion Jacket - Womens     | 1           | 4          | 12       | Womens        | Jacket       | Grey Fashion        |
-| 5d267b     | 40    | White Tee Shirt - Mens           | 2           | 5          | 13       | Mens          | Shirt        | White Tee           |
-| c8d436     | 10    | Teal Button Up Shirt - Mens      | 2           | 5          | 14       | Mens          | Shirt        | Teal Button Up      |
-| 2a2353     | 57    | Blue Polo Shirt - Mens           | 2           | 5          | 15       | Mens          | Shirt        | Blue Polo           |
-| f084eb     | 36    | Navy Solid Socks - Mens          | 2           | 6          | 16       | Mens          | Socks        | Navy Solid          |
-| b9a74d     | 17    | White Striped Socks - Mens       | 2           | 6          | 17       | Mens          | Socks        | White Striped       |
-| 2feb6b     | 29    | Pink Fluro Polkadot Socks - Mens | 2           | 6          | 18       | Mens          | Socks        | Pink Fluro Polkadot |
+| user_id | cookie_id | start_date          |
+|---------|-----------|---------------------|
+| 397     | 3759ff    | 2020-03-30 00:00:00 |
+| 215     | 863329    | 2020-01-26 00:00:00 |
+| 191     | eefca9    | 2020-03-15 00:00:00 |
+| 89      | 764796    | 2020-01-07 00:00:00 |
+| 127     | 17ccc5    | 2020-01-22 00:00:00 |
+| 81      | b0b666    | 2020-03-01 00:00:00 |
+| 260     | a4f236    | 2020-01-08 00:00:00 |
+| 203     | d1182f    | 2020-04-18 00:00:00 |
+| 23      | 12dbc8    | 2020-01-18 00:00:00 |
+| 375     | f61d69    | 2020-01-03 00:00:00 |
 </div>
 </div>
 <br></br>
@@ -115,23 +114,23 @@ the entire range that Balanced Clothing sells in their store.</h3>
                 margin-right: 15px;
                 margin-bottom: 10px; 
                ">
-<h3>Product Sales: balanced_tree.sales contains product level information for all the 
-transactions made for Balanced Tree including quantity, price, percentage discount, 
-member status, a transaction ID and also the transaction timestamp.</h3>
+<h3>Events: Customer visits are logged in this events table at a cookie_id level and the event_type and page_id 
+values can be used to join onto relevant satellite tables to obtain further information about each event.
+The sequence_number is used to order the events within each visit.</h3>
 </pre>
      
-| prod_id | qty | price | discount | member | txn_id | start_txn_time           |
-|---------|-----|-------|----------|--------|--------|--------------------------|
-| c4a632  | 4   | 13    | 17       | t      | 54f307 | 2021-02-13 01:59:43.296  |
-| 5d267b  | 4   | 40    | 17       | t      | 54f307 | 2021-02-13 01:59:43.296  |
-| b9a74d  | 4   | 17    | 17       | t      | 54f307 | 2021-02-13 01:59:43.296  |
-| 2feb6b  | 2   | 29    | 17       | t      | 54f307 | 2021-02-13 01:59:43.296  |
-| c4a632  | 5   | 13    | 21       | t      | 26cc98 | 2021-01-19 01:39:00.3456 |
-| e31d39  | 2   | 10    | 21       | t      | 26cc98 | 2021-01-19 01:39:00.3456 |
-| 72f5d4  | 3   | 19    | 21       | t      | 26cc98 | 2021-01-19 01:39:00.3456 |
-| 2a2353  | 3   | 57    | 21       | t      | 26cc98 | 2021-01-19 01:39:00.3456 |
-| f084eb  | 3   | 36    | 21       | t      | 26cc98 | 2021-01-19 01:39:00.3456 |
-| c4a632  | 1   | 13    | 21       | f      | ef648d | 2021-01-27 02:18:17.1648 |
+| visit_id | cookie_id | page_id | event_type | sequence_number | event_time                 |
+|----------|-----------|---------|------------|-----------------|----------------------------|
+| 719fd3   | 3d83d3    | 5       | 1          | 4               | 2020-03-02 00:29:09.975502 |
+| fb1eb1   | c5ff25    | 5       | 2          | 8               | 2020-01-22 07:59:16.761931 |
+| 23fe81   | 1e8c2d    | 10      | 1          | 9               | 2020-03-21 13:14:11.745667 |
+| ad91aa   | 648115    | 6       | 1          | 3               | 2020-04-27 16:28:09.824606 |
+| 5576d7   | ac418c    | 6       | 1          | 4               | 2020-01-18 04:55:10.149236 |
+| 48308b   | c686c1    | 8       | 1          | 5               | 2020-01-29 06:10:38.702163 |
+| 46b17d   | 78f9b3    | 7       | 1          | 12              | 2020-02-16 09:45:31.926407 |
+| 9fd196   | ccf057    | 4       | 1          | 5               | 2020-02-14 08:29:12.922164 |
+| edf853   | f85454    | 1       | 1          | 1               | 2020-02-22 12:59:07.652207 |
+| 3c6716   | 02e74f    | 3       | 2          | 5               | 2020-01-31 17:56:20.777383 |
 </div>
 </div>
 <br></br>
@@ -149,49 +148,87 @@ member status, a transaction ID and also the transaction timestamp.</h3>
                 margin-right: 15px;
                 margin-bottom: 10px; 
                ">
-<h3>Product Hierarcy & Product Price: Thes tables are used only for the bonus question
-where we will use them to recreate the balanced_tree.product_details table.</h3>
+<h3>Event Identifier: The event_identifier table shows the types of events which are captured 
+by Clique Bait’s digital data systems.
+</h3>
 </pre>
 <br></br>
-<h3>balanced_tree.product_hierarchy</h3>
-
-| id | parent_id | level_text          | level_name |
-|----|-----------|---------------------|------------|
-| 1  |           | Womens              | Category   |
-| 2  |           | Mens                | Category   |
-| 3  | 1         | Jeans               | Segment    |
-| 4  | 1         | Jacket              | Segment    |
-| 5  | 2         | Shirt               | Segment    |
-| 6  | 2         | Socks               | Segment    |
-| 7  | 3         | Navy Oversized      | Style      |
-| 8  | 3         | Black Straight      | Style      |
-| 9  | 3         | Cream Relaxed       | Style      |
-| 10 | 4         | Khaki Suit          | Style      |
-| 11 | 4         | Indigo Rain         | Style      |
-| 12 | 4         | Grey Fashion        | Style      |
-| 13 | 5         | White Tee           | Style      |
-| 14 | 5         | Teal Button Up      | Style      |
-| 15 | 5         | Blue Polo           | Style      |
-| 16 | 6         | Navy Solid          | Style      |
-| 17 | 6         | White Striped       | Style      |
-| 18 | 6         | Pink Fluro Polkadot | Style      |
+     
+| event_type | event_name    |
+|------------|---------------|
+| 1          | Page View     |
+| 2          | Add to Cart   |
+| 3          | Purchase      |
+| 4          | Ad Impression |
+| 5          | Ad Click      |
 
 <br></br>
-<h3>balanced_tree.product_prices</h3>
-
-| id | product_id | price |
-|----|------------|-------|
-| 7  | c4a632     | 13    |
-| 8  | e83aa3     | 32    |
-| 9  | e31d39     | 10    |
-| 10 | d5e9a6     | 23    |
-| 11 | 72f5d4     | 19    |
-| 12 | 9ec847     | 54    |
-| 13 | 5d267b     | 40    |
-| 14 | c8d436     | 10    |
-| 15 | 2a2353     | 57    |
-| 16 | f084eb     | 36    |
-| 17 | b9a74d     | 17    |
-| 18 | 2feb6b     | 29    |
 </div>
+</div>
+<br></br>
+<div id="box-shadow-panel">
+    <pre align = "left" class = 'w-para' 
+       style = "
+                font-family: Consolas,monaco,monospace; 
+                padding: 16px 17px;
+                border: 4px solid #000;
+                background-color: rgb(232, 219, 217);
+                color: #000;
+                font-size: 2rem;
+                font-weight: 60;
+                margin-left: 15px;
+                margin-right: 15px;
+                margin-bottom: 10px; 
+               ">
+<h3>Campaign Identifier: This table shows information for the 3 campaigns that Clique Bait has ran 
+on their website so far in 2020.
+</h3>
+</pre>
+<br></br>
+     
+| campaign_id | products | campaign_name                     | start_date          | end_date            |
+|-------------|----------|-----------------------------------|---------------------|---------------------|
+| 1           | 1-3      | BOGOF - Fishing For Compliments   | 2020-01-01 00:00:00 | 2020-01-14 00:00:00 |
+| 2           | 4-5      | 25% Off - Living The Lux Life     | 2020-01-15 00:00:00 | 2020-01-28 00:00:00 |
+| 3           | 6-8      | Half Off - Treat Your Shellf(ish) | 2020-02-01 00:00:00 | 2020-03-31 00:00:00 |
+
+<br></br>
+</div>
+<br></br>
+<div id="box-shadow-panel">
+    <pre align = "left" class = 'w-para' 
+       style = "
+                font-family: Consolas,monaco,monospace; 
+                padding: 16px 17px;
+                border: 4px solid #000;
+                background-color: rgb(232, 219, 217);
+                color: #000;
+                font-size: 2rem;
+                font-weight: 60;
+                margin-left: 15px;
+                margin-right: 15px;
+                margin-bottom: 10px; 
+               ">
+<h3>Page Hierarchy: This table lists all of the pages on the Clique Bait website which are tagged 
+and have data passing through from user interaction events.</h3>
+</pre>
+<br></br>
+     
+| page_id | page_name      | product_category | product_id |
+|---------|----------------|------------------|------------|
+| 1       | Home Page      | null             | null       |
+| 2       | All Products   | null             | null       |
+| 3       | Salmon         | Fish             | 1          |
+| 4       | Kingfish       | Fish             | 2          |
+| 5       | Tuna           | Fish             | 3          |
+| 6       | Russian Caviar | Luxury           | 4          |
+| 7       | Black Truffle  | Luxury           | 5          |
+| 8       | Abalone        | Shellfish        | 6          |
+| 9       | Lobster        | Shellfish        | 7          |
+| 10      | Crab           | Shellfish        | 8          |
+| 11      | Oyster         | Shellfish        | 9          |
+| 12      | Checkout       | null             | null       |
+| 13      | Confirmation   | null             | null       |
+
+<br></br>
 </div>
