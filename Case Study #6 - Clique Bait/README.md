@@ -3,7 +3,7 @@
 <h3 align = "left">For Serious SQL Course visit:  <a href = "https://www.datawithdanny.com/courses/serious-sql"><img width = 60 height = 60 align = "center" src = https://github.com/user-attachments/assets/6c37b5cc-b73b-4a3f-8227-adc5bbf43e5d></a></h3>
 <h3 align = "left">Solutions Implemented using following DB's:  
 <br><br>
-<a href = "https://github.com/user-attachments/assets/dfc24f31-1738-4658-a5e0-b302fbe6953f"><img width = 110 height = 110 align = "center" src = "https://github.com/user-attachments/assets/707ade4e-37a6-4c6f-a9d3-25ee6e6153f1"></a> <a href = "https://github.com/itsmeyogesh22/8-Weeks-SQL-Challenge/tree/34d1a105bbb7891f95b9999fdef74e16af2fbaec/Case%20Study%20%236%20-%20Clique%20Bait/SQL%20Server%20Implementation"><img width = 110 height = 110 align = "center" src = "https://github.com/user-attachments/assets/04fcb916-7003-4eb5-8403-63cec20ce761"></a></h3>
+<a href = "https://github.com/itsmeyogesh22/8-Weeks-SQL-Challenge/tree/78742be78ec92815af1f5f751bec1684d0ed95fa/Case%20Study%20%236%20-%20Clique%20Bait/PostgreSQL%20Implementation"><img width = 110 height = 110 align = "center" src = "https://github.com/user-attachments/assets/707ade4e-37a6-4c6f-a9d3-25ee6e6153f1"></a> <a href = "https://github.com/itsmeyogesh22/8-Weeks-SQL-Challenge/tree/34d1a105bbb7891f95b9999fdef74e16af2fbaec/Case%20Study%20%236%20-%20Clique%20Bait/SQL%20Server%20Implementation"><img width = 110 height = 110 align = "center" src = "https://github.com/user-attachments/assets/04fcb916-7003-4eb5-8403-63cec20ce761"></a></h3>
 </h3>
 <br></br>
 <br></br>
