@@ -28,18 +28,15 @@
                 margin-right: 15px;
                 margin-bottom: 10px; 
                ">
-<h1 align = "left" style="list-style: none;"> Context</h1>
-<h2>"Data Mart is Danny’s latest venture and after running 
+<h1 align = "left" style="list-style: none;"> Context</h1><h2>"Data Mart is Danny’s latest venture and after running 
 international operations for his online supermarket that 
 specialises in fresh produce - Danny is asking for our 
-support to analyse his sales performance."</h2>
-<h4>In June 2020 - large scale supply changes were made at Data Mart.<br>
+support to analyse his sales performance."<br></h2><h4>In June 2020 - large scale supply changes were made at Data Mart.<br>
 All Data Mart products now use sustainable packaging methods in every 
 single step from the farm all the way to the customer.
 Danny needs our help to quantify the impact of this change on 
 the sales performance for Data Mart and it’s separate 
-business areas.</h4>
-<h4>The key business questions Danny wants us to help answer are described below:<br>
+business areas.</h4><h4>The key business questions Danny wants us to help answer are described below:<br>
 <ol>
   <li>What was the quantifiable impact of the changes introduced in June 2020?</li>
   <li>Which platform, region, segment and customer types were the most impacted by this change?</li>
@@ -90,8 +87,7 @@ minimise impact on sales?</li>
                 margin-right: 15px;
                 margin-bottom: 10px; 
                ">
-<h1 align = "left" style="list-style: none;">Available Data</h1>
-<h3>For this case study there is only a single table: data_mart.weekly_sales
+<h1 align = "left" style="list-style: none;">Available Data</h1><h3>For this case study there is only a single table: data_mart.weekly_sales
 </h3>
 </pre>
      
