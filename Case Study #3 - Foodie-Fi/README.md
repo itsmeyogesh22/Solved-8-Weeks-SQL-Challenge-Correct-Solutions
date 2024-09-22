@@ -76,15 +76,15 @@ data to answer important business questions.
                 margin-bottom: 10px; 
                ">
 <h1 align = "left" style="list-style: none;">Available Data | Table 1: plans</h1><h3>For this case study there are two tables.<br><br>Customers can choose which plans to join Foodie-Fi when they first sign up.
+
 1. Basic plan customers have limited access and can only stream their videos and is 
    only available monthly at $9.90.
-
-2) Pro plan customers have no watch time limits and are able to download videos for
+2. Pro plan customers have no watch time limits and are able to download videos for
   offline viewing. Pro plans start at $19.90 a month or $199 for an annual subscription.
-3) Customers can sign up to an initial 7 day free trial will automatically continue with
+3. Customers can sign up to an initial 7 day free trial will automatically continue with
    the pro monthly subscription plan unless they cancel, downgrade to basic or upgrade to
    an annual pro plan at any point during the trial.
-4) When customers cancel their Foodie-Fi service - they will have a churn plan record with
+4. When customers cancel their Foodie-Fi service - they will have a churn plan record with
    a null price but their plan will continue until the end of the billing period.
 </h3>
 </pre>
