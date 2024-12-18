@@ -49,10 +49,6 @@ a LinkedIn post: "These case studies are not like a walk in the park".
   - Refactoring queries for better execution time.
   - Understanding indexing and optimizing joins.
 
-- **Insights and Visualization**:  
-  - Summarizing findings with SQL outputs.
-  - Creating dashboards or charts (using external tools like Tableau or Power BI) based on SQL queries.
-
 - **Problem-Solving Mindset**:  
   - Translating business problems into SQL-driven solutions.
   - Communicating findings in a clear and concise manner.
