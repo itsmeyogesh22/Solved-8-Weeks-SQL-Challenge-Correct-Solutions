@@ -28,7 +28,9 @@ a LinkedIn post: "These case studies are not like a walk in the park".
 </div>
 <br></br>
 <h3 align = "left">For Serious SQL Course visit:  <a href = "https://www.datawithdanny.com/courses/serious-sql"><img width = 60 height = 60 align = "center" src = https://github.com/user-attachments/assets/6c37b5cc-b73b-4a3f-8227-adc5bbf43e5d></a></h3>
+<h3 align = "left">For 8 Weeks SQL Challenge by Danny Ma visit: <a href = "https://8weeksqlchallenge.com/"><img width = 60 height = 60 align = "center" src = https://github.com/user-attachments/assets/106699bf-0c2a-4d4d-9f8f-8a2e21c7552b></a></h3>
 <br></br>
+
 <h2 align = "left" style="list-style: none;"><img width = "75" height = "75" align = "center" src = https://github.com/user-attachments/assets/a2d2a15b-17a9-4b20-abca-0f7fb5b63384> Skills Demonstrated</h2>
 
 - **SQL Query Writing**:  
